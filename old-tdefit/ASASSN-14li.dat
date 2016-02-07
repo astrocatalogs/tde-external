@@ -1,6 +1,6 @@
 name	"ASASSN-14li"
 host	"<a href='http://goo.gl/IE1bPp'>SDSS J124815.23+174626.4</a>"
-citations	"<a href='http://adsabs.harvard.edu/abs/2015arXiv150701598H'>Holoien et al. 2015</a>"
+citations	"<a href='http://adsabs.harvard.edu/abs/2015arXiv150701598H'>Holoien et al. 2015</a>*"
 instruments	"ASAS-SN, LCOGT 1-m, Swift (UVOT, XRT), SNIFS IFU"
 redshift	"0.0206"
 claimedtype	"TDE"
