@@ -1,6 +1,6 @@
 name	"ASASSN-14ae"
 host	"<a href='http://goo.gl/0aHg5G'>SDSS J110840.11+340552.2</a>"
-citations	"<a href='http://arxiv.org/abs/1405.1417v1'>Holoien et al. 2014</a>*&Dagger;"
+citations	"<a href='http://adsabs.harvard.edu/abs/2014MNRAS.445.3263H'>Holoien et al. 2014</a>*&Dagger;"
 instruments	"ASAS-SN, LCOGT 1-m, LG 2-m, Swift"
 redshift	"0.0436"
 claimedtype	"TDE"

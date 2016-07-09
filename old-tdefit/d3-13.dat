@@ -1,6 +1,6 @@
 name	"D3-13"
 host	"<a href='http://goo.gl/LK08LH'>GALEX J141929.8+525206</a>"
-citations	"<a href='http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2006ApJ...653L..25G&db_key=AST&link_type=ABSTRACT&high=4df54da3c231258'>Gezari et al. 2006</a>*&Dagger;, <a href='http://adsabs.harvard.edu/abs/2008ApJ...676..944G'>Gezari et al. 2008</a>"
+citations	"<a href='http://adsabs.harvard.edu/abs/2006ApJ...653L..25G'>Gezari et al. 2006</a>*&Dagger;, <a href='http://adsabs.harvard.edu/abs/2008ApJ...676..944G'>Gezari et al. 2008</a>"
 instruments	"MegaCam (g, r, i, z), GALEX (NUV, FUV), Keck*"
 redshift	"0.3698"
 claimedtype	"TDE"

@@ -1,6 +1,6 @@
 name	"<a href='http://goo.gl/zhGGki'>PTF-09axc</a>"
 host	"<a href='http://goo.gl/zfhVon'>SDSS J145313.07+221432.2</a>"
-citations	"<a href='http://arxiv.org/abs/1405.1415v1'>Arcavi et al. 2014</a>*&Dagger;"
+citations	"<a href='http://adsabs.harvard.edu/abs/2014ApJ...793...38A'>Arcavi et al. 2014</a>*&Dagger;"
 instruments	"P48 (R, g), P60 (g, r, i)"
 redshift	"0.1146"
 claimedtype	"TDE"
