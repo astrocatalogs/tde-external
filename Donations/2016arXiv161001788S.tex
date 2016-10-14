@@ -1,0 +1,50 @@
+\begin{table*}[ht]
+%\begin{table}
+{\small
+\caption{X-ray observation log of \srcname}
+\label{tab:xobs}      % is used to refer this table in the text
+\hfill{}
+\begin{tabular}{l c l l l l l l l}
+\hline\hline                 % inserts double horizontal lines
+Mission$^{a}$ & Date & Exp time$^{b}$ & Flux$^{c}$ & uvw2 & uvm2 & uvw1 & U & B \\
+              &      &   (s)    &    ($10^{-12}$\fluxUnitsns)  & mag & mag & mag & mag & mag \\
+ROSAT  & 1990  & 368  &  $<0.25$  & & & & & \\
+XMM slew  &   2012-08-01  & 3.9  & $<0.7$  & & & & &  \\
+XMM slew  &   2014-03-24  & 2.0  & $<1.7$  & & & & &  \\
+XMM slew  &   2014-04-01  & 10.3  & $4.9\pm{0.7}$  & & & & &  \\
+Swift  & 2014-04-14       &  2435   & $3.2\pm{0.21}$ & $16.35\pm0.03$ & & & & \\ 
+Swift  & 2014-04-22       &  2697   & $0.43\pm{0.21}$ &$16.49\pm0.05$ & & & &  \\
+XMM pointed & 2014-04-30  &  26600  & $0.5\pm{0.15}$ & & & $16.59\pm0.05$ & $15.75\pm0.01$& $15.52\pm0.01$ \\
+Swift & 2014-05-05      &  1895   & $0.41\pm{0.12}$ & $16.80\pm0.10$& $16.94\pm0.08$&  $16.63\pm0.10$& & \\
+Swift & 2014-05-12       &  2028  & $1.4\pm{0.12}$ & $17.07\pm0.10$& $17.11\pm0.10$&  $16.66\pm0.03$& & \\
+Swift  & 2014-05-19       &  1399  & $0.36\pm{0.12}$ & $17.14\pm0.10$ & $17.23\pm0.20$& $16.76\pm0.03$ & &  \\
+Swift  & 2014-05-26       &  509   & $0.35\pm{0.22}$ & &  & & & \\
+Swift & 2014-05-31       &  1354  & $1.1\pm{0.12}$ & $17.10\pm0.06$&$17.22\pm0.07$ &  $16.68\pm0.04$& & \\
+Swift  & 2014-07-04       &  954   & $0.40\pm{0.15}$ & $17.51\pm0.3$ & $17.52\pm0.10$ &  $17.24\pm0.40$& & \\
+Swift  & 2014-08-01       &  2482  & $0.41\pm{0.12}$ & $17.52\pm0.08$&$17.77\pm0.10$ &  $16.99\pm0.03$ & &  \\
+Swift  & 2014-08-29       &  1651  & $0.16\pm{0.12}$ & $17.28\pm0.10$ & $17.45\pm0.09$&  $16.96\pm0.04$& & \\
+Swift  & 2014-09-26       &  2485  & $0.33\pm{0.12}$ & $17.40\pm0.05$& $17.56\pm0.09$&  $17.10\pm0.08$& & \\
+Swift  & 2014-10-24       &  2073  & $0.20\pm{0.11}$ & $17.53\pm0.05$& $17.58\pm0.09$&  $17.01\pm0.04$& & \\
+Swift  & 2014-11-21       &  137  & $0.30\pm{0.24}$ & $17.54\pm0.13$& & & & \\
+Swift  & 2014-11-26       &  2472  & $0.21\pm{0.14}$ & $17.55\pm0.10$ & $17.72\pm0.15$&  $16.98\pm0.06$& & \\
+XMM pointed & 2015-01-12  &  16100 & $0.30\pm{0.01}$ & & & $17.2\pm0.1$ & $15.92\pm0.01$& $15.60\pm0.01$ \\
+Swift  & 2015-09-20       &  1890  & $<0.07$ & $19.0\pm0.3$ & $18.88\pm0.21$ &  $17.41\pm0.20$& & \\
+\hline                        % inserts single horizontal line
+\end{tabular}}
+\hfill{}
+\\
+\\
+$^{a}$ \xmmns, EPIC-pn camera: slew observations performed in {\em full frame}
+mode with
+the {\em medium} filter; pointed observations performed in {\em full frame} mode with
+the {\em thin1} filter. \swiftns-XRT observations performed in {\em pc} mode. 
+ROSAT sky survey data taken between 1990-08-12 and 1991-02-18.\\
+$^{b}$ Exposure time in seconds. For the two XMM pointed observations, this is the
+remaining exposure after removing times of high background flares. \\
+$^{c}$ Absorbed flux in the 0.2-2 keV band, calculated by
+fitting the spectrum of each observation with a two-component model of 
+a power-law plus black-body
+absorbed by a Galactic column of $1.5\times10^{21}$cm$^{-2}$. Upper limits
+have been calculated using a power-law model of slope 2.9 absorbed by the
+Galactic column.\\
+\end{table*}
