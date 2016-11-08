@@ -1,7 +1,7 @@
 # SN2007D magnitudes from Swift UVOT                                                        
-# generated Fri Oct 2 17:08:58 CDT 2015 using version 2015.1                                         
+# generated Mon Aug 29 12:41:03 CDT 2016 using version 2015.1                                         
 # of Peter Brown's photometry pipeline                                                      
-# and version Swift_Rel4.2(Bld31)_25Nov2013 of HEASOFT                                                      
+# and version Swift_Rel4.5(Bld34)_27Jul2015 of HEASOFT                                                      
 #                                                                                         
 # Data comes from the Swift Data Center                                                   
 # A 5 arcsec aperture is used to measure the counts for the coincidence loss correction,  
@@ -26,6 +26,10 @@
 # in a 5 arcsec aperture at the source position  
 # (missing filters list 0 but used a background region similar to the SN ):                 
 # Galaxy count rates in 5" aperture
+# V               3.73437       0.384515
+# B               4.58692       0.471883
+# U              0.997653       0.149447
+# UVW1          0.0711603      0.0306778
 #                                                                                           
 # There are no known issues with this photometry.                                           
 #                                                                                           
@@ -33,13 +37,13 @@
 #                                                                                           
 #                                                                                           
 #                                                                                           
-UVW1     54117.8475    NULL    NULL  20.328  11.151  -0.032   0.022  3.0  0.0110    1546.87   17719.55
-UVW1     54118.4117  20.245   0.159  21.282  11.148   0.075   0.011  3.0  0.0110    5234.47   24019.71
+UVW1     54117.8475  20.277   0.294  20.574  11.148   0.073   0.020  3.0  0.0110    1546.87   17719.55
+UVW1     54118.4117  20.080   0.216  20.748  11.148   0.088   0.017  3.0  0.0110    5234.47   24019.71
 #                                                                                           
 #                                                                                           
-B        54117.6140  18.107   0.080  20.205  12.909   2.518   0.185  3.0  0.0110     829.70   11750.74
-B        54118.1780  18.446   0.121  19.840  12.923   1.843   0.206  3.0  0.0110     486.87    6563.12
+B        54117.6140  18.007   0.126  19.530  12.898   2.761   0.320  3.0  0.0110     829.70   11750.74
+B        54118.1780  18.099   0.138  19.487  12.899   2.537   0.322  3.0  0.0110     486.87    6563.12
 #                                                                                           
-V        54117.6119  17.318   0.085  19.248  11.660   1.693   0.133  3.0  0.0110     913.67   11807.48
-V        54118.1749  17.565   0.120  18.959  11.660   1.348   0.149  3.0  0.0110     540.86    6260.02
+V        54117.6119  17.394   0.181  18.320  11.657   1.579   0.263  3.0  0.0110     913.67   11807.48
+V        54118.1749  17.527   0.205  18.291  11.657   1.397   0.264  3.0  0.0110     540.86    6260.02
 #                                                                                           

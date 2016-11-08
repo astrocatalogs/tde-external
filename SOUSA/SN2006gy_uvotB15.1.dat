@@ -1,7 +1,7 @@
 # SN2006gy magnitudes from Swift UVOT                                                        
-# generated Fri Oct 2 16:36:08 CDT 2015 using version 2015.1                                         
+# generated Wed Aug 31 16:23:32 CDT 2016 using version 2015.1                                         
 # of Peter Brown's photometry pipeline                                                      
-# and version Swift_Rel4.2(Bld31)_25Nov2013 of HEASOFT                                                      
+# and version Swift_Rel4.5(Bld34)_27Jul2015 of HEASOFT                                                      
 #                                                                                         
 # Data comes from the Swift Data Center                                                   
 # A 5 arcsec aperture is used to measure the counts for the coincidence loss correction,  
@@ -26,30 +26,22 @@
 # in a 5 arcsec aperture at the source position  
 # (missing filters list 0 but used a background region similar to the SN ):                 
 # Galaxy count rates in 5" aperture
-# U               6.17520       0.298186
-# UVW1           0.810075      0.0514675
-# UVM2           0.159093      0.0158926
-# UVW2           0.319216      0.0238535
+# V               19.3158       0.797474
+# B               21.3447       0.936247
+# U               6.27661       0.296127
+# UVW1           0.789930      0.0465952
+# UVM2           0.148078      0.0128033
+# UVW2           0.305576      0.0201932
 #                                                                                           
-# There are no known issues with this photometry.                                           
+# V and B count rates are really high, so the data is excluded.                                           
 #                                                                                           
 # Filter MJD[days] Mag MagErr 3SigMagLim 0.98SatLim[mag] Rate[c/s] RateErr[c/s] Ap[arcsec] Frametime[s] Exp[s] Telapse[s]
 #                                                                                           
-UVW2     54037.9988  19.789   0.280  20.507  11.089   0.109   0.028  3.0  0.0110    2544.88   12367.15
-UVW2     54151.0747    NULL    NULL  20.340  11.090   0.011   0.025  3.0  0.0110    1428.44   11805.78
+UVW2     54037.9988  19.823   0.273  20.642  11.089   0.105   0.027  3.0  0.0110    2544.88   12367.15
 #                                                                                           
-UVM2     54038.0439    NULL    NULL  19.508  10.557   0.007   0.025  3.0  0.0110     342.71    5506.98
-UVM2     54151.0804    NULL    NULL  19.997  10.557  -0.013   0.017  3.0  0.0110    1000.92   11790.83
+UVM2     54038.0439    NULL    NULL  19.574  10.557   0.014   0.023  3.0  0.0110     342.71    5506.98
 #                                                                                           
-UVW1     54037.9863  18.184   0.151  19.749  11.156   0.504   0.070  3.0  0.0110    1328.78   11907.58
-UVW1     54151.0679    NULL    NULL  19.566  11.158  -0.001   0.052  3.0  0.0110     713.88   11447.58
+UVW1     54037.9863  18.169   0.143  19.887  11.156   0.511   0.067  3.0  0.0110    1328.78   11907.58
 #                                                                                           
-U        54037.9900  16.446   0.101  18.904  12.128   5.722   0.532  3.0  0.0110     664.48   11707.11
-U        54151.0698    NULL    NULL  18.821  12.140  -0.007   0.271  3.0  0.0110     356.63   11376.50
-#                                                                                           
-B        54037.9925  15.838   0.056  19.720  13.017  20.355   1.046  3.0  0.0110     664.47   11715.14
-B        54151.0712  17.665   0.101  19.389  13.078   3.786   0.352  3.0  0.0110     356.63   11403.63
-#                                                                                           
-V        54038.0422  14.809   0.059  18.048  11.775  17.080   0.924  3.0  0.0110     250.51    5308.38
-V        54151.0778  16.435   0.093  18.276  11.808   3.818   0.326  3.0  0.0110     356.60   11537.81
+U        54037.9900  16.446   0.100  18.980  12.130   5.724   0.527  3.0  0.0110     664.48   11707.11
 #                                                                                           

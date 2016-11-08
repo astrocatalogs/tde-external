@@ -1,7 +1,7 @@
 # SN2013am magnitudes from Swift UVOT                                                        
-# generated Tue Feb 2 11:44:38 CST 2016 using version 2015.1                                         
+# generated Thu Aug 25 09:47:04 CDT 2016 using version 2015.1                                         
 # of Peter Brown's photometry pipeline                                                      
-# and version Swift_Rel4.2(Bld31)_25Nov2013 of HEASOFT                                                      
+# and version Swift_Rel4.5(Bld34)_27Jul2015 of HEASOFT                                                      
 #                                                                                         
 # Data comes from the Swift Data Center                                                   
 # A 5 arcsec aperture is used to measure the counts for the coincidence loss correction,  
