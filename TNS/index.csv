@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"19668","AT 2017cvy","21:04:19.75","+21:24:16.34","","","","","GaiaAlerts","GaiaAlerts","Gaia17axz","1","1","","18.77","G-Gaia","2017-04-04 05:58:33","Gaia_Bot1",""
+"19688","AT 2017cws","10:16:01.21","+47:02:54.47","","","","","Pan-STARRS1","Pan-STARRS1","PS17cdn","1","1","","20.14","i-Sloan","2017-04-03 08:31:12","PS1_Bot1",""
