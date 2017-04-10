@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"19713","AT 2017cxr","20:34:38.77","+25:03:37.98","","","","","GaiaAlerts","GaiaAlerts","Gaia17ayj","1","1","","18.5","G-Gaia","2017-04-06 01:40:48","Gaia_Bot1",""
+"19720","AT 2017cxy","18:23:17.93","-43:08:30.73","","","ESO 280- G 013","0.020104","ASAS-SN","ASAS-SN","ASASSN-17eb","1","1","","16.4","V-Johnson","2017-04-08 07:12:00","Stanek",""
