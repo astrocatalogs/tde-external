@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"19771","AT 2017czx","17:16:38.46","+39:56:24.30","","","SDSS J171638.40+395624.4 ","","TNTS","TNTS","","1","1","","18.3","Clear-","2017-04-12 20:24:00","Li",""
+"19776","AT 2017dac","18:58:11.11","+46:27:55.09","","","GALEXASC J185811.14+462756.4","","PTSS","PTSS","<a href="http//www.cneost.org/ptss/findname.php?ptssname=PTSS-17opl">PTSS-17opl</a>","1","1","","16.483","r-Sloan","2017-04-14 19:49:20","Li",""
