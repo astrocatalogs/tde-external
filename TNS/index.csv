@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"19940","AT 2017dgk","09:54:41.72","-26:35:01.60","","","","","","","","1","1","","18.1","Clear-","2017-04-21 22:31:42","Cacella",""
+"19941","AT 2017dgl","16:29:16.54","-01:19:53.73","","","SDSS J162916.23-011958.9","","PTSS","PTSS","PTSS-17qrv","1","1","","19.1","r-Sloan","2017-04-23 17:52:06","Li",""
