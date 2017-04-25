@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"19941","AT 2017dgl","16:29:16.54","-01:19:53.73","","","SDSS J162916.23-011958.9","","PTSS","PTSS","PTSS-17qrv","1","1","","19.1","r-Sloan","2017-04-23 17:52:06","Li",""
+"19973","AT 2017dhr","05:46:47.27","-16:47:00.30","","","NGC 2076","0.007145","ASAS-SN","ASAS-SN","ASASSN-17fk","1","1","","16.4","V-Johnson","2017-04-20 23:31:12","Stanek",""
