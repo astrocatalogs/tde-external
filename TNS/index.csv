@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"21462","AT 2017fmr","20:01:07.66","-44:18:33.33","","","","","","","","1","1","","16.8","Clear-","2017-07-15 01:07:38","Cacella",""
+"21472","AT 2017fnb","23:43:16.97","-07:17:25.67","","","","","ATLAS","ATLAS","ATLAS17ipd","1","1","","18.29","orange-ATLAS","2017-07-15 14:51:21","ATLAS_Bot1",""
