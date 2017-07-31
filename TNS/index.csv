@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"21659","SN 2015cg","01:10:24.10","+23:21:27.00","SN Ia-91T-like","","","","SKYS","SKYS","SKYS15e","1","1","","17.7","g-Sloan","2015-11-05 15:36:00","Jiang",""
+"21675","AT 2017fus","21:00:39.80","-28:51:25.40","","","ESO-464-G12","","BOSS","BOSS","","1","1","","18","Other-","2017-07-29 10:21:21","Parker",""
