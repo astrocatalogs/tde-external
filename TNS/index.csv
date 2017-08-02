@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"21675","AT 2017fus","21:00:39.80","-28:51:25.40","","","ESO-464-G12","","BOSS","BOSS","","1","1","","18","Other-","2017-07-29 10:21:21","Parker",""
+"21695","AT 2017fvl","02:55:42.59","+75:09:13.72","","","UGC 02358","0.014343","ASAS-SN","ASAS-SN","ASASSN-17kf","1","1","","16.1","V-Johnson","2017-08-01 14:38:24","Stanek",""
