@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"22063","AT 2017gjn","02:43:48.41","+32:31:33.70","","","NGC 1067","","XOSS","XOSS","PSP17A","1","1","","15.4","Clear-","2017-08-29 20:38:17","Xu",""
+"22071","AT 2017gjv","06:26:01.53","-03:55:22.98","","","","","GaiaAlerts","GaiaAlerts","Gaia17cdo","1","1","","17.14","G-Gaia","2017-08-23 17:34:04","Gaia_Bot1",""
