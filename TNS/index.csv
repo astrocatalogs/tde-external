@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"22104","AT 2017glc","00:44:08.72","+41:43:36.70","","","M31","","XOSS","XOSS","","1","1","","18.6","Clear-","2017-09-01 18:36:09","Sun",""
+"22109","AT 2003mb","12:59:30.92","+40:36:07.27","","","IC 3993","0.065652","","","CVM_001","1","1","","17.93","r-Sloan","2003-04-26 00:00:00","Jonkeren",""
