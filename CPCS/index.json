@@ -1,6 +1,6 @@
 [{"id":26716,"ivorn":"ivo://Gaia17cfs","published":"2017-09-14T03:29:17","ra":17.8647083333,"dec":31.0238055556,"nfollowup":3}, 
  {"id":26715,"ivorn":"ivo://Gaia17cgm","published":"2017-09-14T02:30:06","ra":11.3562083333,"dec":39.8478888889,"nfollowup":3}, 
- {"id":26714,"ivorn":"ivo://BH Lyn","published":"2017-09-13T06:35:10","ra":125.65,"dec":51.0901944444,"nfollowup":3}, 
+ {"id":26714,"ivorn":"ivo://BH Lyn","published":"2017-09-13T06:35:10","ra":125.65,"dec":51.0901944444,"nfollowup":4}, 
  {"id":26713,"ivorn":"ivo://Gaia17bje","published":"2017-09-12T14:31:52","ra":1.14901,"dec":20.32842,"nfollowup":1}, 
  {"id":26712,"ivorn":"ivo://gaia.cam.uk/alerts#Gaia17chf","published":"2017-09-12T03:24:12","ra":325.841,"dec":73.6868888889,"nfollowup":65}, 
  {"id":26711,"ivorn":"ivo://Gaia17cez","published":"2017-09-09T02:14:29","ra":291.361,"dec":46.0415,"nfollowup":3}, 
