@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"22470","AT 2017gwy","22:23:34.51","+11:51:36.00","","","UGC 12017","","POSS","POSS","","1","1","","18","Clear-","2017-09-26 04:04:58","Puckett",""
+"22555","AT 2017haf","23:56:21.82","+32:27:24.08","","","2MASX J23562219+3227266","0.0161","ASAS-SN","ASAS-SN","ASASSN-17mz","1","1","","16","V-Johnson","2017-09-30 12:00:00","Stanek",""
