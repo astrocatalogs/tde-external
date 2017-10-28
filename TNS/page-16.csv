@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"20927","AT 2017esg","13:43:24.46","-30:22:06.31","","","","","ATLAS","ATLAS","ATLAS17gzb","1","1","","17.92","orange-ATLAS","2017-06-05 07:46:33","ATLAS_Bot1",""
 "20928","AT 2017esh","13:28:53.61","-29:35:53.69","","","","","ATLAS","ATLAS","ATLAS17gzj","1","1","","17.79","orange-ATLAS","2017-06-05 07:30:43","ATLAS_Bot1",""
 "20929","AT 2017esi","13:13:41.24","-04:17:13.61","","","","","ATLAS","ATLAS; GaiaAlerts","ATLAS17hai","1","1","","18.74","orange-ATLAS","2017-06-13 07:43:40","ATLAS_Bot1",""
 "20930","AT 2017esj","09:15:14.70","+54:16:13.54","","","","","ATLAS","ATLAS","ATLAS17hag","1","1","","18.34","orange-ATLAS","2017-06-10 06:50:23","ATLAS_Bot1",""
@@ -998,4 +999,3 @@
 "21930","AT 2017gek","22:09:04.16","-11:45:11.75","","","","","Pan-STARRS1","Pan-STARRS1","PS17eft","1","1","","18.88","w-PS1","2017-08-01 11:22:33","PS1_Bot1",""
 "21931","AT 2017gel","18:29:16.75","+52:23:00.62","","","","","Pan-STARRS1","Pan-STARRS1","PS17efs","1","1","","20.61","i-Sloan","2017-08-01 07:45:07","PS1_Bot1",""
 "21932","AT 2017gem","02:01:21.96","+18:58:58.74","","","","","Pan-STARRS1","Pan-STARRS1","PS17efv","1","1","","21.47","w-PS1","2017-08-04 13:33:35","PS1_Bot1",""
-"21933","AT 2017gen","22:17:37.76","-12:27:10.65","","","","","Pan-STARRS1","Pan-STARRS1","PS17efu","1","1","","22.04","w-PS1","2017-08-01 11:25:26","PS1_Bot1",""

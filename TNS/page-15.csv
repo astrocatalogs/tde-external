@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"19922","AT 2017dfs","08:02:25.98","+46:01:14.43","","","","","ATLAS","ATLAS; GaiaAlerts","ATLAS17esc","1","1","","18.1","orange-ATLAS","2017-04-11 07:12:00","ATLAS_Bot1",""
 "19923","SN 2017dft","10:57:32.06","-14:50:06.06","SN Ia","0.025","","","ATLAS","ATLAS","ATLAS17eru","1","1","","18.02","orange-ATLAS","2017-04-16 09:54:43","ATLAS_Bot1",""
 "19924","SN 2017dfu","08:19:09.21","-16:29:44.51","SN Ia","0.045","","","ATLAS","ATLAS","ATLAS17esd","1","1","","18.14","orange-ATLAS","2017-04-16 06:57:36","ATLAS_Bot1",""
 "19925","SN 2017dfv","05:00:36.05","-62:04:13.37","SN Ia","0.028","ESO 119-IG 027 NED02","0.028086","ASAS-SN","ASAS-SN; GaiaAlerts","ASASSN-17fg","1","1","","16.6","V-Johnson","2017-04-19 23:45:36","Stanek",""
@@ -998,4 +999,3 @@
 "20924","AT 2017esd","13:33:52.53","+07:02:44.99","","","","","ATLAS","ATLAS","ATLAS17gza","1","1","","18.71","orange-ATLAS","2017-05-13 10:20:38","ATLAS_Bot1",""
 "20925","AT 2017ese","12:56:06.99","-12:23:25.89","","","","","ATLAS","ATLAS; GaiaAlerts","ATLAS17gzc","1","1","","18.65","orange-ATLAS","2017-06-06 08:15:21","ATLAS_Bot1",""
 "20926","AT 2017esf","12:51:11.13","-12:14:11.78","","","","","ATLAS","ATLAS","ATLAS17gzd","1","1","","18.69","orange-ATLAS","2017-06-13 07:16:19","ATLAS_Bot1",""
-"20927","AT 2017esg","13:43:24.46","-30:22:06.31","","","","","ATLAS","ATLAS","ATLAS17gzb","1","1","","17.92","orange-ATLAS","2017-06-05 07:46:33","ATLAS_Bot1",""
