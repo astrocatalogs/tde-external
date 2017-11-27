@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"23578","AT 2017imy","23:37:37.62","-60:43:57.22","","","GALEXASC J233737.23-604356.4","","ASAS-SN","ASAS-SN","ASASSN-17pv","1","1","","17.6","g-Sloan","2017-11-25 00:43:12","Stanek",""
+"23584","AT 2017inb","02:18:05.99","+38:04:45.90","","0.017","UGC 01767 ","0.017","TNTS","TNTS","","1","1","","18.6","Clear-","2017-11-25 14:24:00","Li",""
