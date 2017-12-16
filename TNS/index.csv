@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"23865","AT 2017ixg","23:20:30.57","+24:46:39.40","","","2MASX J23203073+2446317","","TNTS","TNTS","","1","1","","17.57","Clear-","2017-12-14 11:09:33","li",""
+"23874","AT 2017ixp","02:27:36.60","-20:42:56.20","","","2MASX J02273684-2042513","","ASAS-SN","ASAS-SN","ASASSN-17qt","1","1","","18","g-Sloan","2017-12-16 01:55:12","Stanek",""
