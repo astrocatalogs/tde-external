@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"24042","AT 2017jea","07:14:59.80","+46:22:42.24","","","2MASX J07150015+4622455","","ASAS-SN","ASAS-SN","ASASSN-17rl","1","1","","18.2","g-Sloan","2017-12-23 05:45:36","Stanek",""
+"24046","AT 2017jee","23:45:52.33","-03:57:00.00","","","","","ATLAS","ATLAS","ATLAS17nvm","1","1","","18.848","cyan-ATLAS","2017-12-23 05:58:33","ATLAS_Bot1",""
