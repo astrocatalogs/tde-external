@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"24577","AT 2018L","10:23:09.24","+57:02:34.90","","","NGC3214","0.02582","POSS","POSS","","1","1","","17.6","Clear-","2018-01-03 11:21:08","Post",""
+"24586","AT 2018O","06:00:41.95","-63:50:23.20","","","OGLE-GAL-LMC603.30-919.953-3259.850","","OGLE","OGLE","","1","1","","19.415","I-Cousins","2018-01-03 08:06:25","Wyrzykowski",""
