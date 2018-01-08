@@ -616,7 +616,7 @@
 "22602","SN 2017hca","08:49:41.07","-08:05:31.25","SN II","0.0134","","","ATLAS","ATLAS; GaiaAlerts; Pan-STARRS1","ATLAS17lsr","1","1","","16.155","orange-ATLAS","2017-09-28 14:15:21","ATLAS_Bot1",""
 "22603","SN 2017hcb","02:36:23.72","+31:42:34.83","SN Ib","0.017","","","ATLAS","ATLAS","ATLAS17lss","1","1","","18.337","cyan-ATLAS","2017-09-23 12:50:24","ATLAS_Bot1",""
 "22604","SN 2017hcc","00:03:50.58","-11:28:28.78","SN IIn","0.0173","","","ATLAS","ATLAS; GaiaAlerts; Pan-STARRS1","ATLAS17lsn","1","1","","17.444","orange-ATLAS","2017-10-02 09:04:19","ATLAS_Bot1",""
-"22605","SN 2017hcd","01:42:51.83","+31:28:56.57","SN IIn","0.035","","","ATLAS","ATLAS; GaiaAlerts; Pan-STARRS1","ATLAS17lui","1","1","","18.634","orange-ATLAS","2017-10-01 11:32:38","ATLAS_Bot1",""
+"22605","SN 2017hcd","01:42:51.83","+31:28:56.57","SN IIn","0.035","","","ATLAS","ATLAS; GaiaAlerts; Pan-STARRS1; SKYS","ATLAS17lui","1","1","","18.634","orange-ATLAS","2017-10-01 11:32:38","ATLAS_Bot1",""
 "22606","AT 2017hce","19:51:07.55","+50:33:47.18","","","","","ATLAS","ATLAS; Pan-STARRS1","ATLAS17ltq","1","1","","19.039","orange-ATLAS","2017-09-30 07:49:26","ATLAS_Bot1",""
 "22607","AT 2017hcf","00:21:57.72","-19:35:27.71","","","","","ATLAS","ATLAS","ATLAS17lte","1","1","","18.173","cyan-ATLAS","2017-09-21 11:00:57","ATLAS_Bot1",""
 "22608","AT 2017hcg","00:00:31.63","-27:09:49.78","","","","","ATLAS","ATLAS","ATLAS17lsx","1","1","","18.322","cyan-ATLAS","2017-09-21 10:48:00","ATLAS_Bot1",""
