@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"24861","AT 2017jzx","09:05:59.78","+35:22:24.00","","","NGC 2746","","","","","1","1","","17","Clear-","2017-01-19 11:52:07","Itagaki",""
+"24871","AT 2018iz","05:07:01.44","-35:55:13.69","","","","","ASAS-SN","ASAS-SN","ASASSN-18ay","1","1","","13.5","g-Sloan","2018-01-20 03:07:12","Stanek",""
