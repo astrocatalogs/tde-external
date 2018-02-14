@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"25150","AT 2018tk","04:23:20.80","+75:19:28.00","","","","","","","","1","1","","19.12","Clear-","2018-02-13 01:36:16","Sherrod",""
+"25168","AT 2018uc","09:15:40.97","+21:22:21.29","","","","","Pan-STARRS1","Pan-STARRS1","PS18ir","1","1","","22.35","w-PS1","2018-02-12 08:23:59","PS1_Bot1","KEGS-C16"
