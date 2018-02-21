@@ -1,2 +1,2 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Source Group","Associated Group/s","Disc. Internal Name","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"25244","AT 2018wz","12:19:51.00","+06:59:28.00","","","PGC39725","","ISSP","ISSP","","1","1","","18.3","Clear-","2018-02-16 02:20:43","Briganti",""
+"25267","AT 2018xw","08:40:50.53","+24:28:42.22","","","SDSS J084050.53+242842.2","0.474","","","C16-0070","1","1","","20.643","i-Sloan","2018-01-25 17:03:17","Narayan",""
