@@ -1,0 +1,843 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="/ps1threepi/site_media/css/main.css" type="text/css"/>
+
+<title>Followup List</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body>
+
+<div id="quickfollowup">
+<nav id="navigation">
+<ul>
+
+<li><a HREF="../">home</a></li>
+<li><a HREF="../public_quickview/">object quickview list</a></li>
+
+
+<li>
+
+
+<form id="search_form" action="/ps1threepi/searchresults/" method="post"><input type='hidden' name='csrfmiddlewaretoken' value='LeJcpy7C2fORH69T6K9aDMOYZzaI0E2q' />
+    
+    <div class="fieldWrapper">
+    <p>
+        
+        <input id="id_searchText" name="searchText" size="20" type="text" />
+    <input type="submit" value="Find Object" name="find_object" /></p>
+    </div>
+</form>
+</li>
+
+</ul>
+</nav>
+
+<section id="table_layout">
+<article id="followup_table">
+<header id="followup_list">
+<hgroup>
+
+   <h1>Object List</h1>
+
+
+<h2>(13221)</h2>
+</hgroup>
+</header>
+
+<table class="followuplists_standardview">
+
+<tr>
+  
+  <th>
+    
+      <a href="?sort=ps1_designation">
+        Ps1 designation
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=RA">
+        RA
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=DEC">
+        DEC
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=object_classification">
+        Machine Classification
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=sherlockClassification">
+        Context Classification
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=-followup_flag_date">
+        Flag Date
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=observation_status">
+        Spectral Type
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=earliest_mjd">
+        Earliest mjd
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=earliest_mag">
+        Earliest mag
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=earliest_filter">
+        Earliest filter
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=latest_mjd">
+        Latest mjd
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=latest_mag">
+        Latest mag
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=latest_filter">
+        Latest filter
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=catalogue">
+        Catalogue
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=catalogue_object_id">
+        Nearest Object
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=separation">
+        Separation (arcsec)
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=confidence_factor">
+        RB Factor
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      External Crossmatches
+    
+  </th>
+  
+</tr>
+
+
+  
+  <tr>
+  <td><a href="../candidate/1132704830033457200/">PS18pa</a></td>
+  <td>13:27:04.83</td>
+  <td>-03:34:57.2</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>April 14, 2018</td>
+  <td></td>
+  <td>58221.42237</td>
+  <td>19.76</td>
+  <td>w</td>
+  <td>58221.45833</td>
+  <td>19.54</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>LCRS B132429.7-031921</td>
+  <td>3.63</td>
+  <td>0.96</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018axa">AT2018axa</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1132940260044119000/">PS18oc</a></td>
+  <td>13:29:40.26</td>
+  <td>-04:41:19.0</td>
+  <td>kepler sn</td>
+  <td>SN</td>
+  <td>April 14, 2018</td>
+  <td></td>
+  <td>58221.40931</td>
+  <td>20.37</td>
+  <td>r</td>
+  <td>58221.45769</td>
+  <td>20.34</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J13294000-0441211</td>
+  <td>4.10</td>
+  <td>0.90</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018auo">AT2018auo</a> <a href="http://www.astronomerstelegram.org/?read=11557">ATel 11557</a> <a href="http://wis-tns.weizmann.ac.il/object/2018auo">SN2018auo</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1134227540033902500/">PS18pb</a></td>
+  <td>13:42:27.54</td>
+  <td>-03:39:02.5</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>April 14, 2018</td>
+  <td></td>
+  <td>58221.42384</td>
+  <td>20.99</td>
+  <td>w</td>
+  <td>58221.45982</td>
+  <td>21.21</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>LCRS B133952.3-032358</td>
+  <td>3.52</td>
+  <td>0.89</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018awu">AT2018awu</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1134227570033902500/">PS18pb</a></td>
+  <td>13:42:27.57</td>
+  <td>-03:39:02.5</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>April 14, 2018</td>
+  <td></td>
+  <td>58221.40790</td>
+  <td>21.40</td>
+  <td>r</td>
+  <td>58221.45982</td>
+  <td>21.21</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>LCRS B133952.3-032358</td>
+  <td>3.08</td>
+  <td>0.89</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018awu">AT2018awu</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1135411310054042600/">PS18rf</a></td>
+  <td>13:54:11.31</td>
+  <td>-05:40:42.6</td>
+  <td>nt</td>
+  <td>SN</td>
+  <td>April 14, 2018</td>
+  <td></td>
+  <td>58221.42578</td>
+  <td>20.73</td>
+  <td>w</td>
+  <td>58221.46176</td>
+  <td>20.72</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 20.75</td>
+  <td>0.37</td>
+  <td>0.98</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018azt">AT2018azt</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1140130000222342000/">PS18pc</a></td>
+  <td>14:01:30.00</td>
+  <td>-22:23:42.0</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>April 14, 2018</td>
+  <td></td>
+  <td>58221.47856</td>
+  <td>20.42</td>
+  <td>w</td>
+  <td>58221.51284</td>
+  <td>20.44</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J14012984-2223393</td>
+  <td>3.64</td>
+  <td>0.98</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018awv">AT2018awv</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1140252810012656500/">PS18pd</a></td>
+  <td>14:02:52.81</td>
+  <td>-01:26:56.5</td>
+  <td>sn</td>
+  <td>NT</td>
+  <td>April 14, 2018</td>
+  <td></td>
+  <td>58221.42714</td>
+  <td>19.57</td>
+  <td>w</td>
+  <td>58221.46382</td>
+  <td>19.62</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J14025278-0126569</td>
+  <td>0.80</td>
+  <td>0.96</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018aww">AT2018aww</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1140542980172348400/">PS18pe</a></td>
+  <td>14:05:42.98</td>
+  <td>-17:23:48.4</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>April 14, 2018</td>
+  <td></td>
+  <td>58221.47985</td>
+  <td>18.40</td>
+  <td>w</td>
+  <td>58221.51413</td>
+  <td>18.43</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J14054298-1723516</td>
+  <td>3.20</td>
+  <td>0.97</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018awx">AT2018awx</a> <a href="http://www.astronomerstelegram.org/?read=11560">ATel 11560</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1140736600193524700/">PS18pf</a></td>
+  <td>14:07:36.60</td>
+  <td>-19:35:24.7</td>
+  <td>orphan</td>
+  <td>SN</td>
+  <td>April 14, 2018</td>
+  <td></td>
+  <td>58221.47791</td>
+  <td>20.66</td>
+  <td>w</td>
+  <td>58221.51219</td>
+  <td>20.61</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>0.86</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018axb">AT2018axb</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1141458050220529800/">PS18pg</a></td>
+  <td>14:14:58.05</td>
+  <td>-22:05:29.8</td>
+  <td>orphan</td>
+  <td>ORPHAN</td>
+  <td>April 14, 2018</td>
+  <td></td>
+  <td>58221.48205</td>
+  <td>18.56</td>
+  <td>w</td>
+  <td>58221.51632</td>
+  <td>18.56</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>0.94</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018axc">AT2018axc</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1145140830153401700/">PS18ph</a></td>
+  <td>14:51:40.83</td>
+  <td>-15:34:01.7</td>
+  <td>orphan</td>
+  <td>UNCLEAR</td>
+  <td>April 14, 2018</td>
+  <td></td>
+  <td>58221.48540</td>
+  <td>19.79</td>
+  <td>w</td>
+  <td>58221.51967</td>
+  <td>19.78</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>0.73</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018axw">AT2018axw</a> <a href="http://www.astronomerstelegram.org/?read=11560">ATel 11560</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1145538520213518700/">PS18qh</a></td>
+  <td>14:55:38.52</td>
+  <td>-21:35:18.7</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>April 14, 2018</td>
+  <td></td>
+  <td>58221.48670</td>
+  <td>20.26</td>
+  <td>w</td>
+  <td>58221.52097</td>
+  <td>20.24</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>ESO 581- G 001</td>
+  <td>15.31</td>
+  <td>0.95</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018azs">AT2018azs</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1162558190081926900/">PS18ql</a></td>
+  <td>16:25:58.19</td>
+  <td>-08:19:26.9</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>April 15, 2018</td>
+  <td></td>
+  <td>58222.60161</td>
+  <td>18.66</td>
+  <td>w</td>
+  <td>58222.60881</td>
+  <td>18.67</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J16255826-0819283</td>
+  <td>2.10</td>
+  <td>0.87</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018ayu">AT2018ayu</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1151521480115013600/">PS18qn</a></td>
+  <td>15:15:21.48</td>
+  <td>-11:50:13.6</td>
+  <td>orphan</td>
+  <td>SN</td>
+  <td>April 17, 2018</td>
+  <td></td>
+  <td>58224.51950</td>
+  <td>21.14</td>
+  <td>w</td>
+  <td>58224.55693</td>
+  <td>21.16</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>0.98</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018ayh">AT2018ayh</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1151825290085443400/">PS18rj</a></td>
+  <td>15:18:25.29</td>
+  <td>-08:54:43.4</td>
+  <td>variablestar</td>
+  <td>UNCLEAR</td>
+  <td>April 17, 2018</td>
+  <td></td>
+  <td>58224.52079</td>
+  <td>20.23</td>
+  <td>w</td>
+  <td>58224.55823</td>
+  <td>20.12</td>
+  <td>w</td>
+  <td>PS1 Ubercal Star Catalogue</td>
+  <td>1151825322008544267</td>
+  <td>0.84</td>
+  <td>0.94</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018ajf">AT2018ajf</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1152100460133710800/">PS18rk</a></td>
+  <td>15:21:00.46</td>
+  <td>-13:37:10.8</td>
+  <td>sn</td>
+  <td>NT</td>
+  <td>April 17, 2018</td>
+  <td></td>
+  <td>58224.52208</td>
+  <td>20.18</td>
+  <td>w</td>
+  <td>58224.55953</td>
+  <td>20.31</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.89</td>
+  <td>0.65</td>
+  <td>0.84</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018ayq">AT2018ayq</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1153529000123725800/">PS18rl</a></td>
+  <td>15:35:29.00</td>
+  <td>-12:37:25.8</td>
+  <td>orphan</td>
+  <td>UNCLEAR</td>
+  <td>April 17, 2018</td>
+  <td></td>
+  <td>58224.52273</td>
+  <td>20.41</td>
+  <td>w</td>
+  <td>58224.56017</td>
+  <td>20.46</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>0.94</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018ayr">AT2018ayr</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1154736030102738400/">PS18qo</a></td>
+  <td>15:47:36.03</td>
+  <td>-10:27:38.4</td>
+  <td>orphan</td>
+  <td>SN</td>
+  <td>April 17, 2018</td>
+  <td></td>
+  <td>58224.52533</td>
+  <td>18.47</td>
+  <td>w</td>
+  <td>58224.56277</td>
+  <td>18.39</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>0.94</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018akb">AT2018akb</a> <a href="http://www.astronomerstelegram.org/?read=11480">ATel 11480</a> <a href="http://www.astronomerstelegram.org/?read=11482">ATel 11482</a> <a href="http://wis-tns.weizmann.ac.il/object/2018akb">SN2018akb</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1165916721012204100/">PS18qp</a></td>
+  <td>16:59:16.72</td>
+  <td>+01:22:04.1</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>April 17, 2018</td>
+  <td></td>
+  <td>58224.56844</td>
+  <td>17.69</td>
+  <td>w</td>
+  <td>58224.60492</td>
+  <td>17.71</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>CGCG 025-014 NED01</td>
+  <td>19.38</td>
+  <td>0.95</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018any">AT2018any</a> <a href="http://wis-tns.weizmann.ac.il/object/2018any">SN2018any</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1170259361020302800/">PS18qq</a></td>
+  <td>17:02:59.36</td>
+  <td>+02:03:02.8</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>April 17, 2018</td>
+  <td></td>
+  <td>58224.56844</td>
+  <td>20.20</td>
+  <td>w</td>
+  <td>58224.60492</td>
+  <td>20.17</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J17025916+0203003</td>
+  <td>3.81</td>
+  <td>0.98</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2018ayi">AT2018ayi</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1150914810112002800/">PS18qm</a></td>
+  <td>15:09:14.81</td>
+  <td>-11:20:02.8</td>
+  <td>orphan</td>
+  <td>SN</td>
+  <td>April 17, 2018</td>
+  <td></td>
+  <td>58224.51821</td>
+  <td>20.30</td>
+  <td>w</td>
+  <td>58224.53069</td>
+  <td>20.30</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>0.64</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2017erp">AT2017erp</a> <a href="http://nesssi.cacr.caltech.edu/catalina/20170619/1706190100524141580.html">CSS170619-150915-112003</a> <a href="http://wis-tns.weizmann.ac.il/object/2017erp">SN2017erp</a> </td>
+  </tr>
+  
+
+
+
+
+<div class="pagination">
+    
+        <a href="?page=132&amp;sort=followup_flag_date" class="prev">&lsaquo;&lsaquo; previous</a>
+    
+    
+        
+            
+                <a href="?page=1&amp;sort=followup_flag_date" class="page">1</a>
+            
+        
+    
+        
+            
+                <a href="?page=2&amp;sort=followup_flag_date" class="page">2</a>
+            
+        
+    
+        
+            
+                <a href="?page=3&amp;sort=followup_flag_date" class="page">3</a>
+            
+        
+    
+        
+            
+                <a href="?page=4&amp;sort=followup_flag_date" class="page">4</a>
+            
+        
+    
+        
+            ...
+        
+    
+        
+            
+                <a href="?page=129&amp;sort=followup_flag_date" class="page">129</a>
+            
+        
+    
+        
+            
+                <a href="?page=130&amp;sort=followup_flag_date" class="page">130</a>
+            
+        
+    
+        
+            
+                <a href="?page=131&amp;sort=followup_flag_date" class="page">131</a>
+            
+        
+    
+        
+            
+                <a href="?page=132&amp;sort=followup_flag_date" class="page">132</a>
+            
+        
+    
+        
+            
+                <span class="current page">133</span>
+            
+        
+    
+    
+        <span class="disabled next">next &rsaquo;&rsaquo;</span>
+    
+</div>
+
+
+
+</table>
+
+
+</article>
+</section>
+</div>
+
+</body>
+</html>

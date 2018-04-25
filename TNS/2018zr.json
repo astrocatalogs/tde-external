@@ -47,6 +47,58 @@
 				"id":"98",
 				"name":"PS1"
 			}
+		},
+		{
+			"exptime":"30",
+			"filters":{
+				"id":"72",
+				"name":"orange"
+			},
+			"flux":"17.914",
+			"flux_unit":{
+				"id":"1",
+				"name":"ABMag"
+			},
+			"fluxerr":"1.186",
+			"instrument":{
+				"id":"159",
+				"name":"ACAM1"
+			},
+			"jd":2458166.04,
+			"limflux":"18.97",
+			"obsdate":"2018-02-16 12:57:36",
+			"observer":"Robot",
+			"remarks":"",
+			"telescope":{
+				"id":"103",
+				"name":"ATLAS1"
+			}
+		},
+		{
+			"exptime":"30",
+			"filters":{
+				"id":"72",
+				"name":"orange"
+			},
+			"flux":null,
+			"flux_unit":{
+				"id":"1",
+				"name":"ABMag"
+			},
+			"fluxerr":null,
+			"instrument":{
+				"id":"159",
+				"name":"ACAM1"
+			},
+			"jd":2458166.0269907,
+			"limflux":"18.97",
+			"obsdate":"2018-02-16 12:38:52",
+			"observer":"Robot",
+			"remarks":"[Last non detection] ",
+			"telescope":{
+				"id":"103",
+				"name":"ATLAS1"
+			}
 		}
 	],
 	"public":"1",
