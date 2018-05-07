@@ -252,7 +252,7 @@
 "16555","AT 2016ipg","21:22:05.50","+23:12:50.40","","","","","ATLAS","","ATLAS","ATLAS16dyr","ATLAS1 - ACAM1","","1","1","","18.18","cyan-ATLAS","2016-11-29 05:16:48","ATLAS_Bot1",""
 "16556","AT 2016iph","10:05:39.66","-45:05:35.84","","","","","GaiaAlerts","","GaiaAlerts","Gaia16byx","Gaia - Gaia-photometric","","1","1","","17.36","G-Gaia","2016-11-27 09:34:33","Gaia_Bot1",""
 "16557","SN 2016ipi","05:48:27.02","-23:19:25.39","SN Ia","","2MASX J05482726-2319189","0.046072","ASAS-SN","ASAS-SN","ASAS-SN","ASASSN-16nv","ASASSN-2 - Cassius","FLWO 1.5m - FAST","1","1","","17.4","V-Johnson","2016-11-27 07:12:00","Holoien",""
-"16558","AT 2016ipj","07:14:57.99","+22:56:17.96","","","","","ATLAS","","ATLAS","ATLAS16dyw","ATLAS1 - ACAM1","","1","1","","17.4","cyan-ATLAS","2016-11-29 12:33:07","ATLAS_Bot1",""
+"16558","AT 2016ipj","07:14:57.99","+22:56:17.96","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS16dyw","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","17.4","cyan-ATLAS","2016-11-29 12:33:07","ATLAS_Bot1",""
 "16559","SN 2014es","09:20:46.91","-08:03:34.00","SN IIn","0.0196","MCG -1-24-12 ","0.019644","","TNTS","TNTS","","Other - Other","BAO-2.16m - Phot-spec","1","1","","16","Clear-","2014-11-20 10:48:00","Wang",""
 "16560","AT 2016ipk","22:48:55.94","-10:20:48.62","","","","","ASAS-SN","","ASAS-SN","ASASSN-16oa","ASASSN-2 - Cassius","","1","1","","16.1","V-Johnson","2016-11-29 01:26:24","Stanek",""
 "16568","SN 2016ips","05:32:09.38","-02:04:23.88","SN Ia","0.025","SDSS J053208.29-020407.9","","ASAS-SN","Padova-Asiago","ASAS-SN","ASASSN-16oj","ASASSN-2 - Cassius","Ekar - AFOSC","1","1","","17","V-Johnson","2016-12-05 03:21:36","Stanek",""
