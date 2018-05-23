@@ -919,7 +919,7 @@
 "25913","AT 2018awb","21:12:03.34","+39:08:12.23","","","","","GaiaAlerts","","GaiaAlerts","Gaia18azi","Gaia - Gaia-photometric","","1","1","","18.38","G-Gaia","2018-04-16 18:47:31","Gaia_Bot1",""
 "25914","AT 2018awc","21:56:23.54","+21:11:19.14","","","","","GaiaAlerts","","GaiaAlerts","Gaia18azk","Gaia - Gaia-photometric","","1","1","","18.51","G-Gaia","2018-04-16 19:06:14","Gaia_Bot1",""
 "25915","SN 2018awd","12:50:28.57","-22:40:36.11","SN I","0.0451","","","ATLAS","","ATLAS","ATLAS18nfr","ATLAS1 - ACAM1","P60 - SED-Machine","1","1","","18.455","orange-ATLAS","2018-04-15 09:33:07","ATLAS_Bot1",""
-"25916","AT 2017kaq","13:27:09.90","-27:19:09.22","","","","","ATLAS","","ATLAS","ATLAS18nfq","ATLAS1 - ACAM1","","1","1","","17.836","orange-ATLAS","2017-12-12 15:30:14","ATLAS_Bot1",""
+"25916","AT 2017kaq","13:27:09.90","-27:19:09.22","","","","","ATLAS, SkyMapper","","ATLAS; SkyMapper","ATLAS18nfq","ATLAS1 - ACAM1, SkyMapper 1.35m - SM-WFCam","","1","1","","17.836","orange-ATLAS","2017-12-12 15:30:14","ATLAS_Bot1",""
 "25917","SN 2018awe","14:02:04.15","-25:39:41.21","SN II","0.028","","","ATLAS","ePESSTO","ATLAS","ATLAS18nfo","ATLAS1 - ACAM1","ESO-NTT - EFOSC2-NTT","1","1","","18.17","orange-ATLAS","2018-04-15 10:52:19","ATLAS_Bot1",""
 "25918","AT 2018awf","20:31:48.84","+40:37:59.99","","","","","GaiaAlerts","","GaiaAlerts","Gaia18azl","Gaia - Gaia-photometric","","1","1","","11.66","G-Gaia","2018-04-18 12:44:38","Gaia_Bot1",""
 "25919","AT 2018awg","23:58:25.85","-31:45:02.59","","","","","GaiaAlerts","","GaiaAlerts","Gaia18azo","Gaia - Gaia-photometric","","1","1","","18.84","G-Gaia","2018-04-17 20:06:43","Gaia_Bot1",""
