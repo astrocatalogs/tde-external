@@ -427,7 +427,7 @@
 "22406","AT 2017gum","02:38:37.94","-28:01:01.22","","0","","","ATLAS","ePESSTO","ATLAS","ATLAS17lau","ATLAS1 - ACAM1","ESO-NTT - EFOSC2-NTT","1","1","","19.26","cyan-ATLAS","2017-09-17 12:41:45","ATLAS_Bot1",""
 "22407","AT 2017gun","19:31:02.22","-01:13:14.17","","","","","ATLAS","","ATLAS","ATLAS17lan","ATLAS1 - ACAM1","","1","1","","18.27","orange-ATLAS","2017-08-23 09:25:55","ATLAS_Bot1",""
 "22408","AT 2017guo","03:52:21.92","+14:20:26.68","","","","","ATLAS, Pan-STARRS1","","ATLAS; Pan-STARRS1","ATLAS17lav","ATLAS1 - ACAM1, PS1 - GPC1","","1","1","","18.82","orange-ATLAS","2017-09-13 13:53:45","ATLAS_Bot1",""
-"22409","AT 2017gup","03:29:34.25","+10:58:23.20","","","","","ATLAS, GaiaAlerts, Pan-STARRS1","","ATLAS; GaiaAlerts; Pan-STARRS1","ATLAS17lbl","ATLAS1 - ACAM1, Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","17.78","orange-ATLAS","2017-09-17 13:20:38","ATLAS_Bot1",""
+"22409","SN 2017gup","03:29:34.25","+10:58:23.20","SN Ia","0.016","","","ATLAS, GaiaAlerts, Pan-STARRS1","NUTS","ATLAS; GaiaAlerts; Pan-STARRS1","ATLAS17lbl","ATLAS1 - ACAM1, Gaia - Gaia-photometric, PS1 - GPC1","NOT - ALFOSC","1","1","","17.78","orange-ATLAS","2017-09-17 13:20:38","ATLAS_Bot1",""
 "22410","AT 2017guq","21:48:16.12","-21:10:59.77","","","","","ATLAS","","ATLAS","ATLAS17lax","ATLAS1 - ACAM1","","1","1","","19.28","cyan-ATLAS","2017-09-17 09:08:38","ATLAS_Bot1",""
 "22411","AT 2017gur","16:26:05.56","-30:16:15.41","","","","","ATLAS","","ATLAS","ATLAS17lbm","ATLAS1 - ACAM1","","1","1","","16.89","cyan-ATLAS","2017-09-17 05:26:52","ATLAS_Bot1",""
 "22412","AT 2017gus","23:56:14.15","+30:06:57.50","","","AGC 333434","0.032","TNTS","","TNTS","","BAO-0.6m - BATC","","1","1","","18.6","Clear-","2017-09-18 12:00:00","Li",""
