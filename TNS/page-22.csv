@@ -1,1 +1,4 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"27129","AT 2018cnh","11:19:27.38","+29:22:22.30","","","2MASX J11192721+2922223","0.060568","ASAS-SN","","ASAS-SN","ASASSN-18ms","ASASSN-5 - Payne-Gaposchkin, ASASSN-4 - Leavitt","","1","1","","18.2","g-Sloan","2018-06-13 03:50:24","Stanek",""
+"27130","AT 2018cni","15:01:22.83","-10:10:49.91","","","GALEXASC J150122.78-101044.8 ","","PTSS","","PTSS","PTSS-18fdb","CNEOST - STA1600","","1","1","","18.5","V-Johnson","2018-06-13 13:31:30","Li",""
+"27131","AT 2018cnj","22:05:37.34","+44:50:15.74","","","","","ATLAS","","ATLAS","ATLAS18qpu","ATLAS1 - ACAM1","","1","1","","17.585","orange-ATLAS","2018-05-28 14:41:16","ATLAS_Bot1",""
