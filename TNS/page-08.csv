@@ -418,7 +418,7 @@
 "11851","SN 2016bru","16:44:54.39","+21:01:53.50","SN Ia","0.1305","","","iPTF","iPTF","iPTF","iPTF16ym","P48 - CFH12k","Keck1 - LRIS","1","1","","19.86","g-PTF","2016-04-01 11:02:24","iPTF_Bot1",""
 "11852","SN 2016brv","12:05:14.48","+10:36:55.40","SN Ia-91bg-like","0.034","NGC 4083","0.033416","TNTS","","TNTS","","Other - Other","LT - SPRAT","1","1","","17.4","Clear-","2016-04-16 12:46:49","Li",""
 "11853","SN 2016brw","17:08:26.60","+25:30:51.50","SN II","0.01","UGC10721","","POSS, LOSS, GaiaAlerts","","GaiaAlerts; LOSS; POSS","","Other - Other, Gaia - Gaia-photometric","LT - SPRAT","1","1","","18.2","Clear-","2016-04-18 10:57:07","Post",""
-"11854","AT 2016brx","22:50:34.03","-01:32:32.50","","","NGC7391","","BOSS, GaiaAlerts","","BOSS; GaiaAlerts; PESSTO","","Other - Other, Gaia - Gaia-photometric","","1","1","","16.1","Clear-","2016-04-19 17:18:51","Parker",""
+"11854","SN 2016brx","22:50:34.03","-01:32:32.50","SN Ia-91bg-like","0.010167","NGC7391","","BOSS, GaiaAlerts","ASAS-SN","BOSS; GaiaAlerts; PESSTO","","Other - Other, Gaia - Gaia-photometric","LCO-duPont - WFCCD","1","1","","16.1","Clear-","2016-04-19 17:18:51","Parker",""
 "11855","SN 2016bry","20:43:22.40","+80:09:14.65","SN Ia","0.016","UGC11635","","","Padova-Asiago","","","Other - Other","Ekar - AFOSC","1","1","","17","Clear-","2016-04-19 20:24:38","Vito",""
 "11856","AT 2016brz","14:37:14.73","+38:27:24.60","","","NGC5698","0.012272","","","","","Other - Other","","1","1","","16.7","Clear-","2016-04-22 02:09:36","Emmanouilidi",""
 "11857","SN 2016bsa","22:04:35.56","+42:19:32.70","SN Ia","0.026","UGC 11898","0.01431","ASAS-SN","NUTS","ASAS-SN","ASASSN-16eq","ASASSN-1 - Brutus","","1","1","","16.3","V-Johnson","2016-04-22 14:38:24","Stanek",""
