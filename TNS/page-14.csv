@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"18691","AT 2017bkp","01:58:38.57","-70:32:32.42","","","","","GaiaAlerts","","GaiaAlerts","Gaia17ane","Gaia - Gaia-photometric","","1","1","","18.65","G-Gaia","2017-02-23 08:47:02","Gaia_Bot1",""
 "18692","AT 2017bkq","13:24:33.15","-56:35:35.77","","","","","GaiaAlerts","","GaiaAlerts","Gaia17anf","Gaia - Gaia-photometric","","1","1","","18.94","G-Gaia","2017-02-22 19:59:31","Gaia_Bot1",""
 "18693","AT 2017bkr","13:22:23.08","-52:03:42.05","","","","","GaiaAlerts","","GaiaAlerts","Gaia17ang","Gaia - Gaia-photometric","","1","1","","17.81","G-Gaia","2017-02-22 19:55:12","Gaia_Bot1",""
 "18696","AT 2017bku","23:09:47.37","+73:20:32.10","","","","","GaiaAlerts","","GaiaAlerts","Gaia17ank","Gaia - Gaia-photometric","","1","1","","18.31","G-Gaia","2017-02-24 23:18:14","Gaia_Bot1",""
@@ -998,4 +999,3 @@
 "19913","AT 2017dfj","18:54:35.68","-19:21:36.18","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bbd","Gaia - Gaia-photometric","","1","1","","18.7","G-Gaia","2017-04-19 12:23:02","Gaia_Bot1",""
 "19914","AT 2017dfk","18:50:39.67","-16:48:05.33","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bbe","Gaia - Gaia-photometric","","1","1","","18.29","G-Gaia","2017-04-19 00:20:09","Gaia_Bot1",""
 "19915","AT 2017dfl","17:38:34.84","+01:25:14.30","Varstar","0","","","GaiaAlerts","ePESSTO","GaiaAlerts","Gaia17bbf","Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","18.05","G-Gaia","2017-04-18 11:57:07","Gaia_Bot1",""
-"19916","AT 2017dfm","04:00:37.56","-21:14:36.64","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bbg","Gaia - Gaia-photometric","","1","1","","18.86","G-Gaia","2017-04-18 10:01:55","Gaia_Bot1",""
