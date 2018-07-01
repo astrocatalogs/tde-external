@@ -701,7 +701,7 @@
 "26826","AT 2016jib","11:55:50.47","-02:15:00.72","","","SDSS J115550.41-021457.9","0.345","","","","","CTIO-4m - DECAM","","1","1","","20.27","R-Cousins","2016-04-08 03:37:13","Nowell",""
 "26827","SN 2018cbz","13:41:18.61","-04:20:46.54","SN Ic","0.0223","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS18pzo","ATLAS1 - ACAM1, Gaia - Gaia-photometric","LT - SPRAT","1","1","","17.869","orange-ATLAS","2018-05-31 08:54:14","ATLAS_Bot1","KEGS-C17;KEGS-C16"
 "26828","AT 2018cca","11:54:58.25","-30:29:53.10","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS18pzp","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","17.878","orange-ATLAS","2018-05-31 06:10:04","ATLAS_Bot1",""
-"26829","SN 2018ccb","18:30:57.30","+29:52:47.28","SN II","0.0158","","","ZTF, ATLAS","","ATLAS; ZTF","ZTF18aaxkqgy","P48 - ZTF-Cam, ATLAS1 - ACAM1","LT - SPRAT","1","1","","17.91","g-ZTF","2018-05-31 07:37:55","ZTF_Bot1",""
+"26829","SN 2018ccb","18:30:57.30","+29:52:47.28","SN II","0.0158","","","ZTF, ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts; ZTF","ZTF18aaxkqgy","P48 - ZTF-Cam, ATLAS1 - ACAM1, Gaia - Gaia-photometric","LT - SPRAT","1","1","","17.91","g-ZTF","2018-05-31 07:37:55","ZTF_Bot1",""
 "26830","AT 2018ccc","10:49:25.38","+24:51:24.03","","","","","ZTF","","ZTF","ZTF18aahppoz","P48 - ZTF-Cam","","1","1","","18.34","r-ZTF","2018-04-19 05:54:14","ZTF_Bot1",""
 "26831","AT 2018ccd","11:32:36.45","+18:50:51.67","","","","","ZTF","","ZTF","ZTF18aahifff","P48 - ZTF-Cam","","1","1","","18.82","r-ZTF","2018-05-10 05:38:24","ZTF_Bot1",""
 "26832","AT 2018cce","13:15:55.17","+21:25:21.81","","","","","ZTF","","ZTF","ZTF18aajnqmp","P48 - ZTF-Cam","","1","1","","18.45","r-ZTF","2018-04-22 06:05:45","ZTF_Bot1",""
