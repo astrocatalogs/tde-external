@@ -212,7 +212,7 @@
 "21131","AT 2017fac","22:04:53.90","-28:43:12.13","","","","","Pan-STARRS1","","Pan-STARRS1","PS17dmv","PS1 - GPC1","","1","1","","19.19","w-PS1","2017-06-24 13:09:07","PS1_Bot1",""
 "21132","AT 2017fad","17:11:05.33","-08:10:38.15","","","","","ATLAS","","ATLAS","ATLAS17hpf","ATLAS1 - ACAM1","","1","1","","17.12","orange-ATLAS","2017-06-27 10:17:45","ATLAS_Bot1",""
 "21133","AT 2017fae","10:36:55.84","+27:16:39.96","","","","","ATLAS","","ATLAS","ATLAS17hpq","ATLAS1 - ACAM1","","1","1","","19.29","orange-ATLAS","2017-06-13 07:46:33","ATLAS_Bot1",""
-"21134","SN 2017faf","17:34:39.98","+26:18:22.00","SN II","0.0295","","","ATLAS, Pan-STARRS1","NUTS","ATLAS; Pan-STARRS1","ATLAS17hpt","ATLAS1 - ACAM1, PS1 - GPC1","Other - Other, Mayall - RC Spec","1","1","","17.52","orange-ATLAS","2017-06-28 10:23:31","ATLAS_Bot1",""
+"21134","SN 2017faf","17:34:39.98","+26:18:22.00","SN II","0.0295","","","ATLAS, Pan-STARRS1","NUTS","ATLAS; Pan-STARRS1","ATLAS17hpt","ATLAS1 - ACAM1, PS1 - GPC1","Other - Other, NOT - ALFOSC, Mayall - RC Spec","1","1","","17.52","orange-ATLAS","2017-06-28 10:23:31","ATLAS_Bot1",""
 "21135","AT 2017fag","16:41:51.83","+22:01:37.37","","","","","ATLAS","","ATLAS","ATLAS17hpu","ATLAS1 - ACAM1","","1","1","","19.01","orange-ATLAS","2017-06-13 11:28:19","ATLAS_Bot1",""
 "21136","AT 2017fah","17:13:13.14","+36:38:46.90","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bqe","Gaia - Gaia-photometric","","1","1","","16.59","G-Gaia","2017-06-27 16:10:33","Gaia_Bot1",""
 "21137","AT 2017fai","19:59:19.84","+16:24:40.97","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bqf","Gaia - Gaia-photometric","","1","1","","17.77","G-Gaia","2017-06-27 18:41:45","Gaia_Bot1",""
