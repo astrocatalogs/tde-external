@@ -872,7 +872,7 @@
 "25857","AT 2018atx","09:29:39.14","+14:43:06.60","","","2MASX J09293765+1443185","0.0774","SNHunt","","CRTS; SNHunt","","Other - Other","","1","1","","21","V-crts-CRTS","2018-04-11 04:00:33","Drake",""
 "25858","AT 2018aty","11:29:40.68","+76:30:35.53","","","","","GaiaAlerts","","GaiaAlerts","Gaia18axr","Gaia - Gaia-photometric","","1","1","","19.16","G-Gaia","2018-03-05 18:40:19","Gaia_Bot1",""
 "25859","AT 2018atz","22:09:14.71","+40:09:48.96","","","","","GaiaAlerts","","GaiaAlerts","Gaia18axs","Gaia - Gaia-photometric","","1","1","","18.92","G-Gaia","2018-04-11 06:43:12","Gaia_Bot1",""
-"25860","AT 2018aua","10:23:27.20","+08:20:33.65","","","","","GaiaAlerts, ATLAS","","ATLAS; GaiaAlerts","Gaia18axt","Gaia - Gaia-photometric, ATLAS1 - ACAM1","","1","1","","18.99","G-Gaia","2018-04-11 18:30:14","Gaia_Bot1",""
+"25860","AT 2018aua","10:23:27.20","+08:20:33.65","","","","","GaiaAlerts, ATLAS, Pan-STARRS1","","ATLAS; GaiaAlerts; Pan-STARRS1","Gaia18axt","Gaia - Gaia-photometric, ATLAS1 - ACAM1, PS1 - GPC1","","1","1","","18.99","G-Gaia","2018-04-11 18:30:14","Gaia_Bot1",""
 "25861","AT 2018aub","10:09:24.16","-65:06:09.11","","","","","GaiaAlerts","","GaiaAlerts","Gaia18axu","Gaia - Gaia-photometric","","1","1","","18.84","G-Gaia","2018-04-10 21:25:55","Gaia_Bot1",""
 "25862","AT 2018auc","22:22:01.48","-33:29:22.02","","","","","GaiaAlerts","","GaiaAlerts","Gaia18axv","Gaia - Gaia-photometric","","1","1","","18.63","G-Gaia","2018-04-11 03:44:38","Gaia_Bot1",""
 "25863","AT 2018aud","22:15:17.40","+14:54:02.09","","","","","GaiaAlerts","","GaiaAlerts","Gaia18axw","Gaia - Gaia-photometric","","1","1","","18.94","G-Gaia","2018-04-10 20:54:14","Gaia_Bot1",""
