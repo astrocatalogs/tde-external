@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"22976","AT 2017hqk","01:06:12.92","+12:39:47.39","","0","","","ATLAS, Pan-STARRS1","ePESSTO","ATLAS; Pan-STARRS1","ATLAS17mvx","ATLAS1 - ACAM1, PS1 - GPC1","ESO-NTT - EFOSC2-NTT","1","1","","18.583","orange-ATLAS","2017-10-27 09:34:33","ATLAS_Bot1",""
 "22977","SN 2017hql","00:26:06.00","+25:43:16.62","SN Ia","0.034","","","ATLAS, GaiaAlerts","ePESSTO","ATLAS; GaiaAlerts","ATLAS17mvp","ATLAS1 - ACAM1, Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","17.952","orange-ATLAS","2017-10-23 09:54:43","ATLAS_Bot1",""
 "22978","AT 2017hqm","03:01:57.03","+35:09:46.12","","","","","ATLAS","","ATLAS","ATLAS17mvq","ATLAS1 - ACAM1","","1","1","","19.074","orange-ATLAS","2017-10-20 11:58:33","ATLAS_Bot1",""
 "22979","AT 2017hqn","00:49:24.50","+52:39:28.96","","","","","ATLAS","","ATLAS","ATLAS17mvt","ATLAS1 - ACAM1","","1","1","","19.152","orange-ATLAS","2017-10-20 10:45:07","ATLAS_Bot1",""
@@ -998,4 +999,3 @@
 "23976","AT 2017jbm","09:07:05.30","+53:26:51.17","","","","","ATLAS, Pan-STARRS1","","ATLAS; Pan-STARRS1","ATLAS17nuy","ATLAS1 - ACAM1, PS1 - GPC1","","1","1","","17.142","orange-ATLAS","2017-12-11 13:47:59","ATLAS_Bot1",""
 "23977","AT 2017jbn","14:08:55.79","+19:11:48.26","","","","","GaiaAlerts","","GaiaAlerts","Gaia17din","Gaia - Gaia-photometric","","1","1","","18.98","G-Gaia","2017-12-19 08:52:48","Gaia_Bot1",""
 "23978","AT 2017jbo","00:43:50.57","-73:25:12.94","","","","","GaiaAlerts","","GaiaAlerts","Gaia17dio","Gaia - Gaia-photometric","","1","1","","18.53","G-Gaia","2017-11-13 11:52:48","Gaia_Bot1",""
-"23979","SN 2017jbp","08:57:17.68","+63:32:46.78","SN Ia","0.14","","","Pan-STARRS1","","Pan-STARRS1","PS17fjq","PS1 - GPC1","MMT - MMT-Blue","1","1","","20.6","i-Sloan","2017-12-07 13:43:40","PS1_Bot1",""

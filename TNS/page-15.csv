@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"19915","AT 2017dfl","17:38:34.84","+01:25:14.30","Varstar","0","","","GaiaAlerts","ePESSTO","GaiaAlerts","Gaia17bbf","Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","18.05","G-Gaia","2017-04-18 11:57:07","Gaia_Bot1",""
 "19916","AT 2017dfm","04:00:37.56","-21:14:36.64","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bbg","Gaia - Gaia-photometric","","1","1","","18.86","G-Gaia","2017-04-18 10:01:55","Gaia_Bot1",""
 "19917","SN 2017dfn","19:52:16.35","-26:10:26.72","SN Ia","0.048","","","GaiaAlerts","ePESSTO","GaiaAlerts","Gaia17bbh","Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","17.79","G-Gaia","2017-04-18 18:36:00","Gaia_Bot1",""
 "19918","SN 2017dfo","09:20:38.12","-29:57:02.35","SN Ia","0.036","2MASX J09203974-2956533","0.035948","ASAS-SN, Pan-STARRS1","ePESSTO","ASAS-SN; Pan-STARRS1","ASASSN-17fe","ASASSN-2 - Cassius, PS1 - GPC1","ESO-NTT - EFOSC2-NTT","1","1","","17.03","V-Johnson","2017-04-19 02:35:50","Dong",""
@@ -998,4 +999,3 @@
 "20917","AT 2017erw","01:46:18.94","+13:26:33.29","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bnh","Gaia - Gaia-photometric","","1","1","","20.42","G-Gaia","2017-06-04 23:41:16","Gaia_Bot1",""
 "20918","AT 2017erx","00:53:44.60","+24:20:07.01","","","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia17bni","Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","18.34","G-Gaia","2017-06-12 17:32:38","Gaia_Bot1",""
 "20919","AT 2017ery","04:23:53.02","-23:36:15.91","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bnj","Gaia - Gaia-photometric","","1","1","","18.61","G-Gaia","2017-06-12 18:41:45","Gaia_Bot1",""
-"20920","AT 2017erz","06:22:36.59","-38:33:42.59","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bnk","Gaia - Gaia-photometric","","1","1","","17.46","G-Gaia","2017-06-13 01:12:00","Gaia_Bot1",""

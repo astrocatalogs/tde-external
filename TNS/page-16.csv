@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"20920","AT 2017erz","06:22:36.59","-38:33:42.59","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bnk","Gaia - Gaia-photometric","","1","1","","17.46","G-Gaia","2017-06-13 01:12:00","Gaia_Bot1",""
 "20921","AT 2017esa","20:51:00.90","+44:31:49.76","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bnl","Gaia - Gaia-photometric","","1","1","","16.48","G-Gaia","2017-06-12 22:45:07","Gaia_Bot1",""
 "20922","SN 2017esb","13:09:36.02","-18:58:19.56","SN Ia","0.035","ESO 575- G 066 ","0.035478","ASAS-SN","ASAS-SN","ASAS-SN","ASASSN-17hp","ASASSN-2 - Cassius","LT - SPRAT, SOAR - Goodman","1","1","","16.6","V-Johnson","2017-06-12 03:36:00","Stanek",""
 "20923","AT 2017esc","12:46:23.60","-03:37:10.49","","","","","ATLAS","","ATLAS","ATLAS17gzf","ATLAS1 - ACAM1","","1","1","","16.95","orange-ATLAS","2017-06-14 06:12:57","ATLAS_Bot1",""
@@ -998,4 +999,3 @@
 "21918","AT 2017gdy","02:54:07.10","-41:37:31.94","AGN","0.146","","","Pan-STARRS1","ePESSTO","Pan-STARRS1","PS17edh","PS1 - GPC1","ESO-NTT - EFOSC2-NTT","1","1","","18.36","i-Sloan","2017-08-14 13:46:33","PS1_Bot1",""
 "21919","AT 2017gdz","01:48:27.43","-31:52:07.95","Galaxy","0.152","","","Pan-STARRS1","ePESSTO","Pan-STARRS1","PS17ecr","PS1 - GPC1","ESO-NTT - EFOSC2-NTT","1","1","","19.64","i-Sloan","2017-08-12 13:00:28","PS1_Bot1",""
 "21920","SN 2017gea","02:44:57.43","+34:05:41.17","SN Ia","0.031795","KUG 0241+338","0.031795","ASAS-SN, GaiaAlerts","ASAS-SN","ASAS-SN; GaiaAlerts","ASASSN-17kz","ASASSN-1 - Brutus, Gaia - Gaia-photometric","P200 - DBSP","1","1","","17.1","V-Johnson","2017-08-17 14:09:36","Stanek",""
-"21921","AT 2017geb","02:53:37.12","+10:40:05.69","","","","","Pan-STARRS1","","Pan-STARRS1","PS17ega","PS1 - GPC1","","1","1","","21.54","w-PS1","2017-08-03 13:53:45","PS1_Bot1",""
