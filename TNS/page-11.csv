@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"14745","AT 2016fyk","01:34:11.48","+25:09:39.30","","","","","Pan-STARRS1","","Pan-STARRS1","PS16edp","PS1 - GPC1","","1","1","","19.77","i-Sloan","2016-08-17 11:36:57","PS1_Bot1",""
+"14746","AT 2016fyl","03:03:14.93","+03:02:41.00","","","","","Pan-STARRS1","","Pan-STARRS1","PS16eff","PS1 - GPC1","","1","1","","19.92","i-Sloan","2016-08-16 14:03:50","PS1_Bot1",""
 "14747","AT 2016fym","21:38:25.02","+80:55:20.17","","","","","Pan-STARRS1","","Pan-STARRS1","PS16edo","PS1 - GPC1","","1","1","","19.97","i-Sloan","2016-08-16 10:45:07","PS1_Bot1",""
 "14748","AT 2016fyn","00:15:11.57","+14:45:07.96","","","","","Pan-STARRS1","","Pan-STARRS1","PS16egl","PS1 - GPC1","","1","1","","19.33","i-Sloan","2016-08-15 11:00:57","PS1_Bot1",""
 "14749","AT 2016fyo","19:07:33.32","+51:29:04.27","","","","","Pan-STARRS1","","Pan-STARRS1","PS16egm","PS1 - GPC1","","1","1","","21.1","i-Sloan","2016-08-16 09:33:07","PS1_Bot1",""
@@ -997,5 +999,3 @@
 "16220","AT 2016icj","09:02:17.74","+09:36:39.54","","","","","Pan-STARRS1","","Pan-STARRS1","PS16fba","PS1 - GPC1","","1","1","","21.73","w-PS1","2016-11-10 13:56:38","PS1_Bot1",""
 "16221","SN 2016ick","00:07:03.15","-20:41:48.61","SN Ia","0.0525","","","Pan-STARRS1, GaiaAlerts","","GaiaAlerts; Pan-STARRS1","PS16fbb","PS1 - GPC1, Gaia - Gaia-photometric","SALT - RSS","1","1","","19.56","i-Sloan","2016-11-13 06:28:48","PS1_Bot1",""
 "16222","AT 2016icl","08:14:37.68","+06:46:38.96","","","","","Pan-STARRS1","","Pan-STARRS1","PS16fbc","PS1 - GPC1","","1","1","","19.62","i-Sloan","2016-11-12 14:19:40","PS1_Bot1",""
-"16223","AT 2016icm","21:28:18.05","+03:42:52.00","","","","","Pan-STARRS1","","Pan-STARRS1","PS16fbd","PS1 - GPC1","","1","1","","19.76","i-Sloan","2016-11-13 05:18:14","PS1_Bot1",""
-"16224","AT 2016icn","23:25:57.79","-19:38:28.01","","","","","Pan-STARRS1","","Pan-STARRS1","PS16fbi","PS1 - GPC1","","1","1","","19.04","i-Sloan","2016-11-13 06:37:26","PS1_Bot1",""

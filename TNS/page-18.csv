@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"22944","AT 2017hpe","17:25:57.74","+47:35:30.37","","","","","Pan-STARRS1","","Pan-STARRS1","PS17euo","PS1 - GPC1","","1","1","","20.64","i-Sloan","2017-10-02 05:29:45","PS1_Bot1",""
+"22945","AT 2017hpf","07:14:58.70","+32:13:34.80","","","","","Pan-STARRS1, GaiaAlerts","","GaiaAlerts; Pan-STARRS1","PS17eur","PS1 - GPC1, Gaia - Gaia-photometric","","1","1","","18.78","w-PS1","2017-10-03 14:38:24","PS1_Bot1",""
 "22946","AT 2017hpg","19:52:30.07","+61:57:10.31","","","","","Pan-STARRS1","","Pan-STARRS1","PS17euq","PS1 - GPC1","","1","1","","19.03","i-Sloan","2017-10-02 06:44:38","PS1_Bot1",""
 "22947","AT 2017hph","20:42:00.86","+77:32:30.78","","","","","Pan-STARRS1","","Pan-STARRS1","PS17eus","PS1 - GPC1","","1","1","","19.5","i-Sloan","2017-10-03 07:30:43","PS1_Bot1",""
 "22948","SN 2017hpi","08:15:43.39","-28:51:19.84","SN II","0.006","AM 0813-284 ","0.005661","ASAS-SN, GaiaAlerts","ePESSTO","ASAS-SN; GaiaAlerts","ASASSN-17ny","ASASSN-2 - Cassius, Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","15.8","V-Johnson","2017-10-26 06:43:12","Stanek",""
@@ -997,5 +999,3 @@
 "23944","AT 2017jah","03:37:03.45","-72:55:23.80","","","OGLE-GAL-MBR138.22-452.305-3245.492","","","","","","OGLE-1.3m - OGLE-IV Cam","","1","1","","20.242","I-Cousins","2017-12-18 13:00:00","Wyrzykowski",""
 "23945","AT 2017jai","04:18:08.64","-68:17:20.20","","","OGLE-GAL-LMC616.29-904.260-2900.776","","","","","","OGLE-1.3m - OGLE-IV Cam","","1","1","","19.009","I-Cousins","2017-12-18 13:00:00","Wyrzykowski",""
 "23946","AT 2017jaj","04:20:59.51","-65:05:13.70","","","OGLE-GAL-LMC619.20-1802.992-995.054","","","","","","OGLE-1.3m - OGLE-IV Cam","","1","1","","21.24","I-Cousins","2017-12-18 13:00:00","Wyrzykowski",""
-"23947","AT 2017jak","02:53:18.40","-65:21:04.80","","","OGLE-GAL-MBR199.10-642.769-1123.179","","","","","","OGLE-1.3m - OGLE-IV Cam","","1","1","","19.413","I-Cousins","2017-12-18 13:00:00","Wyrzykowski",""
-"23948","AT 2017jal","03:00:31.16","-66:55:28.20","","","OGLE-GAL-MBR203.24-648.832-679.850","","","","","","OGLE-1.3m - OGLE-IV Cam","","1","1","","19.964","I-Cousins","2017-12-18 13:00:00","Wyrzykowski",""

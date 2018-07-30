@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"18657","AT 2017bjh","12:13:24.76","+05:54:36.98","","","","","Pan-STARRS1","","Pan-STARRS1","PS17blv","PS1 - GPC1","","1","1","","21.31","w-PS1","2017-02-21 11:42:43","PS1_Bot1",""
+"18658","AT 2017bji","12:40:40.69","+03:15:24.41","","","","","Pan-STARRS1","","Pan-STARRS1","PS17bmh","PS1 - GPC1","","1","1","","20.67","w-PS1","2017-02-21 11:29:45","PS1_Bot1",""
 "18659","AT 2017bjj","12:23:18.87","+01:29:27.97","","","","","Pan-STARRS1","","Pan-STARRS1","PS17blw","PS1 - GPC1","","1","1","","20.98","w-PS1","2017-02-21 11:44:09","PS1_Bot1",""
 "18660","AT 2017bjk","12:48:54.41","+05:38:37.38","","","","","Pan-STARRS1","","Pan-STARRS1","PS17bly","PS1 - GPC1","","1","1","","20.93","w-PS1","2017-02-21 11:51:21","PS1_Bot1",""
 "18661","AT 2017bjl","12:46:00.72","-01:50:33.21","","","","","Pan-STARRS1","","Pan-STARRS1","PS17blx","PS1 - GPC1","","1","1","","20.34","w-PS1","2017-02-21 12:44:38","PS1_Bot1",""
@@ -997,5 +999,3 @@
 "19880","AT 2017dec","17:28:59.34","+33:05:21.60","","","","","Pan-STARRS1","","Pan-STARRS1","PS17cjr","PS1 - GPC1","","1","1","","19.01","i-Sloan","2017-04-15 12:04:19","PS1_Bot1",""
 "19881","AT 2017ded","16:58:44.91","+34:27:22.35","","","","","Pan-STARRS1","","Pan-STARRS1","PS17cjq","PS1 - GPC1","","1","1","","20.57","i-Sloan","2017-04-15 12:11:31","PS1_Bot1",""
 "19882","AT 2017dee","16:55:43.09","+33:04:31.81","","","","","Pan-STARRS1","","Pan-STARRS1","PS17cjp","PS1 - GPC1","","1","1","","19.64","i-Sloan","2017-04-15 11:54:14","PS1_Bot1",""
-"19883","SN 2017def","15:22:28.90","+27:42:25.88","SN Ia","0.071","","","GaiaAlerts","ePESSTO","GaiaAlerts","Gaia17bao","Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","18.88","G-Gaia","2017-04-17 05:15:21","Gaia_Bot1",""
-"19884","AT 2017deg","05:49:30.18","-03:31:14.41","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bap","Gaia - Gaia-photometric","","1","1","","18.82","G-Gaia","2017-04-17 08:48:28","Gaia_Bot1",""

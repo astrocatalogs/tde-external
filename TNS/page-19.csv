@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"23947","AT 2017jak","02:53:18.40","-65:21:04.80","","","OGLE-GAL-MBR199.10-642.769-1123.179","","","","","","OGLE-1.3m - OGLE-IV Cam","","1","1","","19.413","I-Cousins","2017-12-18 13:00:00","Wyrzykowski",""
+"23948","AT 2017jal","03:00:31.16","-66:55:28.20","","","OGLE-GAL-MBR203.24-648.832-679.850","","","","","","OGLE-1.3m - OGLE-IV Cam","","1","1","","19.964","I-Cousins","2017-12-18 13:00:00","Wyrzykowski",""
 "23949","AT 2017jam","03:05:16.83","-65:04:57.00","","","OGLE-GAL-MBR205.04-714.113-1172.189","","","","","","OGLE-1.3m - OGLE-IV Cam","","1","1","","20.382","I-Cousins","2017-12-18 13:00:00","Wyrzykowski",""
 "23950","SN 2017jan","03:07:22.57","-64:23:01.00","SLSN-I","0.396","","","OGLE","ePESSTO","OGLE","","OGLE-1.3m - OGLE-IV Cam","ESO-NTT - EFOSC2-NTT","1","1","","19.2","I-Cousins","2017-12-18 13:00:00","Wyrzykowski",""
 "23951","AT 2017jao","03:23:01.52","-67:49:43.60","","","","","","","","","OGLE-1.3m - OGLE-IV Cam","","1","1","","20.19","I-Cousins","2017-12-18 13:00:00","Wyrzykowski",""
@@ -997,5 +999,3 @@
 "24947","AT 2018lv","17:27:33.30","+07:20:22.74","","","","","GaiaAlerts","","GaiaAlerts","Gaia18ahh","Gaia - Gaia-photometric","","1","1","","18.9","G-Gaia","2018-01-28 07:55:12","Gaia_Bot1",""
 "24948","AT 2018lw","07:35:54.84","-23:31:53.33","","","","","GaiaAlerts","","GaiaAlerts","Gaia18ahi","Gaia - Gaia-photometric","","1","1","","18.68","G-Gaia","2018-01-28 10:32:09","Gaia_Bot1",""
 "24949","AT 2018lx","20:48:31.14","+29:51:54.29","","","","","GaiaAlerts","","GaiaAlerts","Gaia18ahj","Gaia - Gaia-photometric","","1","1","","18.92","G-Gaia","2018-01-28 13:03:21","Gaia_Bot1",""
-"24950","AT 2018ly","08:46:44.80","-13:49:00.84","CV","0","","","ASAS-SN","ePESSTO","ASAS-SN","ASASSN-18bp","ASASSN-2 - Cassius, ASASSN-3 - Paczynski","ESO-NTT - EFOSC2-NTT","1","1","","16.45","g-Sloan","2018-01-29 01:40:48","Stanek",""
-"24951","AT 2018lz","04:20:37.76","+16:14:44.88","","","","","ATLAS","","ATLAS","ATLAS18lsk","ATLAS1 - ACAM1","","1","1","","17.605","orange-ATLAS","2018-01-13 09:11:31","ATLAS_Bot1",""
