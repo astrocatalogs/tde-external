@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"23835","AT 2017iwd","09:09:34.87","-56:28:24.46","","","","","GaiaAlerts","","GaiaAlerts","Gaia17dfq","Gaia - Gaia-photometric","","1","1","","17.44","G-Gaia","2017-12-10 10:30:43","Gaia_Bot1",""
 "23836","SN 2017iwe","13:33:12.08","-16:07:06.02","SN IIP","0.02","","","GaiaAlerts","ePESSTO","GaiaAlerts","Gaia17dfv","Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","18.15","G-Gaia","2017-12-09 09:21:36","Gaia_Bot1",""
 "23837","AT 2017iwf","13:41:28.69","-11:26:43.15","","","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia17dfw","Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","18.96","G-Gaia","2017-12-08 21:15:50","Gaia_Bot1",""
 "23838","AT 2017iwg","13:55:42.55","-07:27:55.62","","","","","GaiaAlerts","","GaiaAlerts","Gaia17dfy","Gaia - Gaia-photometric","","1","1","","18.34","G-Gaia","2017-12-08 16:56:38","Gaia_Bot1",""
@@ -998,4 +999,3 @@
 "24833","AT 2018hp","18:20:40.05","+43:26:02.98","","","","","GaiaAlerts","","GaiaAlerts","Gaia18aea","Gaia - Gaia-photometric","","1","1","","18.9","G-Gaia","2018-01-15 13:29:16","Gaia_Bot1",""
 "24834","AT 2018hq","00:34:01.30","-28:15:02.05","","","","","GaiaAlerts","","GaiaAlerts","Gaia18aeb","Gaia - Gaia-photometric","","1","1","","18.81","G-Gaia","2018-01-15 05:36:57","Gaia_Bot1",""
 "24835","AT 2018hr","11:08:52.60","+08:26:33.14","","","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia18aec","Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","18.06","G-Gaia","2018-01-15 09:14:24","Gaia_Bot1",""
-"24836","AT 2018hs","17:40:33.44","+41:47:56.08","","","","","GaiaAlerts","","GaiaAlerts","Gaia18aef","Gaia - Gaia-photometric","","1","1","","14.95","G-Gaia","2018-01-16 13:36:28","Gaia_Bot1",""

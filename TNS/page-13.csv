@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"17352","SN 2017lm","03:01:32.41","-15:00:57.19","SN Ia","0.03052","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS17aix","ATLAS1 - ACAM1, Gaia - Gaia-photometric","SALT - RSS","1","1","","18.07","orange-ATLAS","2017-01-14 06:28:48","ATLAS_Bot1",""
 "17353","SN 2017ln","11:38:33.78","+25:23:46.86","SN Ia","0.025","2MASX J11383367+2523532","0.025356","ASAS-SN, iPTF, Pan-STARRS1","PESSTO","ASAS-SN; iPTF; Pan-STARRS1","ASASSN-17at","ASASSN-1 - Brutus, P48 - CFH12k, PS1 - GPC1","ESO-NTT - EFOSC2-NTT","1","1","","16.7","V-Johnson","2017-01-19 12:57:36","Stanek",""
 "17354","AT 2017lo","22:23:35.04","+34:47:25.48","","","","","GaiaAlerts","","GaiaAlerts","Gaia17aec","Gaia - Gaia-photometric","","1","1","","18.73","G-Gaia","2017-01-18 04:11:59","Gaia_Bot1",""
 "17355","AT 2016jgy","12:16:03.89","-32:04:15.56","","","","","GaiaAlerts","","GaiaAlerts","Gaia17aed","Gaia - Gaia-photometric","","1","1","","18.47","G-Gaia","2016-12-16 03:11:31","Gaia_Bot1",""
@@ -998,4 +999,3 @@
 "18541","AT 2017bev","11:58:53.44","+10:35:06.52","","","","","Pan-STARRS1","","Pan-STARRS1","PS17bjl","PS1 - GPC1","","1","1","","19.58","i-Sloan","2017-02-16 13:03:21","PS1_Bot1",""
 "18542","AT 2017bew","14:14:43.77","+47:06:11.52","","","","","Pan-STARRS1","","Pan-STARRS1","PS17bjm","PS1 - GPC1","","1","1","","19.82","i-Sloan","2017-02-16 14:05:16","PS1_Bot1",""
 "18543","AT 2017bex","14:34:36.79","+53:16:28.81","","","","","Pan-STARRS1","","Pan-STARRS1","PS17bjn","PS1 - GPC1","","1","1","","19.86","i-Sloan","2017-02-16 14:11:02","PS1_Bot1",""
-"18544","AT 2017bey","16:41:41.50","+28:47:13.95","","","","","Pan-STARRS1","","Pan-STARRS1","PS17bkk","PS1 - GPC1","","1","1","","19.74","i-Sloan","2017-02-14 15:15:50","PS1_Bot1",""

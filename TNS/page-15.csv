@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"19770","AT 2017czw","14:14:32.15","-03:33:19.65","","","","","Pan-STARRS1","","Pan-STARRS1","PS17cft","PS1 - GPC1","","1","1","","21.36","w-PS1","2017-04-03 13:39:21","PS1_Bot1",""
 "19771","AT 2017czx","17:16:38.46","+39:56:24.30","","","SDSS J171638.40+395624.4 ","","TNTS","","TNTS","","BAO-0.6m - BATC","","1","1","","18.3","Clear-","2017-04-12 20:24:00","Li",""
 "19772","AT 2017czy","12:15:29.40","-05:04:52.61","","","","","SkyMapper, Pan-STARRS1","","Pan-STARRS1; SkyMapper","SMT17gfm","SkyMapper 1.35m - SM-WFCam, PS1 - GPC1","","1","1","","20.66","g-SM-SkyMapper","2017-03-26 11:51:21","smt_bot",""
 "19773","AT 2017czz","13:30:54.91","-27:26:05.71","","","","","SkyMapper","","SkyMapper","SMT17fth","SkyMapper 1.35m - SM-WFCam","","1","1","","20.73","g-SM-SkyMapper","2017-03-28 16:19:12","smt_bot",""
@@ -998,4 +999,3 @@
 "20772","AT 2017emh","12:11:47.29","-69:07:43.18","","","","","GaiaAlerts","","GaiaAlerts","Gaia17blm","Gaia - Gaia-photometric","","1","1","","18.99","G-Gaia","2017-06-02 21:37:26","Gaia_Bot1",""
 "20773","AT 2017emi","01:32:49.47","+20:37:59.38","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bln","Gaia - Gaia-photometric","","1","1","","18.9","G-Gaia","2017-06-03 13:17:45","Gaia_Bot1",""
 "20774","AT 2017emj","14:40:34.65","+55:00:28.59","","","","","Pan-STARRS1","","Pan-STARRS1","PS17dfg","PS1 - GPC1","","1","1","","20.32","i-Sloan","2017-06-01 07:46:33","PS1_Bot1",""
-"20775","AT 2017emk","12:22:01.40","+62:01:08.10","","","","","Pan-STARRS1","","Pan-STARRS1","PS17dff","PS1 - GPC1","","1","1","","19.81","i-Sloan","2017-06-01 06:24:28","PS1_Bot1",""

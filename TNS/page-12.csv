@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"16093","AT 2016hxr","18:05:33.88","-27:15:43.24","","","","","GaiaAlerts","","GaiaAlerts","Gaia16brz","Gaia - Gaia-photometric","","1","1","","18.91","G-Gaia","2016-11-02 16:27:50","Gaia_Bot1",""
 "16094","AT 2016hxs","16:48:27.59","+23:23:55.43","","","","","GaiaAlerts","","GaiaAlerts","Gaia16bsa","Gaia - Gaia-photometric","","1","1","","18.37","G-Gaia","2016-11-02 19:09:07","Gaia_Bot1",""
 "16098","AT 2016hxw","08:35:20.85","+34:41:30.59","","","","","Pan-STARRS1","","Pan-STARRS1","PS16ezd","PS1 - GPC1","","1","1","","21.05","w-PS1","2016-11-06 14:52:48","PS1_Bot1",""
 "16099","AT 2016hxx","19:16:38.83","+78:42:32.97","","","","","Pan-STARRS1","","Pan-STARRS1","PS16eyp","PS1 - GPC1","","1","1","","18.22","z-Sloan","2016-11-07 04:42:14","PS1_Bot1",""
@@ -998,4 +999,3 @@
 "17344","SN 2017le","11:10:27.20","+28:41:42.33","SN Ia","0.03","","","ATLAS","PESSTO","ATLAS","ATLAS17agh","ATLAS1 - ACAM1","ESO-NTT - EFOSC2-NTT","1","1","","18.9","cyan-ATLAS","2017-01-04 13:26:24","ATLAS_Bot1",""
 "17345","SN 2017lf","03:12:33.60","+39:19:15.30","SN Ia","0.0146","NGC 1233","0.015","TNTS, iPTF, GaiaAlerts","Padova-Asiago","GaiaAlerts; iPTF; TNTS","","P48 - CFH12k, BAO-0.6m - BATC, Gaia - Gaia-photometric","BAO-2.16m - Cassegrain, Ekar - AFOSC","1","1","","17.3","Clear-","2017-01-22 14:09:36","Li",""
 "17349","AT 2017lj","07:39:01.52","+50:46:05.29","","","","","Pan-STARRS1, iPTF","","iPTF; Pan-STARRS1","PS17aby","P48 - CFH12k, PS1 - GPC1","","1","1","","18.65","i-Sloan","2017-01-15 10:06:14","PS1_Bot1",""
-"17352","SN 2017lm","03:01:32.41","-15:00:57.19","SN Ia","0.03052","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS17aix","ATLAS1 - ACAM1, Gaia - Gaia-photometric","SALT - RSS","1","1","","18.07","orange-ATLAS","2017-01-14 06:28:48","ATLAS_Bot1",""

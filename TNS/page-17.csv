@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"21776","SN 2017fym","22:00:49.41","-31:09:23.36","SN Ia","0.08","","","SkyMapper","ePESSTO","SkyMapper","SMT17qtw","SkyMapper 1.35m - SM-WFCam","ESO-NTT - EFOSC2-NTT","1","1","","19.02","r-SM-SkyMapper","2017-07-27 14:45:36","smt_bot",""
 "21777","AT 2017fyn","15:34:54.65","-19:16:38.21","","","","","SkyMapper","","SkyMapper","SMT17rhf","SkyMapper 1.35m - SM-WFCam","","1","1","","18.49","r-SM-SkyMapper","2017-08-07 09:17:16","smt_bot",""
 "21778","SN 2017fyo","21:08:19.62","-43:40:13.08","SN Ia","0.036","","","SkyMapper","ePESSTO","SkyMapper","SMT17rfk","SkyMapper 1.35m - SM-WFCam","ESO-NTT - EFOSC2-NTT","1","1","","18.51","r-SM-SkyMapper","2017-07-26 11:02:24","smt_bot",""
 "21779","AT 2017fyp","00:45:25.49","+39:50:52.34","Nova","","","","ATLAS, GaiaAlerts","Global SN Project","ATLAS; GaiaAlerts","ATLAS17jgy","ATLAS1 - ACAM1, Gaia - Gaia-photometric","FTN - FLOYDS-N","1","1","","16.77","orange-ATLAS","2017-08-07 13:16:19","ATLAS_Bot1",""
@@ -998,4 +999,3 @@
 "22829","AT 2017hkt","00:15:40.67","-75:46:44.90","","","OGLE-GAL-SMC715.14-1644.322-1827.952","","OGLE","","OGLE","","OGLE-1.3m - OGLE-IV Cam","","1","1","","19.38","I-Cousins","2017-10-14 07:36:23","Wyrzykowski",""
 "22830","AT 2017hku","01:43:39.93","+04:56:00.70","","","","","Pan-STARRS1","","Pan-STARRS1","PS17etc","PS1 - GPC1","","1","1","","20.57","i-Sloan","2017-10-11 09:57:36","PS1_Bot1",""
 "22831","AT 2017hkv","00:21:40.87","-04:46:35.90","","","","","Pan-STARRS1","","Pan-STARRS1","PS17etb","PS1 - GPC1","","1","1","","22.02","w-PS1","2017-09-25 10:16:19","PS1_Bot1",""
-"22832","AT 2017hkw","23:52:58.84","-31:24:09.16","","","","","Pan-STARRS1","","Pan-STARRS1","PS17ete","PS1 - GPC1","","1","1","","20.68","i-Sloan","2017-10-10 09:23:02","PS1_Bot1",""
