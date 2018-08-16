@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"23812","AT 2014fq","14:33:38.08","+00:17:32.67","","","SDSS J143337.84+001732.5","0.12529","","","","","Other - Other","","1","1","","20.94","r-Sloan","2014-06-21 23:23:29","Cornen",""
 "23813","SN 2017ivh","13:39:36.25","-11:28:55.86","SN II","0.008","","","ATLAS, GaiaAlerts, Pan-STARRS1","","ATLAS; GaiaAlerts; Pan-STARRS1","ATLAS17nph","ATLAS1 - ACAM1, Gaia - Gaia-photometric, PS1 - GPC1","Lick 3m - KAST","1","1","","16.317","orange-ATLAS","2017-12-05 15:07:12","ATLAS_Bot1",""
 "23814","AT 2017ivi","14:19:09.26","+06:03:28.40","","","","","GaiaAlerts","","GaiaAlerts","Gaia17dev","Gaia - Gaia-photometric","","1","1","","18.61","G-Gaia","2017-12-05 16:40:47","Gaia_Bot1",""
 "23815","AT 2017ivj","22:32:15.00","+28:39:09.94","","","","","GaiaAlerts","","GaiaAlerts","Gaia17dew","Gaia - Gaia-photometric","","1","1","","18.64","G-Gaia","2017-12-05 07:04:48","Gaia_Bot1",""
@@ -998,4 +999,3 @@
 "24810","AT 2018gu","16:12:28.24","+62:23:37.21","","","","","GaiaAlerts","","GaiaAlerts","Gaia18adp","Gaia - Gaia-photometric","","1","1","","18.8","G-Gaia","2018-01-11 13:50:52","Gaia_Bot1",""
 "24811","SN 2018gv","08:05:34.61","-11:26:16.30","SN Ia","0.0053","NGC 2525","","GaiaAlerts","ePESSTO","GaiaAlerts","","Other - Other, Gaia - Gaia-photometric","Keck1 - LRIS, ESO-NTT - EFOSC2-NTT","1","1","","16.5","Clear-","2018-01-15 16:21:06","Itagaki",""
 "24812","AT 2018gw","00:44:44.23","+41:42:44.47","","","","","ATLAS","","ATLAS","ATLAS18eat","ATLAS1 - ACAM1","","1","1","","19.053","orange-ATLAS","2018-01-10 05:48:28","ATLAS_Bot1",""
-"24813","AT 2018gx","00:08:01.62","+34:21:48.60","","","","","ATLAS","","ATLAS","ATLAS18eba","ATLAS1 - ACAM1","","1","1","","17.952","orange-ATLAS","2018-01-11 06:34:33","ATLAS_Bot1",""

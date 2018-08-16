@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"25819","AT 2018asm","11:03:52.22","-53:57:00.72","","","","","GaiaAlerts","","GaiaAlerts","Gaia18awn","Gaia - Gaia-photometric","","1","1","","16.09","G-Gaia","2018-04-06 17:19:40","Gaia_Bot1",""
 "25820","AT 2018asn","09:26:21.99","+22:07:58.30","","","","","GaiaAlerts, ATLAS","","ATLAS; GaiaAlerts","Gaia18awo","Gaia - Gaia-photometric, ATLAS1 - ACAM1","","1","1","","18.76","G-Gaia","2018-04-07 04:52:19","Gaia_Bot1",""
 "25821","AT 2018aso","08:28:09.49","+53:37:35.04","","","","","GaiaAlerts","","GaiaAlerts","Gaia18awp","Gaia - Gaia-photometric","","1","1","","18.99","G-Gaia","2018-04-06 23:22:33","Gaia_Bot1",""
 "25822","AT 2018asp","21:52:25.07","+08:52:48.50","","","","","GaiaAlerts","","GaiaAlerts","Gaia18awq","Gaia - Gaia-photometric","","1","1","","17.33","G-Gaia","2018-04-06 19:10:33","Gaia_Bot1",""
@@ -998,4 +999,3 @@
 "26951","AT 2018cgo","19:28:50.74","-19:32:54.02","","","","","ASAS-SN, ATLAS","","ASAS-SN; ATLAS","ASASSN-18lw","ASASSN-3 - Paczynski, ASASSN-5 - Payne-Gaposchkin, ATLAS1 - ACAM1","","1","1","","16.8","g-Sloan","2018-06-05 22:04:48","Stanek",""
 "26952","AT 2018cgp","19:21:55.68","-63:19:04.80","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bkg","Gaia - Gaia-photometric","","1","1","","18.68","G-Gaia","2018-06-01 16:10:33","Gaia_Bot1",""
 "26953","SN 2018cgq","00:54:02.54","+47:10:50.56","SN IIP","","","","GaiaAlerts, ATLAS","ZTF","ATLAS; GaiaAlerts","Gaia18bkh","Gaia - Gaia-photometric, ATLAS1 - ACAM1","P60 - SED-Machine","1","1","","17.33","G-Gaia","2018-06-02 00:05:45","Gaia_Bot1",""
-"26954","AT 2018cgr","14:04:12.71","-59:39:18.29","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bkj","Gaia - Gaia-photometric","","1","1","","17.24","G-Gaia","2018-06-01 15:00:00","Gaia_Bot1",""

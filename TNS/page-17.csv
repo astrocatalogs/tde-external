@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"21753","AT 2017fxp","03:20:36.60","+09:33:14.36","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS17jgc","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","16.93","orange-ATLAS","2017-08-06 14:35:31","ATLAS_Bot1",""
 "21754","AT 2017fxq","22:10:37.71","-35:03:43.56","","","","","SkyMapper","","SkyMapper","SMT17kms","SkyMapper 1.35m - SM-WFCam","","1","1","","19.88","g-SM-SkyMapper","2017-07-18 12:27:21","smt_bot",""
 "21755","AT 2017fxr","15:56:22.89","+44:56:12.00","","","","","Pan-STARRS1","","Pan-STARRS1","PS17dzj","PS1 - GPC1","","1","1","","20.06","i-Sloan","2017-08-03 06:33:07","PS1_Bot1",""
 "21756","AT 2017fxs","16:02:59.96","+55:45:39.22","","","","","Pan-STARRS1","","Pan-STARRS1","PS17dzk","PS1 - GPC1","","1","1","","19.51","i-Sloan","2017-08-03 06:28:48","PS1_Bot1",""
@@ -998,4 +999,3 @@
 "22806","SN 2017hjw","05:08:43.99","+70:28:32.28","SN Ia","0.016161","","","ATLAS, GaiaAlerts, Pan-STARRS1","","ATLAS; GaiaAlerts; Pan-STARRS1","ATLAS17mgh","ATLAS1 - ACAM1, Gaia - Gaia-photometric, PS1 - GPC1","Ekar - AFOSC","1","1","","18.552","orange-ATLAS","2017-10-14 13:46:33","ATLAS_Bot1",""
 "22807","AT 2017hjx","06:49:51.03","+64:24:39.33","","","","","ATLAS, Pan-STARRS1","","ATLAS; Pan-STARRS1","ATLAS17mgs","ATLAS1 - ACAM1, PS1 - GPC1","","1","1","","18.557","orange-ATLAS","2017-10-02 15:20:09","ATLAS_Bot1",""
 "22808","SN 2017hjy","02:36:02.56","+43:28:19.51","SN Ia","0.007","","","ATLAS, Pan-STARRS1, GaiaAlerts","","ATLAS; GaiaAlerts; Pan-STARRS1","ATLAS17mgt","ATLAS1 - ACAM1, PS1 - GPC1, Gaia - Gaia-photometric","Ekar - AFOSC","1","1","","17.977","orange-ATLAS","2017-10-14 11:55:40","ATLAS_Bot1",""
-"22809","AT 2017hjz","01:57:03.53","+32:06:34.51","","","","","ATLAS","","ATLAS","ATLAS17mgg","ATLAS1 - ACAM1","","1","1","","19.639","orange-ATLAS","2017-10-14 11:32:38","ATLAS_Bot1",""

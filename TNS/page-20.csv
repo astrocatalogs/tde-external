@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"24813","AT 2018gx","00:08:01.62","+34:21:48.60","","","","","ATLAS","","ATLAS","ATLAS18eba","ATLAS1 - ACAM1","","1","1","","17.952","orange-ATLAS","2018-01-11 06:34:33","ATLAS_Bot1",""
 "24814","AT 2018gy","13:45:53.68","+35:43:13.85","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS18eaq","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","18.351","orange-ATLAS","2018-01-09 14:58:33","ATLAS_Bot1",""
 "24815","AT 2018gz","01:45:02.33","+29:55:53.24","","","","","ATLAS","","ATLAS","ATLAS18ear","ATLAS1 - ACAM1","","1","1","","19.241","orange-ATLAS","2018-01-07 07:27:50","ATLAS_Bot1",""
 "24816","AT 2017jzu","16:11:16.37","+14:15:30.65","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS18eas","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","17.108","orange-ATLAS","2017-12-30 15:02:52","ATLAS_Bot1",""
@@ -998,4 +999,3 @@
 "25816","SN 2018asj","09:22:58.76","+09:04:10.70","SN Ia","0.1","","","GaiaAlerts, ATLAS","ePESSTO","ATLAS; GaiaAlerts","Gaia18awh","Gaia - Gaia-photometric, ATLAS1 - ACAM1","ESO-NTT - EFOSC2-NTT","1","1","","18.8","G-Gaia","2018-04-05 22:39:21","Gaia_Bot1",""
 "25817","AT 2018ask","18:21:55.78","-63:49:15.17","","","","","GaiaAlerts","","GaiaAlerts","Gaia18awl","Gaia - Gaia-photometric","","1","1","","17.87","G-Gaia","2018-04-05 04:24:57","Gaia_Bot1",""
 "25818","AT 2018asl","11:34:30.14","-57:50:09.46","","","","","GaiaAlerts","","GaiaAlerts","Gaia18awm","Gaia - Gaia-photometric","","1","1","","18.44","G-Gaia","2018-04-05 17:13:55","Gaia_Bot1",""
-"25819","AT 2018asm","11:03:52.22","-53:57:00.72","","","","","GaiaAlerts","","GaiaAlerts","Gaia18awn","Gaia - Gaia-photometric","","1","1","","16.09","G-Gaia","2018-04-06 17:19:40","Gaia_Bot1",""
