@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"20750","AT 2017ell","01:02:20.65","-19:39:50.80","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bko","Gaia - Gaia-photometric","","1","1","","18.76","G-Gaia","2017-05-30 12:10:04","Gaia_Bot1",""
+"20751","AT 2017elm","01:03:06.95","-11:36:46.84","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bkp","Gaia - Gaia-photometric","","1","1","","18.7","G-Gaia","2017-05-30 12:01:26","Gaia_Bot1",""
 "20752","AT 2017eln","01:04:01.49","-00:19:13.26","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bkq","Gaia - Gaia-photometric","","1","1","","18.3","G-Gaia","2017-05-30 07:36:28","Gaia_Bot1",""
 "20753","AT 2017elo","01:04:04.96","+10:15:57.56","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bkr","Gaia - Gaia-photometric","","1","1","","18.65","G-Gaia","2017-05-30 05:38:24","Gaia_Bot1",""
 "20754","AT 2017elp","01:05:31.70","+21:41:13.24","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bks","Gaia - Gaia-photometric","","1","1","","18.98","G-Gaia","2017-05-30 01:12:00","Gaia_Bot1",""
@@ -997,5 +999,3 @@
 "21748","AT 2017fxk","17:42:12.69","-36:19:26.65","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bzb","Gaia - Gaia-photometric","","1","1","","19.05","G-Gaia","2017-08-03 13:50:52","Gaia_Bot1",""
 "21749","AT 2017fxl","17:37:35.20","-34:45:20.77","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bzc","Gaia - Gaia-photometric","","1","1","","18.63","G-Gaia","2017-08-03 07:52:19","Gaia_Bot1",""
 "21750","AT 2017fxm","17:33:15.50","-31:15:05.18","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bzd","Gaia - Gaia-photometric","","1","1","","18.47","G-Gaia","2017-08-03 19:56:38","Gaia_Bot1",""
-"21751","AT 2017fxn","19:53:22.74","-66:19:07.68","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bze","Gaia - Gaia-photometric","","1","1","","17.98","G-Gaia","2017-08-04 03:02:52","Gaia_Bot1",""
-"21752","AT 2017fxo","14:09:51.56","-02:29:15.26","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS17jgb","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","18.57","orange-ATLAS","2017-08-04 07:00:28","ATLAS_Bot1",""

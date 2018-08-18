@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"16040","AT 2016hvq","21:47:34.38","-25:47:32.71","CV","","","","ASAS-SN","NUTS","ASAS-SN","ASASSN-16mx","ASASSN-2 - Cassius","NOT - ALFOSC","1","1","","16.8","V-Johnson","2016-11-02 03:36:00","Stanek",""
+"16041","AT 2016hvr","23:32:53.72","+24:22:10.40","","","SDSS J233253.64+242210.0","","TNTS","","TNTS","","BAO-0.6m - BATC","","1","1","","19.5","Clear-","2016-11-03 14:24:00","Li",""
 "16042","AT 2016hvs","14:41:19.71","-65:40:30.86","","","","","GaiaAlerts","","GaiaAlerts","Gaia16brc","Gaia - Gaia-photometric","","1","1","","18.66","G-Gaia","2016-10-24 21:37:26","Gaia_Bot1",""
 "16043","AT 2016hvt","06:21:53.17","-27:10:02.54","CV","0","","","DLT40, Pan-STARRS1","PESSTO","DLT40; Pan-STARRS1","DLT16ai","Other - Other, PS1 - GPC1","ESO-NTT - EFOSC2-NTT","1","1","","19.1467","Clear-","2016-11-06 07:04:48","DLT40_bot1",""
 "16044","SN 2016hvu","22:35:55.56","+20:19:12.58","SN IIP","0.0185","NGC 7316","0.01852","SNHunt","","CRTS; SNHunt","","Other - Other","Lijiang-2.4m - YFOSC","1","1","","17.6","V-crts-CRTS","2016-11-06 02:40:36","Drake",""
@@ -997,5 +999,3 @@
 "17310","AT 2017jw","15:42:11.65","+06:38:31.92","","","","","GaiaAlerts","","GaiaAlerts","Gaia17aco","Gaia - Gaia-photometric","","1","1","","17.96","G-Gaia","2017-01-14 05:44:09","Gaia_Bot1",""
 "17311","AT 2017jx","07:53:34.60","+51:52:37.98","","","","","Pan-STARRS1","","Pan-STARRS1","PS17afp","PS1 - GPC1","","1","1","","19.25","i-Sloan","2017-01-15 10:33:36","PS1_Bot1",""
 "17312","SN 2017jy","04:32:44.43","-05:53:30.48","SN Ia","0.043","","","GaiaAlerts","PESSTO","GaiaAlerts","Gaia17adb","Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","17.59","G-Gaia","2017-01-16 04:30:43","Gaia_Bot1",""
-"17313","AT 2017jz","22:29:00.35","+26:37:06.92","","","","","GaiaAlerts","","GaiaAlerts","Gaia17ade","Gaia - Gaia-photometric","","1","1","","16.1","G-Gaia","2017-01-15 16:07:40","Gaia_Bot1",""
-"17314","AT 2017ka","16:11:10.98","+03:47:15.00","","","","","GaiaAlerts","","GaiaAlerts","Gaia17adf","Gaia - Gaia-photometric","","1","1","","19.3","G-Gaia","2017-01-15 23:39:50","Gaia_Bot1",""
