@@ -1,1 +1,8 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"28953","AT 2018ffa","16:03:27.92","-48:13:44.97","","","","","BraTS","","BraTS","BraTS-OCA-T1-005","Other - Other","","1","1","","17.4","Clear-","2018-08-17 22:43:01","Jacques",""
+"28954","AT 2018ffb","22:58:11.52","-20:17:02.76","","","GALEXASC J225811.55-201702.1 ","","ASAS-SN","","ASAS-SN","ASASSN-18sv","ASASSN-5 - Payne-Gaposchkin","","1","1","","17.9","g-Sloan","2018-08-17 22:33:36","Stanek",""
+"28955","AT 2018ffc","14:55:45.54","+57:20:50.29","","","","","ATLAS","","ATLAS","ATLAS18tww","ATLAS1 - ACAM1","","1","1","","19.503","cyan-ATLAS","2018-08-14 07:46:33","ATLAS_Bot1",""
+"28956","AT 2018ffd","00:19:06.07","-25:57:35.08","","","","","ATLAS","","ATLAS","ATLAS18txa","ATLAS1 - ACAM1","","1","1","","18.459","orange-ATLAS","2018-08-17 11:39:50","ATLAS_Bot1",""
+"28957","AT 2018ffe","18:21:59.64","+66:35:51.36","","","","","ATLAS","","ATLAS","ATLAS18twz","ATLAS1 - ACAM1","","1","1","","19.367","orange-ATLAS","2018-08-18 09:02:52","ATLAS_Bot1",""
+"28958","AT 2018fff","15:35:59.65","+46:44:46.02","","","","","ATLAS","","ATLAS","ATLAS18twv","ATLAS1 - ACAM1","","1","1","","18.98","orange-ATLAS","2018-08-18 06:51:50","ATLAS_Bot1",""
+"28959","AT 2018ffg","18:31:22.43","+63:44:28.74","","","","","ATLAS","","ATLAS","ATLAS18twu","ATLAS1 - ACAM1","","1","1","","19.329","cyan-ATLAS","2018-08-14 09:23:02","ATLAS_Bot1",""
