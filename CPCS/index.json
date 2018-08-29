@@ -660,7 +660,7 @@
  {"id":26249,"ivorn":"ivo://Gaia16alt","published":"2016-05-02T19:03:25","ra":325.74996,"dec":66.19105,"nfollowup":766}, 
  {"id":26246,"ivorn":"ivo://Gaia16akt","published":"2016-04-27T15:08:36","ra":173.78282,"dec":64.48109,"nfollowup":1}, 
  {"id":26245,"ivorn":"ivo://pt5mVAR2","published":"2016-04-26T05:34:57","ra":290.442,"dec":-4.03413888889,"nfollowup":24}, 
- {"id":26244,"ivorn":"ivo://Gaia16alq","published":"2016-04-25T21:42:34","ra":273.12232,"dec":31.27981,"nfollowup":468}, 
+ {"id":26244,"ivorn":"ivo://Gaia16alq","published":"2016-04-25T21:42:34","ra":273.12232,"dec":31.27981,"nfollowup":415}, 
  {"id":26243,"ivorn":"ivo://Gaia16alb","published":"2016-04-24T14:04:57","ra":112.04606,"dec":72.57537,"nfollowup":2}, 
  {"id":26242,"ivorn":"ivo://Gaia16aik","published":"2016-04-23T17:29:10","ra":310.99827,"dec":42.05706,"nfollowup":24}, 
  {"id":26241,"ivorn":"ivo://Gaia16alj","published":"2016-04-22T06:02:38","ra":256.0474,"dec":11.13755,"nfollowup":2}, 
