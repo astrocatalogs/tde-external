@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"29560","AT 2018gch","06:23:05.62","-70:11:08.60","","","OGLE-GAL-LMC611.13-876.915-697.618","","OGLE","","OGLE","LMC611.13.866.95.702.22","OGLE-1.3m - OGLE-IV Cam","","1","1","","20.405","I-Cousins","2018-09-08 09:41:27","Wyrzykowski",""
 "29559","AT 2018gcg","17:16:10.37","+01:25:46.25","","","","","ATLAS","","ATLAS","ATLAS18uxa","ATLAS1 - ACAM1","","1","1","","19.097","orange-ATLAS","2018-09-09 07:00:28","ATLAS_Bot1",""
 "29558","AT 2018gcf","23:06:30.20","+08:22:01.53","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bqd","PS1 - GPC1","","1","1","","20.2","w-PS1","2018-08-13 13:46:33","PS1_Bot1",""
 "29557","AT 2018gce","22:59:18.61","+09:35:20.12","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bqb","PS1 - GPC1","","1","1","","20.07","w-PS1","2018-08-12 13:27:50","PS1_Bot1",""
@@ -48,4 +49,3 @@
 "29513","AT 2018gam","01:44:12.19","+00:31:05.95","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bow","PS1 - GPC1","","1","1","","21.24","w-PS1","2018-08-11 14:18:14","PS1_Bot1",""
 "29512","AT 2018gal","22:53:23.59","+14:50:54.16","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bpz","PS1 - GPC1","","1","1","","20.4","w-PS1","2018-08-12 13:29:16","PS1_Bot1",""
 "29511","AT 2018gak","22:53:19.47","+14:53:06.04","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bpy","PS1 - GPC1","","1","1","","21.4","w-PS1","2018-08-12 13:29:16","PS1_Bot1",""
-"29510","AT 2018gaj","22:42:32.08","+09:32:35.40","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bpv","PS1 - GPC1","","1","1","","21.72","w-PS1","2018-08-12 13:26:24","PS1_Bot1",""
