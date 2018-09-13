@@ -778,7 +778,7 @@
 "21277","AT 2017ffp","22:11:08.15","-01:10:44.16","","","","","Pan-STARRS1","","Pan-STARRS1","PS17dpg","PS1 - GPC1","","1","1","","20.33","w-PS1","2017-07-06 14:06:43","PS1_Bot1",""
 "21278","AT 2017ffq","17:40:14.66","-58:25:57.36","","","2MASX J17401447-5825586","0.012719","ASAS-SN, GaiaAlerts","","ASAS-SN; GaiaAlerts","ASASSN-17je","ASASSN-2 - Cassius, Gaia - Gaia-photometric","","1","1","","15.9","V-Johnson","2017-07-10 03:50:24","Stanek",""
 "21279","AT 2017ffr","22:40:13.71","-36:02:53.27","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bsm","Gaia - Gaia-photometric","","1","1","","18.93","G-Gaia","2017-07-06 18:10:04","Gaia_Bot1",""
-"21280","AT 2017ffs","21:34:49.54","+35:32:03.95","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bsp","Gaia - Gaia-photometric","","1","1","","16.59","G-Gaia","2017-07-07 22:55:12","Gaia_Bot1",""
+"21280","AT 2017ffs","21:34:49.54","+35:32:03.95","","","","","GaiaAlerts, ZTF","","GaiaAlerts; ZTF","Gaia17bsp","Gaia - Gaia-photometric, P48 - ZTF-Cam","","1","1","","16.59","G-Gaia","2017-07-07 22:55:12","Gaia_Bot1",""
 "21281","AT 2017fft","03:00:49.27","-79:33:10.69","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bsq","Gaia - Gaia-photometric","","1","1","","18.73","G-Gaia","2017-07-08 06:57:36","Gaia_Bot1",""
 "21282","AT 2017ffu","15:45:14.17","-17:43:42.13","","","","","ATLAS, Pan-STARRS1","","ATLAS; Pan-STARRS1","ATLAS17ikx","ATLAS1 - ACAM1, PS1 - GPC1","","1","1","","18.03","orange-ATLAS","2017-07-10 09:24:28","ATLAS_Bot1",""
 "21283","AT 2017ffv","13:57:21.74","-34:46:24.46","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS17iky","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","17.24","orange-ATLAS","2017-07-10 07:42:14","ATLAS_Bot1",""
