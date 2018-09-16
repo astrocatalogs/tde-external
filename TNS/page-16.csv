@@ -130,7 +130,7 @@
 "20627","AT 2017egs","11:48:04.12","-05:21:11.12","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bjc","Gaia - Gaia-photometric","","1","1","","18.91","G-Gaia","2017-05-24 02:49:55","Gaia_Bot1",""
 "20628","AT 2017egt","12:38:55.98","-40:47:01.39","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bjd","Gaia - Gaia-photometric","","1","1","","18","G-Gaia","2017-05-23 08:13:55","Gaia_Bot1",""
 "20629","AT 2017egu","00:04:35.76","+20:19:42.31","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bje","Gaia - Gaia-photometric","","1","1","","18.77","G-Gaia","2017-05-23 19:12:00","Gaia_Bot1",""
-"20630","AT 2017egv","15:44:19.72","-06:49:13.87","CV","","2MASX J15441967-0649156","","ASAS-SN","ASAS-SN","ASAS-SN","ASASSN-17gs","ASASSN-2 - Cassius, ASASSN-1 - Brutus","LT - SPRAT","1","1","","17.3","V-Johnson","2017-05-25 09:36:00","Stanek",""
+"20630","AT 2017egv","15:44:19.72","-06:49:13.87","CV","","2MASX J15441967-0649156","","ASAS-SN, GaiaAlerts","ASAS-SN","ASAS-SN; GaiaAlerts","ASASSN-17gs","ASASSN-2 - Cassius, ASASSN-1 - Brutus, Gaia - Gaia-photometric","LT - SPRAT","1","1","","17.3","V-Johnson","2017-05-25 09:36:00","Stanek",""
 "20631","AT 2017egw","13:08:22.35","+31:13:52.60","","","2MASX J13082248+3113519","0.106731","TNTS","","TNTS","","BAO-0.6m - BATC","","1","1","","19.3","Clear-","2017-05-24 14:24:00","Li",""
 "20632","AT 2017egx","12:57:54.04","+28:29:57.60","","","2MASX J12575392+2829594","0.024","TNTS","","TNTS","","BAO-0.6m - BATC","","1","1","","18.5","Clear-","2017-05-24 14:09:36","Li",""
 "20633","AT 2017egy","17:18:53.86","+21:44:11.39","","","","","Pan-STARRS1","","Pan-STARRS1","PS17dcm","PS1 - GPC1","","1","1","","18.32","i-Sloan","2017-05-18 14:09:36","PS1_Bot1",""
