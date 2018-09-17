@@ -1,6 +1,6 @@
 name	"<a href='http://goo.gl/Byu6Zi'>PS1-10jh</a>"
 host	"<a href='http://goo.gl/wLmfc2'>SDSS J160928.27+534023.9</a>"
-citations	"<a href='http://adsabs.harvard.edu/abs/2012Natur.485..217G'>Gezari et al. 2012</a>*&Dagger;, <a href='http://adsabs.harvard.edu/abs/2013arXiv1304.6397G'>Guillochon et al. 2013</a>&Dagger;"
+citations	"<a href='http://adsabs.harvard.edu/abs/2015ApJ...815L...5G'>Gezari et al. 2015</a>*&Dagger;, <a href='http://adsabs.harvard.edu/abs/2012Natur.485..217G'>Gezari et al. 2012</a>*&Dagger;, <a href='http://adsabs.harvard.edu/abs/2013arXiv1304.6397G'>Guillochon et al. 2013</a>&Dagger;"
 instruments	"Pan-STARRS (g, r, i, z), Chandra&Dagger;, MMT"
 redshift	"0.1696"
 claimedtype	"He + SMBH, MS + SMBH"
