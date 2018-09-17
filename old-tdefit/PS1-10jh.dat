@@ -29,7 +29,6 @@ photometry	MJD	55370.57	GN	19.18	0.04	0
 photometry	MJD	55674.82	GN	21.83	0.12	0
 photometry	MJD	55691.39	GN	21.91	0.13	0
 photometry	MJD	55720.62	GN	22.27	0.16	0
-photometry	MJD	56821.50	HN	23.70	0.12	0
 photometry	MJD	54979.48	Pg	23.90	0.0	1
 photometry	MJD	54982.43	Pg	23.89	0.0	1
 photometry	MJD	54996.45	Pg	23.70	0.0	1
@@ -186,8 +185,6 @@ photometry	MJD	55694.50	Pz	23.20	0.0	1
 photometry	MJD	55740.90	Pz	24.01	1.09	0
 photometry	MJD	55764.80	Pz	23.85	1.11	0
 photometry	MJD	55794.75	Pz	24.50	1.76	0
-photometry	yrs	0.89934794772	X1	-3.0268721464	0.00000000000	1
-photometry	yrs	4.3751303100	XM	-3.0076600000	0.20171800000	0
 broad_line	yrs	0.07898053625	9.d8	He	T
 broad_line	yrs	0.07898053625	0.d0	Ha	F
 broad_line	yrs	0.76071994270	0.d0	He	T
