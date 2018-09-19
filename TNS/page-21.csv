@@ -884,7 +884,7 @@
 "26583","AT 2018bst","11:28:41.64","+63:35:51.29","","","","","ZTF","","ZTF","ZTF18aaqkjzp","P48 - ZTF-Cam","","1","1","","19.93","r-ZTF","2018-05-05 04:24:57","ZTF_Bot1",""
 "26584","AT 2018bsu","16:45:32.22","+59:55:07.05","","","","","ZTF","","ZTF","ZTF18aatzygk","P48 - ZTF-Cam","","1","1","","19.53","r-ZTF","2018-05-14 09:20:09","ZTF_Bot1",""
 "26585","AT 2018bsv","17:08:56.64","+27:23:53.06","Galaxy","0.106","","","ZTF","ePESSTO","ZTF","ZTF18aarqliy","P48 - ZTF-Cam","ESO-NTT - EFOSC2-NTT","1","1","","18.33","r-ZTF","2018-04-24 10:29:16","ZTF_Bot1",""
-"26586","AT 2018bsw","17:56:39.11","+16:14:07.52","","","","","ZTF","","ZTF","ZTF18aatycgd","P48 - ZTF-Cam","","1","1","","18.61","r-ZTF","2018-05-14 09:00:00","ZTF_Bot1",""
+"26586","AT 2018bsw","17:56:39.11","+16:14:07.52","","","","","ZTF, ATLAS","","ATLAS; ZTF","ZTF18aatycgd","P48 - ZTF-Cam, ATLAS1 - ACAM1","","1","1","","18.61","r-ZTF","2018-05-14 09:00:00","ZTF_Bot1",""
 "26587","AT 2018bsx","11:06:24.14","+18:25:17.41","","","","","ATLAS","","ATLAS","ATLAS18pej","ATLAS1 - ACAM1","","1","1","","19.641","cyan-ATLAS","2018-05-13 08:45:36","ATLAS_Bot1",""
 "26588","SN 2018bsy","21:58:03.89","-19:45:12.12","SN Ia","0.097","","","ATLAS, Pan-STARRS1","ePESSTO","ATLAS; Pan-STARRS1","ATLAS18pek","ATLAS1 - ACAM1, PS1 - GPC1","ESO-NTT - EFOSC2-NTT","1","1","","18.946","cyan-ATLAS","2018-05-12 14:45:36","ATLAS_Bot1",""
 "26589","SN 2018bsz","16:09:39.20","-32:03:45.22","SN II","0.027","2MASX J16093905-3203443","0.026665","ASAS-SN, ATLAS","Global SN Project, ePESSTO","ASAS-SN; ATLAS","ASASSN-18km","ASASSN-4 - Leavitt, ASASSN-5 - Payne-Gaposchkin, ATLAS1 - ACAM1","FTN - FLOYDS-N, ESO-NTT - EFOSC2-NTT","1","1","","17.3","g-Sloan","2018-05-17 00:00:00","Stanek",""

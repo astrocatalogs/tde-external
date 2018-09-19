@@ -875,7 +875,7 @@
 "28576","AT 2018eqn","16:00:45.14","-56:03:47.92","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bzs","Gaia - Gaia-photometric","","1","1","","18.57","G-Gaia","2018-08-03 02:42:43","Gaia_Bot1",""
 "28577","AT 2018eqo","22:37:00.52","-58:09:51.84","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bzt","Gaia - Gaia-photometric","","1","1","","18.39","G-Gaia","2018-08-03 13:56:38","Gaia_Bot1",""
 "28578","AT 2018eqp","16:15:22.61","-57:25:05.38","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bzu","Gaia - Gaia-photometric","","1","1","","17.89","G-Gaia","2018-08-03 08:41:16","Gaia_Bot1",""
-"28579","SN 2018eqq","03:06:55.16","+41:30:32.90","SN Ia","0.016","","","GaiaAlerts","DAO_OTS","GaiaAlerts","Gaia18bzv","Gaia - Gaia-photometric","Plaskett Telescope - Plaskett","1","1","","15.05","G-Gaia","2018-08-03 13:40:47","Gaia_Bot1",""
+"28579","SN 2018eqq","03:06:55.16","+41:30:32.90","SN Ia","0.016","","","GaiaAlerts, ATLAS","DAO_OTS","ATLAS; GaiaAlerts","Gaia18bzv","Gaia - Gaia-photometric, ATLAS1 - ACAM1","Plaskett Telescope - Plaskett","1","1","","15.05","G-Gaia","2018-08-03 13:40:47","Gaia_Bot1",""
 "28580","AT 2018eqr","14:45:01.24","-36:34:03.50","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bzw","Gaia - Gaia-photometric","","1","1","","17.07","G-Gaia","2018-08-03 09:04:19","Gaia_Bot1",""
 "28581","AT 2018eqs","18:07:54.04","-64:13:50.05","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bzx","Gaia - Gaia-photometric","","1","1","","18","G-Gaia","2018-08-03 20:26:52","Gaia_Bot1",""
 "28582","AT 2018eqt","15:49:41.07","-52:09:29.81","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bzy","Gaia - Gaia-photometric","","1","1","","18.81","G-Gaia","2018-08-03 14:47:02","Gaia_Bot1",""
