@@ -784,7 +784,7 @@
 "21283","AT 2017ffv","13:57:21.74","-34:46:24.46","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS17iky","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","17.24","orange-ATLAS","2017-07-10 07:42:14","ATLAS_Bot1",""
 "21284","AT 2017ffw","09:19:49.19","-30:43:37.56","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bss","Gaia - Gaia-photometric","","1","1","","20.17","G-Gaia","2017-06-16 03:38:52","Gaia_Bot1",""
 "21285","AT 2017ffx","10:11:44.02","-02:43:49.76","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bst","Gaia - Gaia-photometric","","1","1","","18.69","G-Gaia","2017-06-22 20:16:48","Gaia_Bot1",""
-"21286","AT 2017ffy","22:03:02.93","+36:25:33.31","","","","","GaiaAlerts, ZTF","","GaiaAlerts; ZTF","Gaia17bsv","Gaia - Gaia-photometric, P48 - ZTF-Cam","","1","1","","18.71","G-Gaia","2017-07-09 10:56:38","Gaia_Bot1",""
+"21286","AT 2017ffy","22:03:02.93","+36:25:33.31","CV","","","","GaiaAlerts, ZTF","ZTF","GaiaAlerts; ZTF","Gaia17bsv","Gaia - Gaia-photometric, P48 - ZTF-Cam","P60 - SED-Machine","1","1","","18.71","G-Gaia","2017-07-09 10:56:38","Gaia_Bot1",""
 "21287","AT 2017ffz","09:48:04.33","-45:26:04.99","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bsw","Gaia - Gaia-photometric","","1","1","","18.79","G-Gaia","2017-07-09 01:42:14","Gaia_Bot1",""
 "21288","AT 2017fga","10:15:25.93","-02:04:31.84","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bsx","Gaia - Gaia-photometric","","1","1","","17.92","G-Gaia","2017-07-09 02:22:33","Gaia_Bot1",""
 "21289","AT 2017fgb","09:46:41.01","-45:52:01.92","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bsy","Gaia - Gaia-photometric","","1","1","","18.21","G-Gaia","2017-07-09 01:40:48","Gaia_Bot1",""
