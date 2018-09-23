@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"22555","SN 2017haf","23:56:21.82","+32:27:24.08","SN Ia","0.0094","2MASX J23562219+3227266","0.0161","ASAS-SN, Pan-STARRS1, GaiaAlerts","iPTF","ASAS-SN; GaiaAlerts; Pan-STARRS1","ASASSN-17mz","ASASSN-1 - Brutus, PS1 - GPC1, Gaia - Gaia-photometric","P60 - SED-Machine","1","1","","16","V-Johnson","2017-09-30 12:00:00","Stanek",""
 "22556","AT 2017hag","18:27:30.78","-38:27:09.68","","","","","GaiaAlerts","","GaiaAlerts","Gaia17clq","Gaia - Gaia-photometric","","1","1","","16.45","G-Gaia","2017-09-23 13:17:45","Gaia_Bot1",""
 "22557","AT 2017hah","18:44:06.95","-13:20:10.21","","","","","GaiaAlerts","","GaiaAlerts","Gaia17clr","Gaia - Gaia-photometric","","1","1","","18.53","G-Gaia","2017-09-28 19:36:28","Gaia_Bot1",""
 "22558","SN 2017hai","08:56:13.10","+32:30:35.39","SN Ia","0.0609","","","GaiaAlerts","iPTF","GaiaAlerts","Gaia17cls","Gaia - Gaia-photometric","P60 - SED-Machine","1","1","","18.99","G-Gaia","2017-09-29 09:56:09","Gaia_Bot1",""
@@ -998,4 +999,3 @@
 "23555","AT 2017imb","09:51:24.49","+07:42:01.54","","","","","Pan-STARRS1","","Pan-STARRS1","PS17fej","PS1 - GPC1","","1","1","","20.97","w-PS1","2017-11-22 14:19:40","PS1_Bot1",""
 "23556","AT 2017imc","09:31:10.69","+06:54:02.68","","","","","Pan-STARRS1","","Pan-STARRS1","PS17fel","PS1 - GPC1","","1","1","","20.31","w-PS1","2017-11-22 14:16:48","PS1_Bot1",""
 "23557","SN 2017imd","09:19:04.24","+05:53:12.67","SN Ia","0.046","","","Pan-STARRS1, ASAS-SN","ePESSTO","ASAS-SN; Pan-STARRS1","PS17fek","PS1 - GPC1, ASASSN-4 - Leavitt","ESO-NTT - EFOSC2-NTT","1","1","","18.11","w-PS1","2017-11-22 14:12:28","PS1_Bot1",""
-"23558","AT 2017ime","21:02:14.76","-17:45:13.30","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS17njw","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","18.683","orange-ATLAS","2017-11-18 05:29:45","ATLAS_Bot1",""
