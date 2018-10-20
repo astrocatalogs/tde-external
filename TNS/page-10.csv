@@ -635,7 +635,7 @@
 "14077","AT 2016eze","13:01:09.10","-28:59:56.70","","","","","GaiaAlerts","","GaiaAlerts","Gaia16bai","Gaia - Gaia-photometric","","1","1","","18.57","G-Gaia","2016-08-11 18:43:12","Gaia_Bot1",""
 "14078","AT 2016ezf","01:39:21.85","-02:06:20.09","","","","","Pan-STARRS1","","Pan-STARRS1","PS16dtk","PS1 - GPC1","","1","1","","19.81","w-PS1","2016-08-12 13:47:59","PS1_Bot1",""
 "14079","AT 2016ezg","01:54:08.20","-02:41:03.59","","","","","Pan-STARRS1, GaiaAlerts","","GaiaAlerts; Pan-STARRS1","PS16dtl","PS1 - GPC1, Gaia - Gaia-photometric","","1","1","","18.72","w-PS1","2016-08-12 13:45:07","PS1_Bot1",""
-"14080","SN 2016ezh","01:58:04.74","-00:52:21.74","SN II","0.08","","","Pan-STARRS1","Padova-Asiago","Pan-STARRS1","PS16dtm","PS1 - GPC1","Ekar - AFOSC","1","1","","17.12","w-PS1","2016-08-12 13:46:33","PS1_Bot1",""
+"14080","SN 2016ezh","01:58:04.74","-00:52:21.74","SN II","0.08","","","Pan-STARRS1, iPTF","Padova-Asiago","iPTF; Pan-STARRS1","PS16dtm","PS1 - GPC1, P48 - CFH12k","Ekar - AFOSC","1","1","","17.12","w-PS1","2016-08-12 13:46:33","PS1_Bot1",""
 "14081","AT 2016ezi","18:57:24.17","+38:00:57.87","","","","","Pan-STARRS1, GaiaAlerts","","GaiaAlerts; Pan-STARRS1","PS16dtn","PS1 - GPC1, Gaia - Gaia-photometric","","1","1","","18.17","r-Sloan","2016-08-13 08:05:16","PS1_Bot1",""
 "14082","AT 2016ezj","16:32:12.86","+72:18:09.63","","","","","Pan-STARRS1","","Pan-STARRS1","PS16dtg","PS1 - GPC1","","1","1","","18.49","r-Sloan","2016-08-11 06:57:36","PS1_Bot1",""
 "14083","AT 2016ezk","17:00:18.76","+60:37:27.76","","","","","Pan-STARRS1, GaiaAlerts","","GaiaAlerts; Pan-STARRS1","PS16dth","PS1 - GPC1, Gaia - Gaia-photometric","","1","1","","20.26","r-Sloan","2016-08-11 06:51:50","PS1_Bot1",""
