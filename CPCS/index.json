@@ -135,7 +135,7 @@
  {"id":27053,"ivorn":"ivo://Gaia18bxo","published":"2018-08-29T12:29:05","ra":356.631,"dec":7.565,"nfollowup":17}, 
  {"id":27052,"ivorn":"ivo://Gaia18chb","published":"2018-08-29T12:27:15","ra":257.547,"dec":21.6491111111,"nfollowup":11}, 
  {"id":27051,"ivorn":"ivo://Gaia18chk","published":"2018-08-22T01:04:18","ra":262.855,"dec":20.1351111111,"nfollowup":33}, 
- {"id":27050,"ivorn":"ivo://Gaia18cct","published":"2018-08-17T15:51:30","ra":64.14462,"dec":14.90989,"nfollowup":44}, 
+ {"id":27050,"ivorn":"ivo://Gaia18cct","published":"2018-08-17T15:51:30","ra":64.14462,"dec":14.90989,"nfollowup":63}, 
  {"id":27049,"ivorn":"ivo://ATLAS18taz","published":"2018-08-13T17:14:34","ra":352.471738,"dec":27.378028,"nfollowup":269}, 
  {"id":27048,"ivorn":"ivo://AT2018enb","published":"2018-08-04T17:20:35","ra":324.894042,"dec":8.879806,"nfollowup":1}, 
  {"id":27047,"ivorn":"ivo://Gaia18ahw","published":"2018-08-04T17:13:18","ra":1.96239,"dec":44.46051,"nfollowup":10}, 
