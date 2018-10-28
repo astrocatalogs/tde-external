@@ -1,4 +1,6 @@
-[{"id":27223,"ivorn":"ivo://Gaia18day","published":"2018-10-20T11:09:41","ra":80.36281,"dec":-29.66114,"nfollowup":4}, 
+[{"id":27225,"ivorn":"ivo://Gaia18dbr","published":"2018-10-27T17:55:06","ra":144.03634,"dec":6.25755,"nfollowup":6}, 
+ {"id":27224,"ivorn":"ivo://Gaia18dcz","published":"2018-10-27T13:10:37","ra":143.9137,"dec":-17.38644,"nfollowup":6}, 
+ {"id":27223,"ivorn":"ivo://Gaia18day","published":"2018-10-20T11:09:41","ra":80.36281,"dec":-29.66114,"nfollowup":4}, 
  {"id":27222,"ivorn":"ivo://Gaia18dbb","published":"2018-10-19T18:35:39","ra":85.70046,"dec":-24.49303,"nfollowup":4}, 
  {"id":27221,"ivorn":"ivo://CRTS J105122.8+672528","published":"2018-10-16T07:56:57","ra":162.845,"dec":67.4243888889,"nfollowup":1}, 
  {"id":27220,"ivorn":"ivo://Gaia18czu","published":"2018-10-15T07:55:34","ra":96.2572916667,"dec":-2.79963888889,"nfollowup":45}, 
