@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"28386","AT 2018ejh","23:52:36.17","-13:47:08.99","","","","","Pan-STARRS1","","Pan-STARRS1","PS18beb","PS1 - GPC1","","1","1","","21.45","w-PS1","2018-07-12 12:46:04","PS1_Bot1",""
+"28387","AT 2018eji","23:54:06.79","-08:49:51.18","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bec","PS1 - GPC1","","1","1","","21.3","w-PS1","2018-07-12 12:48:57","PS1_Bot1",""
 "28388","AT 2018ejj","23:54:10.39","-13:23:28.67","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bed","PS1 - GPC1","","1","1","","22.46","w-PS1","2018-07-12 12:46:04","PS1_Bot1",""
 "28389","AT 2018ejk","23:56:42.10","-09:37:27.67","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bee","PS1 - GPC1","","1","1","","20.09","w-PS1","2018-07-12 12:47:31","PS1_Bot1",""
 "28390","AT 2018ejl","15:07:16.75","-03:28:25.79","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bef","PS1 - GPC1","","1","1","","21.39","w-PS1","2018-07-13 06:25:55","PS1_Bot1",""
@@ -997,5 +999,3 @@
 "29383","SN 2018fvm","20:37:27.79","-37:43:16.93","SN Ia","0.018","","","ATLAS, GaiaAlerts","ePESSTO","ATLAS; GaiaAlerts","ATLAS18ujx","ATLAS1 - ACAM1, Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","17.787","orange-ATLAS","2018-09-06 08:22:33","ATLAS_Bot1",""
 "29384","AT 2018fvn","19:56:48.05","-18:11:32.33","","","","","ATLAS","","ATLAS","ATLAS18ujy","ATLAS1 - ACAM1","","1","1","","19.048","orange-ATLAS","2018-09-06 08:06:43","ATLAS_Bot1",""
 "29385","AT 2018fvo","14:34:39.45","+13:30:27.20","","","","","ATLAS","","ATLAS","ATLAS18ujz","ATLAS1 - ACAM1","","1","1","","19.052","orange-ATLAS","2018-09-06 06:40:19","ATLAS_Bot1",""
-"29386","AT 2018fvp","15:38:44.37","+23:36:03.66","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS18uka","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","19.241","orange-ATLAS","2018-09-06 06:20:09","ATLAS_Bot1",""
-"29387","SN 2018fvq","21:31:32.38","-27:15:43.56","SN Ia","0.073","","","ATLAS","ePESSTO","ATLAS","ATLAS18ukb","ATLAS1 - ACAM1","ESO-NTT - EFOSC2-NTT","1","1","","19.138","orange-ATLAS","2018-09-06 09:11:31","ATLAS_Bot1",""

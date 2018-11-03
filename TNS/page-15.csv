@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"19176","AT 2017cdf","09:54:45.30","-11:07:32.17","","","","","Pan-STARRS1","","Pan-STARRS1","PS17bsv","PS1 - GPC1","","1","1","","20.5","i-Sloan","2017-03-04 09:27:21","PS1_Bot1",""
+"19177","AT 2017cdg","11:08:26.23","+12:38:56.77","","","","","Pan-STARRS1","","Pan-STARRS1","PS17bsy","PS1 - GPC1","","1","1","","21.61","w-PS1","2017-03-04 11:57:07","PS1_Bot1",""
 "19178","AT 2017cdh","11:06:35.49","+09:53:55.71","","","","","Pan-STARRS1","","Pan-STARRS1","PS17bsx","PS1 - GPC1","","1","1","","21.21","w-PS1","2017-03-04 11:55:40","PS1_Bot1",""
 "19179","AT 2017cdi","11:19:19.23","+12:14:41.26","","","","","Pan-STARRS1","","Pan-STARRS1","PS17bta","PS1 - GPC1","","1","1","","20.62","w-PS1","2017-03-04 11:58:33","PS1_Bot1",""
 "19180","AT 2017cdj","11:11:07.89","+11:54:57.14","","","","","Pan-STARRS1","","Pan-STARRS1","PS17bsz","PS1 - GPC1","","1","1","","21.58","w-PS1","2017-03-04 11:57:07","PS1_Bot1",""
@@ -997,5 +999,3 @@
 "20179","AT 2017dpo","16:34:46.58","+00:40:59.90","","","","","Pan-STARRS1","","Pan-STARRS1","PS17crx","PS1 - GPC1","","1","1","","21.49","w-PS1","2017-04-27 12:46:04","PS1_Bot1",""
 "20180","AT 2017dpp","13:01:24.58","+06:47:36.32","","","","","Pan-STARRS1","","Pan-STARRS1","PS17cra","PS1 - GPC1","","1","1","","21.23","w-PS1","2017-04-27 07:36:28","PS1_Bot1",""
 "20181","AT 2017dpq","12:31:18.63","-00:50:46.75","","","","","Pan-STARRS1","","Pan-STARRS1","PS17crz","PS1 - GPC1","","1","1","","19.3","w-PS1","2017-04-28 08:36:57","PS1_Bot1",""
-"20182","AT 2017dpr","16:01:40.62","+06:10:50.83","","","","","Pan-STARRS1","","Pan-STARRS1","PS17crs","PS1 - GPC1","","1","1","","20.79","w-PS1","2017-04-27 12:40:19","PS1_Bot1",""
-"20183","SN 2017dps","13:36:40.04","-33:58:01.29","SN Ia","0.012","IC 4296","0.012465","ASAS-SN, GaiaAlerts","NUTS","ASAS-SN; GaiaAlerts","ASASSN-17fr","ASASSN-2 - Cassius, Gaia - Gaia-photometric","NOT - ALFOSC","1","1","","15.7","V-Johnson","2017-05-01 06:28:48","Stanek",""

@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"26250","AT 2018bir","05:54:37.94","+01:29:51.50","","","","","GaiaAlerts","","GaiaAlerts","Gaia18beu","Gaia - Gaia-photometric","","1","1","","15.65","G-Gaia","2018-05-09 09:53:16","Gaia_Bot1",""
+"26251","AT 2018bis","05:53:42.18","-01:24:03.24","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bev","Gaia - Gaia-photometric","","1","1","","15.99","G-Gaia","2018-05-09 21:51:50","Gaia_Bot1",""
 "26252","AT 2016jhz","11:35:23.26","-02:58:07.68","","","2dFGRS TGN238Z173","0.146938","","","","","CTIO-4m - DECAM","","1","1","","21.84","r-Sloan","2016-04-08 03:22:23","Jonkeren",""
 "26253","AT 2018bit","18:41:59.74","+37:34:11.66","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS18ojo","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","18.118","orange-ATLAS","2018-05-08 14:29:45","ATLAS_Bot1",""
 "26254","AT 2018biu","18:25:06.39","+33:08:25.02","","","","","ATLAS","","ATLAS","ATLAS18ojq","ATLAS1 - ACAM1","","1","1","","18.787","orange-ATLAS","2018-04-23 15:05:45","ATLAS_Bot1",""
@@ -997,5 +999,3 @@
 "27383","AT 2018cwz","23:47:47.75","+06:42:54.91","","","","","ATLAS, Pan-STARRS1","","ATLAS; Pan-STARRS1","ATLAS18rsk","ATLAS1 - ACAM1, PS1 - GPC1","","1","1","","18.851","orange-ATLAS","2018-06-29 13:26:24","ATLAS_Bot1",""
 "27384","AT 2018cxa","22:28:34.59","+11:37:05.63","","","","","ATLAS","","ATLAS","ATLAS18rsl","ATLAS1 - ACAM1","","1","1","","18.663","orange-ATLAS","2018-06-29 12:07:12","ATLAS_Bot1",""
 "27385","AT 2018cxb","00:29:57.07","-11:17:47.17","","","","","ATLAS, GaiaAlerts, Pan-STARRS1","","ATLAS; GaiaAlerts; Pan-STARRS1","ATLAS18rsn","ATLAS1 - ACAM1, Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","18.506","orange-ATLAS","2018-06-29 13:30:43","ATLAS_Bot1",""
-"27386","AT 2018cxc","00:54:44.60","+38:47:55.21","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bqk","Gaia - Gaia-photometric","","1","1","","18.97","G-Gaia","2018-06-25 12:23:02","Gaia_Bot1",""
-"27387","AT 2018cxd","04:45:21.45","-17:55:39.94","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bql","Gaia - Gaia-photometric","","1","1","","18.82","G-Gaia","2018-06-26 03:25:55","Gaia_Bot1",""

@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"23242","AT 2017iaq","23:16:52.75","-13:13:05.69","","","","","Pan-STARRS1","","Pan-STARRS1","PS17ezp","PS1 - GPC1","","1","1","","19.95","i-Sloan","2017-11-07 07:12:00","PS1_Bot1",""
+"23243","AT 2017iar","02:07:22.75","+00:12:55.18","","","","","Pan-STARRS1","","Pan-STARRS1","PS17ezr","PS1 - GPC1","","1","1","","19.12","i-Sloan","2017-11-08 09:53:16","PS1_Bot1",""
 "23244","AT 2017ias","22:25:33.02","-16:25:00.25","","","","","Pan-STARRS1","","Pan-STARRS1","PS17ezl","PS1 - GPC1","","1","1","","20.77","i-Sloan","2017-11-07 06:11:31","PS1_Bot1",""
 "23245","AT 2017iat","22:41:46.05","-21:07:51.80","","","","","Pan-STARRS1","","Pan-STARRS1","PS17ezm","PS1 - GPC1","","1","1","","20.06","i-Sloan","2017-11-07 06:14:24","PS1_Bot1",""
 "23246","AT 2017iau","23:00:58.01","-20:04:38.30","","","","","Pan-STARRS1","","Pan-STARRS1","PS17ezn","PS1 - GPC1","","1","1","","20.92","i-Sloan","2017-11-07 06:17:16","PS1_Bot1",""
@@ -997,5 +999,3 @@
 "24241","AT 2017jlr","04:04:16.39","+00:24:20.22","","","","","Pan-STARRS1","","Pan-STARRS1","PS17fov","PS1 - GPC1","","1","1","","21","w-PS1","2017-09-19 14:13:55","PS1_Bot1",""
 "24242","AT 2017jls","03:11:56.74","-13:39:02.07","","","","","Pan-STARRS1","","Pan-STARRS1","PS17fpe","PS1 - GPC1","","1","1","","18.96","i-Sloan","2017-10-02 12:33:07","PS1_Bot1",""
 "24243","AT 2017jlt","22:52:56.26","+24:58:28.75","","","","","Pan-STARRS1","","Pan-STARRS1","PS17fpd","PS1 - GPC1","","1","1","","20.32","i-Sloan","2017-09-27 09:41:45","PS1_Bot1",""
-"24244","AT 2017jlu","06:43:34.48","-31:51:07.01","","","","","Pan-STARRS1","","Pan-STARRS1","PS17fqi","PS1 - GPC1","","1","1","","16.48","i-Sloan","2017-12-26 10:07:40","PS1_Bot1",""
-"24245","AT 2017jlv","11:04:57.40","+14:01:45.21","","","","","Pan-STARRS1","","Pan-STARRS1","PS17fqk","PS1 - GPC1","","1","1","","20.89","w-PS1","2017-12-28 13:27:50","PS1_Bot1",""
