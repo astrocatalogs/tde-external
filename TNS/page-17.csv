@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"21182","AT 2017fcb","18:21:08.01","+45:00:55.66","","","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia17brf","Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","18.56","G-Gaia","2017-07-01 06:07:12","Gaia_Bot1",""
+"21183","AT 2017fcc","01:01:18.68","-49:59:11.26","","","","","GaiaAlerts","","GaiaAlerts","Gaia17brg","Gaia - Gaia-photometric","","1","1","","18.54","G-Gaia","2017-07-01 12:28:48","Gaia_Bot1",""
 "21184","AT 2017fcd","23:44:58.18","-42:33:08.17","","","","","GaiaAlerts","","GaiaAlerts","Gaia17brh","Gaia - Gaia-photometric","","1","1","","18.39","G-Gaia","2017-07-02 00:15:50","Gaia_Bot1",""
 "21185","AT 2017fce","20:21:17.34","+19:44:52.94","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bri","Gaia - Gaia-photometric","","1","1","","18.17","G-Gaia","2017-07-01 06:46:04","Gaia_Bot1",""
 "21186","AT 2017fcf","07:59:03.92","-28:14:33.58","","","","","GaiaAlerts","","GaiaAlerts","Gaia17brj","Gaia - Gaia-photometric","","1","1","","18.11","G-Gaia","2017-07-01 19:39:21","Gaia_Bot1",""
@@ -997,5 +999,3 @@
 "22180","AT 2017gnz","17:22:22.93","+30:54:50.29","","","","","Pan-STARRS1","","Pan-STARRS1","PS17enr","PS1 - GPC1","","1","1","","20.67","i-Sloan","2017-08-11 07:20:38","PS1_Bot1",""
 "22181","AT 2017goa","19:40:23.02","-28:55:20.59","","","","","Pan-STARRS1","","Pan-STARRS1","PS17ens","PS1 - GPC1","","1","1","","18.43","w-PS1","2017-08-13 07:36:28","PS1_Bot1",""
 "22182","AT 2017gob","21:13:45.05","-27:03:43.57","","","","","Pan-STARRS1","","Pan-STARRS1","PS17ent","PS1 - GPC1","","1","1","","19.36","i-Sloan","2017-08-13 09:41:45","PS1_Bot1",""
-"22183","AT 2017goc","21:14:51.35","-28:17:08.89","","","","","Pan-STARRS1","","Pan-STARRS1","PS17enu","PS1 - GPC1","","1","1","","19.8","i-Sloan","2017-08-13 09:41:45","PS1_Bot1",""
-"22184","AT 2017god","15:28:03.44","+25:48:13.75","","","","","Pan-STARRS1","","Pan-STARRS1","PS17ena","PS1 - GPC1","","1","1","","19.41","i-Sloan","2017-08-06 06:21:36","PS1_Bot1",""

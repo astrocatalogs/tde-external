@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"27384","AT 2018cxa","22:28:34.59","+11:37:05.63","","","","","ATLAS","","ATLAS","ATLAS18rsl","ATLAS1 - ACAM1","","1","1","","18.663","orange-ATLAS","2018-06-29 12:07:12","ATLAS_Bot1",""
+"27385","AT 2018cxb","00:29:57.07","-11:17:47.17","","","","","ATLAS, GaiaAlerts, Pan-STARRS1","","ATLAS; GaiaAlerts; Pan-STARRS1","ATLAS18rsn","ATLAS1 - ACAM1, Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","18.506","orange-ATLAS","2018-06-29 13:30:43","ATLAS_Bot1",""
 "27386","AT 2018cxc","00:54:44.60","+38:47:55.21","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bqk","Gaia - Gaia-photometric","","1","1","","18.97","G-Gaia","2018-06-25 12:23:02","Gaia_Bot1",""
 "27387","AT 2018cxd","04:45:21.45","-17:55:39.94","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bql","Gaia - Gaia-photometric","","1","1","","18.82","G-Gaia","2018-06-26 03:25:55","Gaia_Bot1",""
 "27388","SN 2018cxe","17:21:01.63","+26:09:07.31","SN Ia","0.043811","","","GaiaAlerts, ATLAS, Pan-STARRS1","ASAS-SN","ATLAS; GaiaAlerts; Pan-STARRS1","Gaia18bqm","Gaia - Gaia-photometric, ATLAS1 - ACAM1, PS1 - GPC1","LCO-duPont - WFCCD","1","1","","17.79","G-Gaia","2018-06-26 05:02:24","Gaia_Bot1",""
@@ -997,5 +999,3 @@
 "28381","SN 2018ejc","14:11:45.20","+71:45:09.93","SN II","0.03","","","Pan-STARRS1, ZTF, GaiaAlerts","ZTF","GaiaAlerts; Pan-STARRS1; ZTF","PS18bcw","PS1 - GPC1, P48 - ZTF-Cam, Gaia - Gaia-photometric","","1","1","","20.87","z-Sloan","2018-07-11 06:08:38","PS1_Bot1",""
 "28382","AT 2018ejd","21:06:55.92","+14:05:39.19","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bdd","PS1 - GPC1","","1","1","","21.5","w-PS1","2018-07-12 13:50:52","PS1_Bot1",""
 "28383","AT 2018eje","21:03:27.64","+04:34:04.97","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bdb","PS1 - GPC1","","1","1","","20.11","w-PS1","2018-07-12 11:16:48","PS1_Bot1",""
-"28384","AT 2018ejf","20:54:34.22","-05:07:45.92","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bda","PS1 - GPC1","","1","1","","21.72","w-PS1","2018-07-12 10:22:04","PS1_Bot1",""
-"28385","AT 2018ejg","23:51:40.46","-09:57:15.73","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bea","PS1 - GPC1","","1","1","","21.03","w-PS1","2018-07-12 12:47:31","PS1_Bot1",""
