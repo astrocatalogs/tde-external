@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"25184","AT 2018ur","06:47:44.99","-16:37:25.50","","","","","GaiaAlerts","","GaiaAlerts","Gaia18akj","Gaia - Gaia-photometric","","1","1","","18.71","G-Gaia","2018-02-09 12:40:19","Gaia_Bot1",""
 "25185","AT 2018us","18:09:53.54","-33:39:09.72","","","","","GaiaAlerts","","GaiaAlerts","Gaia18akk","Gaia - Gaia-photometric","","1","1","","17.95","G-Gaia","2018-02-09 20:35:31","Gaia_Bot1",""
 "25186","AT 2018ut","18:10:43.99","-32:13:56.96","","","","","GaiaAlerts","","GaiaAlerts","Gaia18akl","Gaia - Gaia-photometric","","1","1","","16.17","G-Gaia","2018-02-09 16:19:12","Gaia_Bot1",""
 "25187","AT 2018uu","16:03:25.95","-59:39:45.18","","","","","GaiaAlerts","","GaiaAlerts","Gaia18akm","Gaia - Gaia-photometric","","1","1","","18.7","G-Gaia","2018-02-07 10:53:45","Gaia_Bot1",""
@@ -998,4 +999,3 @@
 "26184","AT 2018bgd","07:06:28.95","+44:59:32.62","","","","","ATLAS","","ATLAS","ATLAS18nvk","ATLAS1 - ACAM1","","1","1","","17.474","orange-ATLAS","2018-05-06 05:51:21","ATLAS_Bot1",""
 "26185","SN 2018bge","11:04:15.99","+50:01:49.98","SN II","0.023894","","","ATLAS, GaiaAlerts, ZTF","","ATLAS; GaiaAlerts; ZTF","ATLAS18nvj","ATLAS1 - ACAM1, Gaia - Gaia-photometric, P48 - ZTF-Cam","LT - SPRAT","1","1","","18.591","orange-ATLAS","2018-05-06 08:57:07","ATLAS_Bot1",""
 "26186","AT 2018bgf","08:56:48.77","+52:58:43.94","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS18nvl","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","18.87","orange-ATLAS","2018-04-24 08:00:57","ATLAS_Bot1",""
-"26187","AT 2018bgg","18:41:56.43","-16:02:10.43","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bdt","Gaia - Gaia-photometric","","1","1","","18.1","G-Gaia","2018-05-05 13:19:12","Gaia_Bot1",""
