@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"19112","SN 2017cat","17:58:52.09","+34:00:09.32","SN II","0.02","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia17apv","Gaia - Gaia-photometric, PS1 - GPC1","P200 - DBSP","1","1","","17.02","G-Gaia","2017-03-06 19:52:19","Gaia_Bot1",""
 "19113","AT 2017cau","07:25:09.43","-43:50:07.84","","","","","GaiaAlerts","","GaiaAlerts","Gaia17apw","Gaia - Gaia-photometric","","1","1","","17","G-Gaia","2017-03-06 14:49:55","Gaia_Bot1",""
 "19114","SN 2017cav","18:06:43.92","+06:50:19.64","SN Ia","0.025","","","ASAS-SN, GaiaAlerts","ASAS-SN","ASAS-SN; GaiaAlerts","ASASSN-17dj","ASASSN-1 - Brutus, Gaia - Gaia-photometric","LT - SPRAT","1","1","","16.3","V-Johnson","2017-03-06 13:55:12","Stanek",""
 "19115","SN 2017caw","08:07:50.10","-61:46:15.60","SN II","0.027145","PGC22822","","BOSS","","BOSS; PESSTO","","Other - Other","LCO-duPont - WFCCD","1","1","","18","Clear-","2017-03-08 01:53:19","Parker",""
@@ -998,4 +999,3 @@
 "20115","AT 2017dnc","11:00:26.93","+12:48:47.20","","","","","Pan-STARRS1","","Pan-STARRS1","PS17cou","PS1 - GPC1","","1","1","","19.97","w-PS1","2017-04-20 06:11:31","PS1_Bot1",""
 "20116","AT 2017dnd","11:00:25.52","+12:46:38.76","","","","","Pan-STARRS1","","Pan-STARRS1","PS17cot","PS1 - GPC1","","1","1","","21.39","w-PS1","2017-04-20 06:11:31","PS1_Bot1",""
 "20117","AT 2017dne","16:39:35.08","+02:03:47.21","","","","","Pan-STARRS1","","Pan-STARRS1","PS17cos","PS1 - GPC1","","1","1","","20.21","i-Sloan","2017-04-19 13:24:57","PS1_Bot1",""
-"20118","AT 2017dnf","16:24:34.92","+02:09:39.81","","","","","Pan-STARRS1","","Pan-STARRS1","PS17coq","PS1 - GPC1","","1","1","","20.62","i-Sloan","2017-04-19 13:22:04","PS1_Bot1",""
