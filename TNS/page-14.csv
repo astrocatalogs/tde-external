@@ -988,7 +988,7 @@
 "19098","AT 2017caf","03:12:15.41","-01:52:14.23","","","","","GaiaAlerts","","GaiaAlerts","Gaia17apl","Gaia - Gaia-photometric","","1","1","","18.55","G-Gaia","2017-03-06 03:53:16","Gaia_Bot1",""
 "19099","AT 2017cag","05:26:04.59","-39:34:08.29","","","","","GaiaAlerts","","GaiaAlerts","Gaia17apm","Gaia - Gaia-photometric","","1","1","","18.31","G-Gaia","2017-03-04 21:07:12","Gaia_Bot1",""
 "19100","AT 2017cah","10:10:17.83","-47:00:06.55","","","","","GaiaAlerts","","GaiaAlerts","Gaia17apn","Gaia - Gaia-photometric","","1","1","","16.86","G-Gaia","2017-03-06 02:22:33","Gaia_Bot1",""
-"19101","AT 2017cai","06:53:56.69","-43:15:28.26","","","","","GaiaAlerts, ATLAS","","ATLAS; GaiaAlerts","Gaia17apo","Gaia - Gaia-photometric, ATLAS1 - ACAM1","","1","1","","18.76","G-Gaia","2017-03-06 02:54:14","Gaia_Bot1",""
+"19101","AT 2017cai","06:53:56.69","-43:15:28.26","CV","0","","","GaiaAlerts, ATLAS","ePESSTO","ATLAS; GaiaAlerts","Gaia17apo","Gaia - Gaia-photometric, ATLAS1 - ACAM1","ESO-NTT - EFOSC2-NTT","1","1","","18.76","G-Gaia","2017-03-06 02:54:14","Gaia_Bot1",""
 "19102","AT 2017caj","14:31:39.86","-06:38:40.09","","","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia17app","Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","18.8","G-Gaia","2017-03-05 13:14:52","Gaia_Bot1",""
 "19103","AT 2017cak","15:19:18.87","+28:13:44.47","","","","","ATLAS","","ATLAS","ATLAS17bkt","ATLAS1 - ACAM1","","1","1","","16.54","cyan-ATLAS","2017-03-05 13:42:14","ATLAS_Bot1",""
 "19104","SN 2017cal","17:14:24.28","+20:18:50.44","SN Ia","0.02","NGC 6321","0.020764","ASAS-SN","","ASAS-SN","ASASSN-17dh","ASASSN-1 - Brutus","BAO-2.16m - Cassegrain","1","1","","15.9","V-Johnson","2017-03-07 12:43:12","Stanek",""

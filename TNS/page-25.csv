@@ -282,7 +282,7 @@
 "29602","AT 2018gdx","21:49:16.57","+10:11:10.91","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bra","PS1 - GPC1","","1","1","","19.46","w-PS1","2018-08-12 12:15:50","PS1_Bot1",""
 "29603","AT 2018gdy","23:12:17.98","+12:49:44.75","","","","","Pan-STARRS1","","Pan-STARRS1","PS18brd","PS1 - GPC1","","1","1","","21.52","w-PS1","2018-08-13 13:47:59","PS1_Bot1",""
 "29604","AT 2018gdz","23:10:08.69","+04:56:37.53","","","","","Pan-STARRS1","","Pan-STARRS1","PS18brc","PS1 - GPC1","","1","1","","20.13","w-PS1","2018-08-13 12:43:12","PS1_Bot1",""
-"29605","AT 2018gea","00:56:20.70","-09:35:00.18","","0.103","","","ATLAS, Pan-STARRS1","ePESSTO","ATLAS; Pan-STARRS1","ATLAS18uxz","ATLAS1 - ACAM1, PS1 - GPC1","ESO-NTT - EFOSC2-NTT","1","1","","18.652","orange-ATLAS","2018-09-09 13:19:12","ATLAS_Bot1",""
+"29605","SN 2018gea","00:56:20.70","-09:35:00.18","SN IIn","0.103","","","ATLAS, Pan-STARRS1","ePESSTO","ATLAS; Pan-STARRS1","ATLAS18uxz","ATLAS1 - ACAM1, PS1 - GPC1","ESO-NTT - EFOSC2-NTT","1","1","","18.652","orange-ATLAS","2018-09-09 13:19:12","ATLAS_Bot1",""
 "29606","AT 2018geb","02:34:22.69","+11:32:14.57","","","","","ATLAS","","ATLAS","ATLAS18uyr","ATLAS1 - ACAM1","","1","1","","17.88","orange-ATLAS","2018-09-09 14:47:02","ATLAS_Bot1",""
 "29607","SN 2018gec","07:09:53.50","+54:58:07.46","SN Ia","0.037136","UGC 03700 ","0.037136","ASAS-SN, GaiaAlerts, ATLAS","Padova-Asiago","ASAS-SN; ATLAS; GaiaAlerts","ASASSN-18ux","ASASSN-4 - Leavitt, Gaia - Gaia-photometric, ATLAS1 - ACAM1","Ekar - AFOSC","1","1","","17.2","g-Sloan","2018-09-10 11:02:24","Stanek",""
 "29608","AT 2018ged","01:36:05.54","+11:41:17.16","","","UGC 1144","0.0195","SNHunt","","CRTS; SNHunt","","Other - Other","","1","1","","19.2","V-crts-CRTS","2018-09-10 07:17:30","Drake",""
