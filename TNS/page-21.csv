@@ -1,5 +1,4 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"25182","AT 2018up","06:48:04.61","-16:36:40.64","","","","","GaiaAlerts","","GaiaAlerts","Gaia18akh","Gaia - Gaia-photometric","","1","1","","18.28","G-Gaia","2018-02-09 12:40:19","Gaia_Bot1",""
 "25183","AT 2018uq","06:46:53.23","-16:38:56.00","","","","","GaiaAlerts","","GaiaAlerts","Gaia18aki","Gaia - Gaia-photometric","","1","1","","15.84","G-Gaia","2018-02-09 18:40:19","Gaia_Bot1",""
 "25184","AT 2018ur","06:47:44.99","-16:37:25.50","","","","","GaiaAlerts","","GaiaAlerts","Gaia18akj","Gaia - Gaia-photometric","","1","1","","18.71","G-Gaia","2018-02-09 12:40:19","Gaia_Bot1",""
 "25185","AT 2018us","18:09:53.54","-33:39:09.72","","","","","GaiaAlerts","","GaiaAlerts","Gaia18akk","Gaia - Gaia-photometric","","1","1","","17.95","G-Gaia","2018-02-09 20:35:31","Gaia_Bot1",""
@@ -999,3 +998,4 @@
 "26182","SN 2018bgb","12:29:17.59","+06:20:28.11","SN Ia","0.086","","","ZTF","ePESSTO","ZTF","ZTF18aaphzut","P48 - ZTF-Cam","ESO-NTT - EFOSC2-NTT","1","1","","18.76","r-ZTF","2018-05-05 04:03:21","ZTF_Bot1",""
 "26183","SN 2018bgc","08:33:54.68","+55:32:29.39","SN Ia","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS18nvs","ATLAS1 - ACAM1, Gaia - Gaia-photometric","BAO-2.16m - Cassegrain","1","1","","17.64","orange-ATLAS","2018-05-06 07:17:45","ATLAS_Bot1",""
 "26184","AT 2018bgd","07:06:28.95","+44:59:32.62","","","","","ATLAS","","ATLAS","ATLAS18nvk","ATLAS1 - ACAM1","","1","1","","17.474","orange-ATLAS","2018-05-06 05:51:21","ATLAS_Bot1",""
+"26185","SN 2018bge","11:04:15.99","+50:01:49.98","SN II","0.023894","","","ATLAS, GaiaAlerts, ZTF","","ATLAS; GaiaAlerts; ZTF","ATLAS18nvj","ATLAS1 - ACAM1, Gaia - Gaia-photometric, P48 - ZTF-Cam","LT - SPRAT","1","1","","18.591","orange-ATLAS","2018-05-06 08:57:07","ATLAS_Bot1",""

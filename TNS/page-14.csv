@@ -912,7 +912,6 @@
 "18811","AT 2017bpf","10:03:03.57","-08:54:20.22","","","","","Pan-STARRS1","","Pan-STARRS1","PS17cga","PS1 - GPC1","","1","1","","20.61","i-Sloan","2017-03-18 09:18:43","PS1_Bot1",""
 "18828","AT 2017bpw","09:51:24.25","-09:08:11.31","","","","","ATLAS","","ATLAS","ATLAS17mqe","ATLAS1 - ACAM1","","1","1","","18.349","orange-ATLAS","2017-10-11 14:58:33","ATLAS_Bot1",""
 "18886","AT 2017bsc","01:51:10.07","-03:29:47.00","","","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia17any","Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","19.53","G-Gaia","2017-02-17 11:35:31","Gaia_Bot1",""
-"18977","AT 2017bvp","09:20:16.56","+86:03:01.19","","","2MASX J09201657+8603002","","ASAS-SN","","ASAS-SN","ASASSN-18zy","ASASSN-4 - Leavitt","","1","1","","17.6","g-Sloan","2018-11-17 10:48:00","Stanek",""
 "18978","AT 2017bvq","08:16:13.67","+63:40:58.79","","","","","Pan-STARRS1","","Pan-STARRS1","PS17cjd","PS1 - GPC1","","1","1","","18.74","i-Sloan","2017-04-08 08:05:16","PS1_Bot1",""
 "18999","AT 2017bwl","10:02:26.76","+08:49:22.22","","","","","ZTF","","ZTF","ZTF18aahqsad","P48 - ZTF-Cam","","1","1","","19.8464","r-ZTF","2018-11-03 11:33:52","ZTF_AMPEL_MSIP",""
 "19011","AT 2017bwx","09:09:04.77","+20:05:47.90","","","CGCG 091-005","0.027616","ASAS-SN, ATLAS","","ASAS-SN; ATLAS","ASASSN-18lk","ASASSN-3 - Paczynski, ATLAS1 - ACAM1","","1","1","","16.7","g-Sloan","2018-05-31 23:16:48","Stanek","KEGS-C16"
@@ -999,3 +998,4 @@
 "19108","AT 2017cap","19:25:00.08","+43:00:07.96","","","","","GaiaAlerts","","GaiaAlerts","Gaia17apr","Gaia - Gaia-photometric","","1","1","","16.47","G-Gaia","2017-03-06 19:32:09","Gaia_Bot1",""
 "19109","AT 2017caq","06:18:12.44","-36:31:38.03","","","","","GaiaAlerts","","GaiaAlerts","Gaia17aps","Gaia - Gaia-photometric","","1","1","","17.44","G-Gaia","2017-03-06 21:04:19","Gaia_Bot1",""
 "19110","AT 2017car","03:20:27.06","-02:38:32.89","","","","","GaiaAlerts","","GaiaAlerts","Gaia17apt","Gaia - Gaia-photometric","","1","1","","18.6","G-Gaia","2017-03-06 09:51:50","Gaia_Bot1",""
+"19111","AT 2017cas","15:45:28.86","+05:02:14.03","","","","","GaiaAlerts","","GaiaAlerts","Gaia17apu","Gaia - Gaia-photometric","","1","1","","17.3","G-Gaia","2017-02-10 12:59:02","Gaia_Bot1",""

@@ -1,5 +1,4 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
-"27321","SN 2018cup","12:35:22.97","+29:29:31.84","SN II","0.01524","","","ATLAS, ZTF, GaiaAlerts","ZTF","ATLAS; GaiaAlerts; ZTF","ATLAS18ron","ATLAS1 - ACAM1, P48 - ZTF-Cam, Gaia - Gaia-photometric","","1","1","","18.162","orange-ATLAS","2018-06-24 07:45:07","ATLAS_Bot1",""
 "27322","AT 2018cuq","19:41:34.82","+03:39:28.93","","","","","ATLAS","","ATLAS","ATLAS18rpi","ATLAS1 - ACAM1","","1","1","","19.348","orange-ATLAS","2018-06-23 13:23:31","ATLAS_Bot1",""
 "27323","SN 2018cur","12:59:09.13","+37:19:00.10","SN IIP","0.015432","","","ATLAS, ZTF, GaiaAlerts","AZTEC, ZTF","ATLAS; GaiaAlerts; ZTF","ATLAS18rpj","ATLAS1 - ACAM1, P48 - ZTF-Cam, Gaia - Gaia-photometric","Bok - B&C-Bok","1","1","","17.333","orange-ATLAS","2018-06-22 08:16:47","ATLAS_Bot1",""
 "27324","AT 2018cus","17:41:48.71","+59:56:46.40","","","","","ATLAS, Pan-STARRS1","","ATLAS; Pan-STARRS1","ATLAS18rpq","ATLAS1 - ACAM1, PS1 - GPC1","","1","1","","18.858","orange-ATLAS","2018-06-21 10:48:00","ATLAS_Bot1",""
@@ -999,3 +998,4 @@
 "28318","AT 2018egr","21:57:20.36","+03:35:37.98","","","","","Pan-STARRS1","","Pan-STARRS1","PS18ban","PS1 - GPC1","","1","1","","21.41","w-PS1","2018-07-12 11:31:12","PS1_Bot1",""
 "28319","AT 2018egs","23:03:55.58","-10:59:47.79","","","","","Pan-STARRS1","","Pan-STARRS1","PS18baq","PS1 - GPC1","","1","1","","21.96","w-PS1","2018-07-12 12:34:33","PS1_Bot1",""
 "28320","AT 2018egt","22:00:49.75","+04:46:03.75","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bap","PS1 - GPC1","","1","1","","19.89","w-PS1","2018-07-12 11:31:12","PS1_Bot1",""
+"28321","AT 2018egu","23:24:22.13","-13:59:06.97","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bas","PS1 - GPC1","","1","1","","22.07","w-PS1","2018-07-12 12:44:38","PS1_Bot1",""
