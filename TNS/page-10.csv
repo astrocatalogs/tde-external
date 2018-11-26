@@ -692,7 +692,7 @@
 "14136","SN 2016fbk","01:44:06.57","+34:22:58.20","SN Ia","0.035865","UGC 01212","","POSS","","POSS","","Other - Other","Lijiang-2.4m - YFOSC","1","1","","17.7","Clear-","2016-08-16 10:38:46","Puckett",""
 "14137","SN 2016fbl","21:05:23.94","+14:10:20.36","SN Ia","0.06","","","Pan-STARRS1, iPTF","iPTF","iPTF; Pan-STARRS1","PS16dzy","P48 - CFH12k, PS1 - GPC1","P60 - SED-Machine","1","1","","18.57","r-Sloan","2016-08-09 08:48:28","PS1_Bot1",""
 "14138","AT 2016fbm","00:56:09.48","+50:03:43.11","","","","","iPTF","","iPTF","iPTF16fbm","P48 - CFH12k","","1","1","2018-08-16","20.068","R-PTF","2016-08-14 10:14:52","iPTF_Bot1",""
-"14139","AT 2016fbn","04:22:10.80","-06:43:45.60","","","","","GaiaAlerts","","GaiaAlerts","Gaia16baz","Gaia - Gaia-photometric","","1","1","","15.34","G-Gaia","2016-08-14 09:00:00","Gaia_Bot1",""
+"14139","AT 2016fbn","04:22:10.80","-06:43:45.60","","","","","GaiaAlerts, ZTF","","GaiaAlerts; ZTF","Gaia16baz","Gaia - Gaia-photometric, P48 - ZTF-Cam","","1","1","","15.34","G-Gaia","2016-08-14 09:00:00","Gaia_Bot1",""
 "14140","SN 2016fbo","01:01:35.50","+17:06:04.30","SN Ia","0.034","","","GaiaAlerts","NUTS","GaiaAlerts","Gaia16bba","Gaia - Gaia-photometric","NOT - ALFOSC","1","1","","17.31","G-Gaia","2016-08-15 14:12:28","Gaia_Bot1",""
 "14141","AT 2016fbp","06:37:21.20","-29:22:10.60","","","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia16bbb","Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","17.38","G-Gaia","2016-08-16 09:37:26","Gaia_Bot1",""
 "14142","AT 2016fbq","05:52:23.50","-22:11:55.00","","","","","GaiaAlerts","","GaiaAlerts","Gaia16bbc","Gaia - Gaia-photometric","","1","1","","18.87","G-Gaia","2016-08-15 09:24:28","Gaia_Bot1",""
