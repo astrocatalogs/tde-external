@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"22050","AT 2017gja","17:31:05.960","-50:57:28.84","","","","","GaiaAlerts","","GaiaAlerts","Gaia17cdc","Gaia - Gaia-photometric","","1","1","","17.77","G-Gaia","2017-08-14 13:42:14","Gaia_Bot1",""
+"22051","AT 2017gjb","02:51:44.909","-39:39:29.04","Galaxy","0","","","Pan-STARRS1","ePESSTO","Pan-STARRS1","PS17edg","PS1 - GPC1","ESO-NTT - EFOSC2-NTT","1","1","","20.29","i-Sloan","2017-08-14 13:37:55","PS1_Bot1",""
 "22052","AT 2017gjc","01:01:27.774","-20:24:13.85","Galaxy","0.063","","","Pan-STARRS1","ePESSTO","Pan-STARRS1","PS17ebt","PS1 - GPC1","ESO-NTT - EFOSC2-NTT","1","1","","19.49","i-Sloan","2017-08-10 11:21:07","PS1_Bot1",""
 "22053","SN 2017gjd","20:03:44.897","-27:59:19.14","SN Ia","0.023","2MASX J20034478-2759181 ","0.020021","ASAS-SN, GaiaAlerts","ePESSTO","ASAS-SN; GaiaAlerts","ASASSN-17lj","ASASSN-2 - Cassius, Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","16.5","V-Johnson","2017-08-29 02:09:36","Stanek",""
 "22054","AT 2017gje","08:01:06.220","-27:28:16.82","","","","","GaiaAlerts","","GaiaAlerts","Gaia17cdd","Gaia - Gaia-photometric","","1","1","","17.74","G-Gaia","2017-08-18 12:01:26","Gaia_Bot1",""
@@ -997,5 +999,3 @@
 "23104","AT 2017hvi","00:42:54.240","+41:30:42.94","","","M31","","PTSS","","PTSS","PTSS-17zap","CNEOST - STA1600","","1","1","","18.5","r-Sloan","2017-11-04 16:41:02","Li",""
 "23105","AT 2017hvj","18:45:17.020","-19:34:19.42","","","","","GaiaAlerts","","GaiaAlerts","Gaia17ctj","Gaia - Gaia-photometric","","1","1","","18.89","G-Gaia","2017-11-01 06:54:43","Gaia_Bot1",""
 "23106","AT 2017hvk","10:28:48.260","-50:41:54.13","","","","","GaiaAlerts","","GaiaAlerts","Gaia17ctk","Gaia - Gaia-photometric","","1","1","","19.03","G-Gaia","2017-10-18 07:00:28","Gaia_Bot1",""
-"23107","AT 2017hvl","18:05:36.050","-33:36:34.99","","","","","GaiaAlerts","","GaiaAlerts","Gaia17ctl","Gaia - Gaia-photometric","","1","1","","14.4","G-Gaia","2017-11-01 06:37:26","Gaia_Bot1",""
-"23108","AT 2017hvm","10:47:08.560","-53:13:02.53","","","","","GaiaAlerts","","GaiaAlerts","Gaia17ctm","Gaia - Gaia-photometric","","1","1","","17.05","G-Gaia","2017-10-31 23:24:00","Gaia_Bot1",""

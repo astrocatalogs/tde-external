@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"28251","SN 2018eec","22:39:33.098","-02:45:41.23","SN Ia","0.09","","","ATLAS","ePESSTO","ATLAS","ATLAS18sqp","ATLAS1 - ACAM1","ESO-NTT - EFOSC2-NTT","1","1","","18.96","orange-ATLAS","2018-07-23 14:09:36","ATLAS_Bot1",""
+"28252","AT 2018eed","09:53:10.500","-48:55:17.08","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bwk","Gaia - Gaia-photometric","","1","1","","18.75","G-Gaia","2018-07-21 02:44:09","Gaia_Bot1",""
 "28253","AT 2018eee","23:30:17.810","-40:28:43.25","","","","","GaiaAlerts, ATLAS","","ATLAS; GaiaAlerts","Gaia18bwl","Gaia - Gaia-photometric, ATLAS1 - ACAM1","","1","1","","18.73","G-Gaia","2018-07-23 19:26:24","Gaia_Bot1",""
 "28254","AT 2018eef","11:21:01.370","-01:05:23.42","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bwm","Gaia - Gaia-photometric","","1","1","","19.4","G-Gaia","2018-07-07 05:15:21","Gaia_Bot1",""
 "28255","AT 2018eeg","11:17:23.600","-52:57:34.16","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bwo","Gaia - Gaia-photometric","","1","1","","17.86","G-Gaia","2018-07-24 14:47:02","Gaia_Bot1",""
@@ -997,5 +999,3 @@
 "29248","AT 2018fqh","13:58:10.586","+54:44:03.10","","","","","ZTF, ATLAS","","ATLAS; ZTF","ZTF18absdbpd","P48 - ZTF-Cam, ATLAS1 - ACAM1","","1","1","","18.63","r-ZTF","2018-09-01 03:27:21","ZTF_Bot1",""
 "29249","AT 2018fqi","13:40:08.767","+65:43:05.82","","","","","ZTF","","ZTF","ZTF18aaqwacv","P48 - ZTF-Cam","","1","1","","19.54","r-ZTF","2018-08-18 04:39:21","ZTF_Bot1",""
 "29250","SN 2018fqj","14:23:49.003","+34:06:10.35","SN Ia","0.1","","","ZTF","","ZTF","ZTF18absdbvf","P48 - ZTF-Cam","MMT - MMT-Blue","1","1","","19.92","r-ZTF","2018-08-24 04:55:12","ZTF_Bot1",""
-"29251","SN 2018fqk","22:33:09.022","+04:07:47.03","SN Ia","0.041","","","ATLAS, ZTF","ZTF","ATLAS; ZTF","ATLAS18ude","ATLAS1 - ACAM1, P48 - ZTF-Cam","","1","1","","17.949","orange-ATLAS","2018-08-30 12:00:00","ATLAS_Bot1",""
-"29252","SN 2018fql","23:41:16.079","-28:57:44.74","SN Ia","0.049","","","ATLAS","ePESSTO","ATLAS","ATLAS18udf","ATLAS1 - ACAM1","ESO-NTT - EFOSC2-NTT","1","1","","17.746","orange-ATLAS","2018-08-31 10:58:04","ATLAS_Bot1",""
