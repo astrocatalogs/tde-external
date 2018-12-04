@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"27250","AT 2018cry","17:03:28.752","+00:52:30.24","","","","","ATLAS","","ATLAS","ATLAS18qxu","ATLAS1 - ACAM1","","1","1","","19.565","cyan-ATLAS","2018-06-17 11:47:02","ATLAS_Bot1",""
 "27251","AT 2018crz","15:59:26.432","+00:55:55.12","","","","","ATLAS","","ATLAS","ATLAS18qyx","ATLAS1 - ACAM1","","1","1","","19.488","cyan-ATLAS","2018-06-17 10:40:48","ATLAS_Bot1",""
 "27252","AT 2018csa","15:19:14.872","+04:29:42.43","","","","","ATLAS, GaiaAlerts, Pan-STARRS1","","ATLAS; GaiaAlerts; Pan-STARRS1","ATLAS18quy","ATLAS1 - ACAM1, Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","17.861","orange-ATLAS","2018-06-13 11:13:55","ATLAS_Bot1",""
 "27253","AT 2018csb","13:20:15.583","-11:05:56.50","","","","","ATLAS, Pan-STARRS1","","ATLAS; Pan-STARRS1","ATLAS18qyn","ATLAS1 - ACAM1, PS1 - GPC1","","1","1","","19.489","cyan-ATLAS","2018-06-17 08:44:09","ATLAS_Bot1",""
@@ -998,4 +999,3 @@
 "28247","AT 2018edy","22:58:59.444","+13:46:21.38","","","","","ATLAS, Pan-STARRS1","","ATLAS; Pan-STARRS1","ATLAS18spt","ATLAS1 - ACAM1, PS1 - GPC1","","1","1","","18.856","orange-ATLAS","2018-07-22 14:29:45","ATLAS_Bot1",""
 "28248","SN 2018edz","16:01:05.441","+11:56:39.17","SN Ia","0.045","","","ATLAS, ZTF, GaiaAlerts","ZTF","ATLAS; GaiaAlerts; ZTF","ATLAS18spu","ATLAS1 - ACAM1, P48 - ZTF-Cam, Gaia - Gaia-photometric","","1","1","","18.61","orange-ATLAS","2018-07-25 08:44:09","ATLAS_Bot1",""
 "28249","AT 2018eea","21:17:54.782","-00:33:13.73","","","","","ATLAS","","ATLAS","ATLAS18spv","ATLAS1 - ACAM1","","1","1","","19.405","orange-ATLAS","2018-07-23 12:41:45","ATLAS_Bot1",""
-"28250","AT 2018eeb","17:47:25.571","+63:02:47.77","","","","","ATLAS","","ATLAS","ATLAS18spw","ATLAS1 - ACAM1","","1","1","","18.126","orange-ATLAS","2018-07-25 09:48:57","ATLAS_Bot1",""

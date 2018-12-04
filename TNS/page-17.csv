@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"21048","SN 2017ewx","14:02:16.521","+07:40:44.21","SN Ib","0.016","","","ATLAS, Pan-STARRS1, GaiaAlerts","","ATLAS; GaiaAlerts; Pan-STARRS1","ATLAS17hlo","ATLAS1 - ACAM1, PS1 - GPC1, Gaia - Gaia-photometric","Other - Other","1","1","","18.91","orange-ATLAS","2017-06-20 08:21:07","ATLAS_Bot1",""
 "21049","AT 2017ewy","00:24:31.160","-06:46:40.19","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bpd","Gaia - Gaia-photometric","","1","1","","17.83","G-Gaia","2017-05-27 13:42:14","Gaia_Bot1",""
 "21050","AT 2017ewz","23:41:43.970","-00:11:51.72","","","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia17bpe","Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","18.36","G-Gaia","2017-06-21 05:41:16","Gaia_Bot1",""
 "21051","AT 2017exa","19:10:03.640","+19:51:19.12","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bpg","Gaia - Gaia-photometric","","1","1","","18.69","G-Gaia","2017-06-21 04:36:28","Gaia_Bot1",""
@@ -998,4 +999,3 @@
 "22046","AT 2017giw","19:31:46.070","+39:50:22.85","","","","","GaiaAlerts","","GaiaAlerts","Gaia17ccx","Gaia - Gaia-photometric","","1","1","","18.02","G-Gaia","2017-08-14 15:15:50","Gaia_Bot1",""
 "22047","AT 2017gix","06:46:29.560","-04:37:21.14","","","","","GaiaAlerts","","GaiaAlerts","Gaia17ccz","Gaia - Gaia-photometric","","1","1","","17.79","G-Gaia","2017-08-14 07:16:19","Gaia_Bot1",""
 "22048","AT 2017giy","17:40:15.030","-46:29:52.22","","","","","GaiaAlerts","","GaiaAlerts","Gaia17cda","Gaia - Gaia-photometric","","1","1","","17.52","G-Gaia","2017-08-14 15:33:07","Gaia_Bot1",""
-"22049","AT 2017giz","07:13:02.990","-31:34:55.38","","","","","GaiaAlerts","","GaiaAlerts","Gaia17cdb","Gaia - Gaia-photometric","","1","1","","17.05","G-Gaia","2017-08-14 05:58:33","Gaia_Bot1",""
