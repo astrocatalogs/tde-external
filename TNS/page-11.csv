@@ -153,7 +153,7 @@
 "14606","AT 2016ftb","01:22:37.896","+10:53:03.20","","","","","iPTF","","iPTF","iPTF16ftb","P48 - CFH12k","","1","1","2018-09-05","18.8767","g-PTF","2016-09-05 12:20:09","iPTF_Bot1",""
 "14607","AT 2016ftc","16:06:28.760","-65:28:53.26","","","","","GaiaAlerts","","GaiaAlerts","Gaia16bfe","Gaia - Gaia-photometric","","1","1","","18.01","G-Gaia","2016-09-04 04:30:43","Gaia_Bot1",""
 "14608","AT 2016ftd","02:03:25.770","+07:53:08.88","","","SDSS J020325.71+075309.8","","PTSS","","PTSS","PTSS-nmw","CNEOST - STA1600","","1","1","","19.2","r-Sloan","2016-09-02 19:00:35","Li",""
-"14609","AT 2016fte","02:41:31.068","+59:36:30.02","Varstar","","Maffei 2",[data validation error, please contact site admin],"ASAS-SN","LCOGT SN-KP","ASAS-SN","ASASSN-16jv","ASASSN-1 - Brutus, Other - Other","FTN - FLOYDS-N","1","1","","15.8","V-Johnson","2016-09-05 12:00:00","Stanek",""
+"14609","AT 2016fte","02:41:31.068","+59:36:30.02","Varstar","","Maffei 2","-0.000057","ASAS-SN","LCOGT SN-KP","ASAS-SN","ASASSN-16jv","ASASSN-1 - Brutus, Other - Other","FTN - FLOYDS-N","1","1","","15.8","V-Johnson","2016-09-05 12:00:00","Stanek",""
 "14610","AT 2016ftf","01:02:47.574","+07:32:42.78","","","","","Pan-STARRS1","","Pan-STARRS1","PS16ebr","PS1 - GPC1","","1","1","","20.28","w-PS1","2016-08-27 12:01:26","PS1_Bot1",""
 "14611","AT 2016ftg","01:01:35.446","+00:55:55.32","","","","","Pan-STARRS1","","Pan-STARRS1","PS16ebq","PS1 - GPC1","","1","1","","20.57","w-PS1","2016-08-27 13:20:38","PS1_Bot1",""
 "14612","AT 2016fth","01:18:03.619","+00:25:49.17","","","","","Pan-STARRS1","","Pan-STARRS1","PS16ebs","PS1 - GPC1","","1","1","","20.78","w-PS1","2016-08-27 12:12:57","PS1_Bot1",""

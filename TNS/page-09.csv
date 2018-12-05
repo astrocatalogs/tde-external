@@ -311,7 +311,7 @@
 "12749","AT 2016dae","22:53:15.151","-22:08:38.22","","","","","ATLAS","","ATLAS","ATLAS16bqp","ATLAS1 - ACAM1","","1","1","","17.39","orange-ATLAS","2016-06-20 12:31:40","ATLAS_Bot1",""
 "12750","AT 2016daf","22:21:18.884","-04:40:02.33","","","","","ATLAS","","ATLAS","ATLAS16brb","ATLAS1 - ACAM1","","1","1","","18.24","cyan-ATLAS","2016-07-07 12:46:04","ATLAS_Bot1",""
 "12751","AT 2016dag","08:19:07.450","-78:41:54.00","","","ESO-18-G-002","","BOSS","","BOSS; PESSTO","","Other - Other","","1","1","","17","Other-","2016-07-09 09:22:13","Parker",""
-"12752","AT 2016dah","00:44:41.073","+40:08:35.68","","","M31",[data validation error, please contact site admin],"ASAS-SN","","ASAS-SN","ASASSN-16hf","ASASSN-1 - Brutus","","1","1","","16.4","V-Johnson","2016-07-14 12:57:36","Brown",""
+"12752","AT 2016dah","00:44:41.073","+40:08:35.68","","","M31","-0.001001","ASAS-SN","","ASAS-SN","ASASSN-16hf","ASASSN-1 - Brutus","","1","1","","16.4","V-Johnson","2016-07-14 12:57:36","Brown",""
 "12753","AT 2016dai","21:44:11.010","+08:51:56.91","","","SDSS J214410.73+085158.9","","PTSS, Pan-STARRS1, iPTF","","iPTF; Pan-STARRS1; PTSS","PTSS-16kfg","CNEOST - STA1600, PS1 - GPC1, P48 - CFH12k","","1","1","","19.1","r-Sloan","2016-07-16 18:49:43","Li",""
 "12754","SN 2016daj","02:04:37.495","+21:35:08.45","SN Ia","0.032","MCG +03-06-031 ","","ASAS-SN, GaiaAlerts","ASAS-SN","ASAS-SN; GaiaAlerts","ASASSN-16hh","ASASSN-2 - Cassius, ASASSN-1 - Brutus, Gaia - Gaia-photometric","LT - SPRAT","1","1","","16.6","V-Johnson","2016-07-17 12:50:24","Stanek",""
 "12755","AT 2016dak","22:08:17.510","-12:45:12.10","","","","","Pan-STARRS1","","Pan-STARRS1","PS16dby","PS1 - GPC1","","1","1","","19.97","w-PS1","2016-07-07 12:41:45","Wright",""
