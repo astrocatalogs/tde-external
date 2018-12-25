@@ -1,4 +1,4 @@
-"ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
 "6001","SN 2012eb","23:41:38.050","-46:11:03.01","SN I","","Anon.           ","","","","","","","","0","1","","18.6","","2012-07-14 00:00:00","",""
 "6002","SN 2012ec","02:45:59.880","-07:34:27.01","SN IIP","","NGC 1084        ","","","","","","","","0","1","","14.5","","2012-08-11 00:00:00","",""
 "6003","SN 2012ed","15:39:36.451","-02:41:00.71","SN II","","Anon.           ","","","","","","","","0","1","","17.6","","2012-08-13 00:00:00","",""

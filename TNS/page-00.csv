@@ -1,4 +1,4 @@
-"ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
 "1"," 1006","15:16:00.000","-41:54:00.00","","","Milky Way       ","","","","","","","","0","1","","-9","","1006-05-06 00:00:00","",""
 "2","SN 1054","05:34:31.889","+22:00:51.98","SN I","","Milky Way       ","","","","","","","","0","1","","-4","","1054-08-27 00:00:00","",""
 "3","SN 1572","00:24:48.600","+64:08:48.98","SN I","","Milky Way       ","","","","","","","","0","1","","-4","","1572-11-06 00:00:00","",""

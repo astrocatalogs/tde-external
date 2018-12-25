@@ -1,4 +1,4 @@
-"ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
 "1001","SN 1994T","13:18:59.839","-02:09:01.58","SN Ia","","Anon.           ","","","","","","","","0","1","","16","","1994-06-11 00:00:00","",""
 "1002","SN 1994U","13:04:56.131","-07:56:51.50","SN Ia","","NGC 4948        ","","","","","","","","0","1","","14","","1994-06-27 00:00:00","",""
 "1003"," 1994V","14:54:40.399","-17:24:42.59","","","MCG -03-38-25   ","","","","","","","","0","1","","17","","1994-07-14 00:00:00","",""
