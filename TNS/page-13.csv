@@ -326,7 +326,7 @@
 "16783","AT 2016ixz","04:38:56.646","-22:57:45.84","","","","","Pan-STARRS1","","Pan-STARRS1","PS16fjo","PS1 - GPC1","","1","1","","19.83","i-Sloan","2016-12-15 08:47:02","PS1_Bot1",""
 "16784","AT 2016iya","04:42:32.896","-18:11:21.62","","","","","Pan-STARRS1","","Pan-STARRS1","PS16fjr","PS1 - GPC1","","1","1","","19.82","i-Sloan","2016-12-15 09:01:26","PS1_Bot1",""
 "16785","AT 2016iyb","04:41:44.450","-22:59:39.48","","","","","Pan-STARRS1","","Pan-STARRS1","PS16fjq","PS1 - GPC1","","1","1","","19.08","i-Sloan","2016-12-15 08:28:19","PS1_Bot1",""
-"16786","SN 2016iyc","22:09:14.280","+21:31:17.51","SN IIb","","UGC 11924","0.012685","LOSS, GaiaAlerts","LOSS","GaiaAlerts; LOSS","kait-16bx","Other - Other, Gaia - Gaia-photometric","","1","1","","17","Clear-","2016-12-18 03:28:00","Zheng",""
+"16786","SN 2016iyc","22:09:14.280","+21:31:17.51","SN IIb","","UGC 11924","0.012685","LOSS, GaiaAlerts","LOSS","GaiaAlerts; LOSS","kait-16bx","Other - Other, Gaia - Gaia-photometric","Lick-3m - KAST","1","1","","17","Clear-","2016-12-18 03:28:00","Zheng",""
 "16787","SN 2016iyd","07:37:09.756","-52:19:04.19","SN II","0.034","","","ASAS-SN","PESSTO","ASAS-SN","ASASSN-16oy","ASASSN-2 - Cassius","ESO-NTT - EFOSC2-NTT","1","1","","16.4","V-Johnson","2016-12-19 06:43:12","Stanek",""
 "16788","SN 2016iye","07:45:19.720","-71:24:17.90","SN IIb","0.03","NGC2466","","BOSS","PESSTO","BOSS; PESSTO","","Other - Other","ESO-NTT - EFOSC2-NTT","1","1","","17.4","Clear-","2016-12-19 11:23:45","Parker",""
 "16789","SN 2016iyf","10:16:34.210","+22:05:14.60","SN Ia","0.041","","","GaiaAlerts","","GaiaAlerts","Gaia16cdi","Gaia - Gaia-photometric","P60 - SEDM","1","1","","17.9","G-Gaia","2016-12-17 18:31:40","Gaia_Bot1",""
