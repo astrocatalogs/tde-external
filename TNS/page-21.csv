@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"24957","AT 2018me","10:10:30.490","+23:05:53.97","","","","","ATLAS","","ATLAS","ATLAS18lte","ATLAS1 - ACAM1","","1","1","","19.246","cyan-ATLAS","2018-01-17 13:59:31","ATLAS_Bot1",""
 "24958","SN 2018mf","10:22:09.780","+10:26:23.90","SN Ia","0.107","","","ZTF, Pan-STARRS1","ZTF","Pan-STARRS1; ZTF","ZTF18aaaoaeq","P48 - ZTF-Cam, PS1 - GPC1","P200 - DBSP","1","1","","19.6","g-ZTF","2018-01-14 10:29:02","ZTF_Bot1",""
 "24959","SN 2018mg","10:56:53.580","+79:16:42.50","SN Ia","0.11","","","ZTF","ZTF","ZTF","ZTF18aaaoktp","P48 - ZTF-Cam","P200 - DBSP","1","1","2018-02-07","20.1","g-ZTF","2018-01-11 10:52:26","ZTF_Bot1",""
 "24960","AT 2018mh","00:47:36.000","-65:33:35.70","","","OGLE-GAL-SMC796.19-1118.034-2480.137","","OGLE","","OGLE","","OGLE-1.3m - OGLEIV-Cam","","1","1","","19.465","I-Cousins","2018-01-30 00:53:06","Wyrzykowski",""
@@ -998,4 +999,3 @@
 "25958","AT 2018axs","12:27:06.199","+07:36:20.99","","","","","Pan-STARRS1","","Pan-STARRS1","PS18ou","PS1 - GPC1","","1","1","","19.64","w-PS1","2018-04-13 08:35:31","PS1_Bot1",""
 "25959","AT 2018axt","13:02:28.594","-06:18:19.94","","","","","Pan-STARRS1","","Pan-STARRS1","PS18ox","PS1 - GPC1","","1","1","","21.44","w-PS1","2018-04-13 10:00:28","PS1_Bot1",""
 "25960","AT 2018axu","13:01:50.475","-02:53:38.53","","","","","Pan-STARRS1","","Pan-STARRS1","PS18ow","PS1 - GPC1","","1","1","","19.15","w-PS1","2018-04-13 10:00:28","PS1_Bot1",""
-"25961","AT 2018axv","16:15:09.794","+02:58:41.68","","","","","Pan-STARRS1","","Pan-STARRS1","PS18pi","PS1 - GPC1","","1","1","","21.31","w-PS1","2018-04-13 14:13:55","PS1_Bot1",""
