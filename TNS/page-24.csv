@@ -546,7 +546,7 @@
 "28641","AT 2018eta","15:17:19.760","-22:57:53.57","","","","","GaiaAlerts","","GaiaAlerts","Gaia18cay","Gaia - Gaia-photometric","","1","1","","18.88","G-Gaia","2018-08-06 15:15:50","Gaia_Bot1",""
 "28642","AT 2018etb","14:55:31.300","-13:27:24.19","","","","","GaiaAlerts","","GaiaAlerts","Gaia18caz","Gaia - Gaia-photometric","","1","1","","18.7","G-Gaia","2018-08-06 15:25:55","Gaia_Bot1",""
 "28643","AT 2018etc","04:01:08.650","+35:02:51.61","","","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia18cbb","Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","17.78","G-Gaia","2018-08-06 23:57:07","Gaia_Bot1",""
-"28644","AT 2018etd","14:52:45.880","-07:11:36.24","","","","","GaiaAlerts","","GaiaAlerts","Gaia18cbc","Gaia - Gaia-photometric","","1","1","","18.54","G-Gaia","2018-08-07 03:31:40","Gaia_Bot1",""
+"28644","AT 2018etd","14:52:45.880","-07:11:36.24","","","","","GaiaAlerts, ZTF","","GaiaAlerts; ZTF","Gaia18cbc","Gaia - Gaia-photometric, P48 - ZTF-Cam","","1","1","","18.54","G-Gaia","2018-08-07 03:31:40","Gaia_Bot1",""
 "28645","AT 2018ete","16:28:40.730","-43:31:21.83","","","","","GaiaAlerts","","GaiaAlerts","Gaia18cbd","Gaia - Gaia-photometric","","1","1","","18.63","G-Gaia","2018-08-06 20:52:48","Gaia_Bot1",""
 "28646","AT 2018etf","14:51:54.560","-16:23:48.30","","","","","GaiaAlerts","","GaiaAlerts","Gaia18cbe","Gaia - Gaia-photometric","","1","1","","19.29","G-Gaia","2018-08-06 03:23:02","Gaia_Bot1",""
 "28647","AT 2018etg","16:04:38.860","-41:06:17.39","","","","","GaiaAlerts","","GaiaAlerts","Gaia18cbf","Gaia - Gaia-photometric","","1","1","","18.96","G-Gaia","2018-08-06 02:57:07","Gaia_Bot1",""
