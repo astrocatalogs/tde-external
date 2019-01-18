@@ -8,7 +8,7 @@
  {"id":27340,"ivorn":"ivo://Gaia19abf","published":"2019-01-10T04:39:06","ra":206.388,"dec":44.8831944444,"nfollowup":1}, 
  {"id":27339,"ivorn":"ivo://Gaia19abs","published":"2019-01-10T04:12:24","ra":186.62,"dec":54.1821944444,"nfollowup":2}, 
  {"id":27338,"ivorn":"ivo://Gaia19abt","published":"2019-01-10T01:39:50","ra":180.578,"dec":59.2566944444,"nfollowup":2}, 
- {"id":27337,"ivorn":"ivo://Gaia19aau","published":"2019-01-10T00:39:27","ra":47.5377916667,"dec":59.3961111111,"nfollowup":47}, 
+ {"id":27337,"ivorn":"ivo://Gaia19aau","published":"2019-01-10T00:39:27","ra":47.5377916667,"dec":59.3961111111,"nfollowup":72}, 
  {"id":27336,"ivorn":"ivo://Gaia19abb","published":"2019-01-09T23:14:08","ra":46.5132083333,"dec":25.2973055556,"nfollowup":3}, 
  {"id":27335,"ivorn":"ivo://Gaia18ead","published":"2019-01-07T23:39:25","ra":22.4465,"dec":68.4746111111,"nfollowup":3}, 
  {"id":27334,"ivorn":"ivo://Gaia18dzl","published":"2019-01-06T07:48:50","ra":239.337,"dec":18.1223055556,"nfollowup":4}, 
