@@ -1,1 +1,6 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"34067","AT 2019aet","08:42:58.360","-09:35:50.18","","","","","ZTF","","ZTF","ZTF19aaeqkyc","P48 - ZTF-Cam","","1","1","","18.8","r-ZTF","2019-01-26 05:56:17","ZTF_AMPEL_MSIP",""
+"34068","AT 2019aeu","08:37:15.955","+01:39:25.20","","","","","ZTF","","ZTF","ZTF19aaernbi","P48 - ZTF-Cam","","1","1","","19.4","g-ZTF","2019-01-26 05:38:11","ZTF_AMPEL_MSIP","TESS-active sector/s (7);TESS-Sector7"
+"34069","AT 2019aev","12:56:18.111","+18:47:06.96","","","","","ZTF","","ZTF","ZTF19aadyijk","P48 - ZTF-Cam","","1","1","","18.72","g-ZTF","2019-01-23 12:28:08","ZTF_AMPEL_MSIP",""
+"34070","AT 2019aew","17:29:27.029","+57:27:17.16","","","","","ZTF","","ZTF","ZTF19aaesfyl","P48 - ZTF-Cam","","1","1","","18.52","r-ZTF","2019-01-23 12:44:53","ZTF_AMPEL_MSIP",""
+"34071","AT 2019aex","00:39:15.768","+06:41:17.38","","","2MASX J00391571+0641188","0.038683","ASAS-SN","","ASAS-SN","ASASSN-19bk","ASASSN-4 - Leavitt","","1","1","","17.4","g-Sloan","2019-01-27 02:09:36","Stanek",""
