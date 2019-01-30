@@ -231,6 +231,7 @@
 "17688","AT 2017yg","15:57:11.528","+42:19:07.26","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS17aro","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","19.24","cyan-ATLAS","2017-01-25 15:18:43","ATLAS_Bot1",""
 "17689","AT 2017yh","17:52:06.247","+21:33:58.32","","","IC 1269","0.020401","ASAS-SN, GaiaAlerts, Pan-STARRS1","","ASAS-SN; GaiaAlerts; Pan-STARRS1","ASASSN-17bs","ASASSN-1 - Brutus, Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","16.5","V-Johnson","2017-01-30 15:36:00","Stanek",""
 "17690","SN 2017yi","02:59:27.360","+14:47:57.30","SN Ia","0.034","2MASX J02592769+1447417","","PIKA, GaiaAlerts","","GaiaAlerts; PIKA","","Other - Other, Gaia - Gaia-photometric","BAO-2.16m - Cassegrain","1","1","","17.3","Clear-","2017-01-29 17:25:10","Mikuz",""
+"17691","AT 2017yj","07:51:01.468","+29:14:18.57","","","","","iPTF","","iPTF","iPTF17yj","P48 - CFH12k","","1","1","2019-01-30","19.017","I-PTF","2017-01-30 09:04:19","iPTF_Bot1",""
 "17692","AT 2017yk","09:44:31.772","-12:18:29.59","","","","","ATLAS, Pan-STARRS1","","ATLAS; Pan-STARRS1","ATLAS17asj","ATLAS1 - ACAM1, PS1 - GPC1","","1","1","","19.02","cyan-ATLAS","2017-01-26 11:55:40","ATLAS_Bot1",""
 "17693","AT 2017yl","03:32:17.140","-32:03:52.64","","","","","ATLAS","","ATLAS","ATLAS17atc","ATLAS1 - ACAM1","","1","1","","18.72","cyan-ATLAS","2017-01-26 06:50:23","ATLAS_Bot1",""
 "17694","AT 2017ym","13:32:53.724","-24:12:35.86","","","","","ATLAS","","ATLAS","ATLAS17atb","ATLAS1 - ACAM1","","1","1","","17.77","cyan-ATLAS","2017-01-26 15:43:12","ATLAS_Bot1",""
@@ -998,4 +999,3 @@
 "18595","AT 2017bgx","16:02:10.747","+36:38:57.00","","","","","ATLAS","","ATLAS","ATLAS17bfa","ATLAS1 - ACAM1","","1","1","","18.49","orange-ATLAS","2017-02-14 15:28:48","ATLAS_Bot1",""
 "18596","AT 2017bgy","08:08:36.747","+35:03:05.98","","","","","ATLAS","","ATLAS","ATLAS17bfb","ATLAS1 - ACAM1","","1","1","","18.37","orange-ATLAS","2017-02-18 10:10:33","ATLAS_Bot1",""
 "18597","AT 2017bgz","07:16:56.616","+42:16:31.04","","","","","ATLAS","","ATLAS","ATLAS17bey","ATLAS1 - ACAM1","","1","1","","18.99","orange-ATLAS","2017-02-18 10:07:40","ATLAS_Bot1",""
-"18598","AT 2017bha","09:46:08.984","+42:56:56.50","","","","","ATLAS","","ATLAS","ATLAS17bfc","ATLAS1 - ACAM1","","1","1","","19","orange-ATLAS","2017-02-18 10:58:04","ATLAS_Bot1",""

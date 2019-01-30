@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"28029","AT 2018dvo","00:02:54.614","+03:24:36.56","","","","","Pan-STARRS1, ATLAS","","ATLAS; Pan-STARRS1","PS18azg","PS1 - GPC1, ATLAS1 - ACAM1","","1","1","","19","w-PS1","2018-07-11 13:50:52","PS1_Bot1",""
 "28030","AT 2018dvp","22:12:18.789","-12:54:39.47","","","","","Pan-STARRS1","","Pan-STARRS1","PS18azh","PS1 - GPC1","","1","1","","21.35","w-PS1","2018-07-11 12:27:21","PS1_Bot1",""
 "28031","AT 2018dvq","22:18:50.062","-13:16:35.83","","","","","Pan-STARRS1","","Pan-STARRS1","PS18azi","PS1 - GPC1","","1","1","","20.39","w-PS1","2018-07-11 12:28:48","PS1_Bot1",""
 "28032","AT 2018dvr","15:42:09.827","+22:35:47.12","","","","","Pan-STARRS1","","Pan-STARRS1","PS18ayt","PS1 - GPC1","","1","1","","21.6","w-PS1","2018-06-17 10:01:55","PS1_Bot1",""
@@ -998,4 +999,3 @@
 "29026","AT 2018fhu","06:14:05.710","+12:50:40.92","","","","","GaiaAlerts","","GaiaAlerts","Gaia18chh","Gaia - Gaia-photometric","","1","1","","18.55","G-Gaia","2018-08-18 12:08:38","Gaia_Bot1",""
 "29027","AT 2018fhv","19:06:55.880","-39:31:42.64","","","","","GaiaAlerts","","GaiaAlerts","Gaia18chj","Gaia - Gaia-photometric","","1","1","","18.8","G-Gaia","2018-08-18 20:51:21","Gaia_Bot1",""
 "29028","SN 2018fhw","04:18:06.266","-63:36:54.25","SN Ia","0.017","2MASX J04180598-6336523","","ASAS-SN, GaiaAlerts, OGLE","","ASAS-SN; GaiaAlerts; OGLE","ASASSN-18tb","ASASSN-2 - Cassius, Gaia - Gaia-photometric, OGLE-1.3m - OGLEIV-Cam","SALT - RSS","1","1","","16.8","V-Johnson","2018-08-21 07:26:24","Vallely",""
-"29029","SN 2018fhx","06:24:38.038","-23:43:58.94","SN Ia","0.023","2MASX J06243821-2343546","0.023266","ASAS-SN, ATLAS, GaiaAlerts","ePESSTO","ASAS-SN; ATLAS; GaiaAlerts","ASASSN-18tc","ASASSN-2 - Cassius, ASASSN-3 - Paczynski, ATLAS1 - ACAM1, Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","17","g-Sloan","2018-08-21 09:07:12","Stanek",""

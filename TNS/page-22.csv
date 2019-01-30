@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"25893","AT 2018avh","13:11:39.492","+06:19:10.81","","","VIII Zw 260W","0.04576","ASAS-SN","","ASAS-SN","ASASSN-18ie","ASASSN-3 - Paczynski","","1","1","","17.4","g-Sloan","2018-04-16 06:14:24","Stanek",""
 "25894","AT 2018avi","23:38:04.550","-43:24:17.57","","","","","GaiaAlerts","","GaiaAlerts","Gaia18ayo","Gaia - Gaia-photometric","","1","1","","17.97","G-Gaia","2018-04-14 20:13:55","Gaia_Bot1",""
 "25895","AT 2018avj","23:36:33.980","-41:15:22.03","","","","","GaiaAlerts","","GaiaAlerts","Gaia18ayp","Gaia - Gaia-photometric","","1","1","","17.5","G-Gaia","2018-04-14 21:57:36","Gaia_Bot1",""
 "25896","SN 2018avk","13:11:27.750","+65:38:17.16","SN Ic","0.132","","","GaiaAlerts, ATLAS, ZTF","","ATLAS; GaiaAlerts; ZTF","Gaia18ayq","Gaia - Gaia-photometric, ATLAS1 - ACAM1, P48 - ZTF-Cam","MMT - MMT-Blue","1","1","","18.63","G-Gaia","2018-04-14 17:45:36","Gaia_Bot1",""
@@ -998,4 +999,3 @@
 "27026","AT 2018cji","01:26:17.550","+16:44:18.60","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bmk","Gaia - Gaia-photometric","","1","1","","18.53","G-Gaia","2018-06-09 20:25:26","Gaia_Bot1",""
 "27027","AT 2018cjj","23:08:57.880","-65:59:32.50","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bml","Gaia - Gaia-photometric","","1","1","","16.5","G-Gaia","2018-06-09 08:12:28","Gaia_Bot1",""
 "27028","AT 2018cjk","23:24:50.088","+15:16:45.84","","","NGC 7653","0.0142","SNHunt, Pan-STARRS1, GaiaAlerts","","CRTS; GaiaAlerts; Pan-STARRS1; SNHunt","","Other - Other, PS1 - GPC1, Gaia - Gaia-photometric","","1","1","","18.8","V-crts-CRTS","2018-06-11 10:47:43","Drake",""
-"27029","SN 2018cjl","11:10:43.033","+40:47:23.06","SLSN-II","0.083","","","ZTF, ATLAS","ZTF","ATLAS; ZTF","ZTF18aasufva","P48 - ZTF-Cam, ATLAS1 - ACAM1","","1","1","","20.38","r-ZTF","2018-05-10 05:44:09","ZTF_Bot1",""
