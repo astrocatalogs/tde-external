@@ -981,7 +981,7 @@
 "17438","AT 2017ot","14:11:28.960","-42:38:23.42","","","","","GaiaAlerts","","GaiaAlerts","Gaia17afu","Gaia - Gaia-photometric","","1","1","","18.58","G-Gaia","2017-01-22 08:23:59","Gaia_Bot1",""
 "17439","AT 2017ou","14:50:54.840","-40:11:05.03","","","","","GaiaAlerts","","GaiaAlerts","Gaia17afv","Gaia - Gaia-photometric","","1","1","","17.61","G-Gaia","2017-01-22 20:15:21","Gaia_Bot1",""
 "17440","AT 2017ov","05:32:44.560","-00:30:00.22","","","","","GaiaAlerts","","GaiaAlerts","Gaia17afw","Gaia - Gaia-photometric","","1","1","","18.41","G-Gaia","2017-01-22 20:42:43","Gaia_Bot1",""
-"17441","AT 2017ow","08:15:34.784","+29:41:09.12","","","","","ATLAS, Pan-STARRS1","","ATLAS; Pan-STARRS1","ATLAS17alr","ATLAS1 - ACAM1, PS1 - GPC1","","1","1","","17.53","cyan-ATLAS","2017-01-24 10:55:12","ATLAS_Bot1",""
+"17441","AT 2017ow","08:15:34.784","+29:41:09.12","","","","","ATLAS, Pan-STARRS1, iPTF","","ATLAS; iPTF; Pan-STARRS1","ATLAS17alr","ATLAS1 - ACAM1, PS1 - GPC1, P48 - CFH12k","","1","1","","17.53","cyan-ATLAS","2017-01-24 10:55:12","ATLAS_Bot1",""
 "17442","AT 2017ox","01:27:49.506","+22:20:35.97","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS17ama","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","17.54","cyan-ATLAS","2017-01-24 06:02:52","ATLAS_Bot1",""
 "17443","AT 2017oy","13:38:06.126","+15:51:56.31","","","","","ATLAS, Pan-STARRS1","","ATLAS; Pan-STARRS1","ATLAS17amb","ATLAS1 - ACAM1, PS1 - GPC1","","1","1","","18.23","orange-ATLAS","2017-01-20 16:00:28","ATLAS_Bot1",""
 "17444","AT 2017oz","14:06:41.579","+30:19:07.49","","","","","ATLAS","","ATLAS","ATLAS17amc","ATLAS1 - ACAM1","","1","1","","18.71","cyan-ATLAS","2017-01-24 15:02:52","ATLAS_Bot1",""
