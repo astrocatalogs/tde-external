@@ -894,7 +894,7 @@
 "31895","AT 2018jng","20:04:28.560","+04:11:15.32","","","","","GaiaAlerts","","GaiaAlerts","Gaia18dsg","Gaia - Gaia-photometric","","1","1","","17.88","G-Gaia","2018-12-06 08:23:59","Gaia_Bot1",""
 "31896","AT 2018jnh","18:53:34.230","+13:47:26.63","","","","","GaiaAlerts","","GaiaAlerts","Gaia18dsh","Gaia - Gaia-photometric","","1","1","","20.12","G-Gaia","2018-11-21 20:34:04","Gaia_Bot1",""
 "31897","AT 2018jni","13:15:01.760","+26:26:00.13","","","","","GaiaAlerts","","GaiaAlerts","Gaia18dsi","Gaia - Gaia-photometric","","1","1","","18.5","G-Gaia","2018-12-06 16:04:48","Gaia_Bot1",""
-"31898","SN 2018jnj","23:56:17.350","-25:18:21.56","SN Ia","0.098","","","GaiaAlerts","ePESSTO","GaiaAlerts","Gaia18dsj","Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","18.47","G-Gaia","2018-12-05 19:24:57","Gaia_Bot1",""
+"31898","SN 2018jnj","23:56:17.350","-25:18:21.56","SN Ia","0.098","","","GaiaAlerts, ATLAS","ePESSTO","ATLAS; GaiaAlerts","Gaia18dsj","Gaia - Gaia-photometric, ATLAS1 - ACAM1","ESO-NTT - EFOSC2-NTT","1","1","","18.47","G-Gaia","2018-12-05 19:24:57","Gaia_Bot1",""
 "31899","AT 2001ky","10:23:13.296","+04:35:38.98","","","2MASX J10231308+0435387","0.06424","","","","","Sloan - SDSS-Spec","","1","1","","17.12","r-Sloan","2001-02-20 09:17:20","Nowell",""
 "31900","AT 2018jnk","02:25:04.385","+08:29:26.79","","","","","ZTF","","ZTF","ZTF18abrejjg","P48 - ZTF-Cam","","1","1","","18.4696","r-ZTF","2018-12-03 07:20:40","ZTF_AMPEL_MSIP",""
 "31901","AT 2018jnl","02:39:12.693","+41:40:17.81","","","","","ZTF","","ZTF","ZTF18abwbgtc","P48 - ZTF-Cam","","1","1","","18.8307","r-ZTF","2018-12-03 07:09:26","ZTF_AMPEL_MSIP",""
