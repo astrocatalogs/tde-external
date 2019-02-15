@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"29999","AT 2018gte","21:04:30.961","+13:03:06.93","CV","","","","ZTF","ZTF","ZTF","ZTF18abygcwk","P48 - ZTF-Cam","P60 - SEDM","1","1","","19.02","g-ZTF","2018-09-22 05:34:04","ZTF_Bot1",""
+"30000","AT 2018gtf","06:16:23.481","+43:56:30.08","","","","","ZTF","","ZTF","ZTF18aadygpb","P48 - ZTF-Cam","","1","1","","19.26","r-ZTF","2018-09-13 11:51:21","ZTF_Bot1",""
 "30001","SN 2018gtg","01:57:26.224","+08:55:02.54","SN Ia","0.108","","","ATLAS","","ATLAS","ATLAS18vmu","ATLAS1 - ACAM1","LT - SPRAT","1","1","","19.693","cyan-ATLAS","2018-09-14 13:49:26","ATLAS_Bot1",""
 "30002","AT 2018gth","03:44:00.230","-29:19:00.62","","","","","GaiaAlerts","","GaiaAlerts","Gaia18csm","Gaia - Gaia-photometric","","1","1","","18.57","G-Gaia","2018-09-20 18:44:38","Gaia_Bot1",""
 "30003","AT 2018gti","14:25:40.480","-26:26:23.24","","","","","GaiaAlerts","","GaiaAlerts","Gaia18csn","Gaia - Gaia-photometric","","1","1","","18.13","G-Gaia","2018-09-20 20:35:31","Gaia_Bot1",""
@@ -997,5 +999,3 @@
 "30997","AT 2018iex","07:07:12.954","+64:35:59.83","","","","","ZTF","","ZTF","ZTF18abzzebd","P48 - ZTF-Cam","","1","1","","17.9484","g-ZTF","2018-10-31 10:04:45","ZTF_AMPEL_MSIP",""
 "30998","AT 2018iey","02:46:25.289","+35:25:50.30","","","","","ZTF","","ZTF","ZTF18abnzunr","P48 - ZTF-Cam","","1","1","","18.8545","r-ZTF","2018-10-31 06:29:26","ZTF_AMPEL_MSIP",""
 "30999","AT 2018iez","03:34:17.709","-06:15:53.59","","","","","ZTF","","ZTF","ZTF18acebtdv","P48 - ZTF-Cam","","1","1","","19.2172","g-ZTF","2018-11-06 07:59:05","ZTF_AMPEL_MSIP",""
-"31000","AT 2018ifa","03:45:34.459","-31:59:24.29","","","","","ATLAS","","ATLAS","ATLAS18ymp","ATLAS1 - ACAM1","","1","1","","18.78","cyan-ATLAS","2018-11-07 12:15:50","ATLAS_Bot1",""
-"31001","AT 2018ifb","19:11:11.435","-31:12:52.82","","","","","ATLAS","","ATLAS","ATLAS18ymr","ATLAS1 - ACAM1","","1","1","","18.258","orange-ATLAS","2018-11-09 05:19:40","ATLAS_Bot1",""

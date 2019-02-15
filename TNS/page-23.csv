@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"26998","AT 2018cig","10:56:31.404","+18:13:41.03","","","","","ZTF","","ZTF","ZTF18aawxgqp","P48 - ZTF-Cam","","1","1","","19.08","r-ZTF","2018-05-28 05:34:04","ZTF_Bot1",""
+"26999","SN 2018cih","12:32:29.348","+04:53:20.25","SN IIn","0.0828","","","ZTF, Pan-STARRS1, GaiaAlerts, ATLAS","ZTF","ATLAS; GaiaAlerts; Pan-STARRS1; ZTF","ZTF18aaxjuwy","P48 - ZTF-Cam, PS1 - GPC1, Gaia - Gaia-photometric, ATLAS1 - ACAM1","","1","1","","18.83","r-ZTF","2018-06-05 04:43:40","ZTF_Bot1",""
 "27000","AT 2018cii","10:42:39.102","-07:26:33.69","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS18qig","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","17.565","cyan-ATLAS","2018-06-09 07:00:28","ATLAS_Bot1",""
 "27001","AT 2018cij","15:34:57.251","+50:56:16.96","","","","","ATLAS","","ATLAS","ATLAS18qih","ATLAS1 - ACAM1","","1","1","","17.475","orange-ATLAS","2018-06-09 10:00:28","ATLAS_Bot1",""
 "27002","AT 2018cik","22:05:13.950","-66:37:07.03","","","","","GaiaAlerts","","GaiaAlerts","Gaia18bly","Gaia - Gaia-photometric","","1","1","","18.66","G-Gaia","2018-06-07 16:03:21","Gaia_Bot1",""
@@ -997,5 +999,3 @@
 "27996","AT 2018duh","13:48:58.313","+43:58:35.75","","","","","Pan-STARRS1","","Pan-STARRS1","PS18awf","PS1 - GPC1","","1","1","","21.67","w-PS1","2018-07-04 07:07:40","PS1_Bot1",""
 "27997","AT 2018dui","08:32:40.262","+25:35:37.90","","","","","Pan-STARRS1","","Pan-STARRS1","PS18ave","PS1 - GPC1","","1","1","","19.86","w-PS1","2018-02-13 06:38:52","PS1_Bot1",""
 "27998","AT 2018duj","08:08:45.546","+28:44:26.12","","","","","Pan-STARRS1","","Pan-STARRS1","PS18avd","PS1 - GPC1","","1","1","","20.1","w-PS1","2018-02-13 06:31:40","PS1_Bot1",""
-"27999","AT 2018duk","09:49:22.400","+11:04:07.52","","","","","Pan-STARRS1","","Pan-STARRS1","PS18avg","PS1 - GPC1","","1","1","","20.56","w-PS1","2018-03-07 05:55:40","PS1_Bot1",""
-"28000","AT 2018dul","10:44:49.407","+22:54:46.91","","","","","Pan-STARRS1","","Pan-STARRS1","PS18avf","PS1 - GPC1","","1","1","","19.81","w-PS1","2018-03-06 07:24:57","PS1_Bot1",""

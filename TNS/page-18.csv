@@ -1,4 +1,6 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"21797","AT 2017fzh","02:54:02.419","+12:47:09.89","","","","","Pan-STARRS1","","Pan-STARRS1","PS17eab","PS1 - GPC1","","1","1","","21.67","w-PS1","2017-08-03 13:53:45","PS1_Bot1",""
+"21798","AT 2017fzi","15:22:46.513","+30:15:03.35","","","","","Pan-STARRS1","","Pan-STARRS1","PS17ead","PS1 - GPC1","","1","1","","19.62","i-Sloan","2017-08-06 06:15:50","PS1_Bot1",""
 "21799","AT 2017fzj","06:16:20.030","+43:43:53.26","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bzf","Gaia - Gaia-photometric","","1","1","","18.83","G-Gaia","2017-08-07 04:33:36","Gaia_Bot1",""
 "21800","AT 2017fzk","16:02:42.300","+66:29:50.17","","","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia17bzg","Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","18.68","G-Gaia","2017-08-07 09:31:40","Gaia_Bot1",""
 "21801","AT 2017fzl","18:07:32.140","-37:21:03.17","","","","","GaiaAlerts","","GaiaAlerts","Gaia17bzi","Gaia - Gaia-photometric","","1","1","","17.91","G-Gaia","2017-08-07 07:52:19","Gaia_Bot1",""
@@ -997,5 +999,3 @@
 "22850","AT 2017hlo","20:58:46.264","-11:02:07.77","","","","","Pan-STARRS1","","Pan-STARRS1","PS17etq","PS1 - GPC1","","1","1","","21.16","w-PS1","2017-10-12 05:26:52","PS1_Bot1",""
 "22851","AT 2017hlp","23:52:39.730","-30:25:56.66","","","","","Pan-STARRS1","","Pan-STARRS1","PS17etp","PS1 - GPC1","","1","1","","19.71","i-Sloan","2017-10-10 09:23:02","PS1_Bot1",""
 "22852","AT 2017hlq","01:40:58.474","-11:46:40.04","","","","","ATLAS","","ATLAS","ATLAS17mio","ATLAS1 - ACAM1","","1","1","","19.115","cyan-ATLAS","2017-09-22 11:12:28","ATLAS_Bot1",""
-"22853","AT 2017hlr","00:15:17.533","-02:26:48.27","","","","","ATLAS","","ATLAS","ATLAS17mil","ATLAS1 - ACAM1","","1","1","","19.507","cyan-ATLAS","2017-09-22 09:48:57","ATLAS_Bot1",""
-"22854","AT 2017hls","06:14:09.727","-43:13:54.83","","","","","ATLAS","","ATLAS","ATLAS17mkn","ATLAS1 - ACAM1","","1","1","","18.233","orange-ATLAS","2017-09-27 14:38:24","ATLAS_Bot1",""
