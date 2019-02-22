@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"30892","SN 2018iaw","09:35:27.814","+52:37:56.00","SLSN-II","0.206","","","ZTF, ATLAS","ZTF","ATLAS; ZTF","ZTF18abxbmqh","P48 - ZTF-Cam, ATLAS1 - ACAM1","","1","1","","19.3155","g-ZTF","2018-10-31 11:25:03","ZTF_AMPEL_MSIP",""
 "30893","AT 2018iax","11:32:40.767","+42:04:04.02","","","","","ZTF","","ZTF","ZTF18acbzpbs","P48 - ZTF-Cam","","1","1","","19.4836","g-ZTF","2018-11-01 11:53:05","ZTF_AMPEL_MSIP",""
 "30894","AT 2018iay","23:53:01.571","+28:48:10.89","","","","","ZTF, Pan-STARRS1","","Pan-STARRS1; ZTF","ZTF18acchhpf","P48 - ZTF-Cam, PS1 - GPC1","","1","1","","18.962","r-ZTF","2018-11-03 04:22:55","ZTF_AMPEL_MSIP",""
 "30895","AT 2018iaz","01:13:52.790","+04:48:10.63","","","","","ZTF, Pan-STARRS1","","Pan-STARRS1; ZTF","ZTF18accicnc","P48 - ZTF-Cam, PS1 - GPC1","","1","1","","19.6889","g-ZTF","2018-11-03 04:41:56","ZTF_AMPEL_MSIP",""
@@ -998,4 +999,3 @@
 "31889","AT 2018jna","03:52:28.432","+14:43:26.72","","","","","ATLAS, ZTF, Pan-STARRS1","","ATLAS; Pan-STARRS1; ZTF","ATLAS18bajl","ATLAS1 - ACAM1, P48 - ZTF-Cam, PS1 - GPC1","","1","1","","19.335","cyan-ATLAS","2018-12-07 10:36:28","ATLAS_Bot1",""
 "31890","AT 2018jnb","09:18:25.730","-31:41:31.29","","","","","ATLAS","","ATLAS","ATLAS18bajn","ATLAS1 - ACAM1","","1","1","","18.313","orange-ATLAS","2018-12-07 13:00:28","ATLAS_Bot1",""
 "31891","SN 2018jnc","11:02:24.548","-06:42:06.56","SN Ia","0.031","","","ATLAS","SCAT","ATLAS","ATLAS18baiw","ATLAS1 - ACAM1","UH88 - SNIFS","1","1","","16.831","cyan-ATLAS","2018-12-06 15:15:50","ATLAS_Bot1",""
-"31892","SN 2018jnd","04:49:25.516","-13:36:59.48","SN Ia","0.09","","","ATLAS, ZTF, Pan-STARRS1","ZTF","ATLAS; Pan-STARRS1; ZTF","ATLAS18baqy","ATLAS1 - ACAM1, P48 - ZTF-Cam, PS1 - GPC1","P60 - SEDM","1","1","","18.983","orange-ATLAS","2018-12-04 10:43:40","ATLAS_Bot1",""

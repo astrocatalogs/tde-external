@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"25755","SN 2018aqa","09:12:20.182","+13:40:22.12","SN Ia","0.028","CGCG 062-004 ","0.02883","ASAS-SN, ATLAS, GaiaAlerts","ePESSTO","ASAS-SN; ATLAS; GaiaAlerts","ASASSN-18gu","ASASSN-3 - Paczynski, ATLAS1 - ACAM1, Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","16.5","g-Sloan","2018-04-04 04:04:48","Stanek",""
 "25756","AT 2018aqb","17:48:01.870","-24:46:00.32","","","","","ATLAS","","ATLAS","ATLAS18mxa","ATLAS1 - ACAM1","","1","1","","16.93","orange-ATLAS","2018-04-01 13:01:55","ATLAS_Bot1",""
 "25757","AT 2018aqc","11:22:54.890","+16:35:23.00","CV","","NGC 3655","","","ZTF","","","Other - Other","P60 - SEDM","1","1","","13.8","Clear-","2018-04-03 21:26:10","Camarasa",""
 "25758","AT 2018aqd","08:30:31.037","-67:14:55.14","","0","","","ASAS-SN","ePESSTO","ASAS-SN","ASASSN-18gw","ASASSN-3 - Paczynski","ESO-NTT - EFOSC2-NTT","1","1","","16.3","g-Sloan","2018-04-04 02:24:00","Stanek",""
@@ -998,4 +999,3 @@
 "26887","AT 2018cef","10:49:28.271","+55:39:27.24","","","","","ATLAS","","ATLAS","ATLAS18nvp","ATLAS1 - ACAM1","","1","1","","18.989","orange-ATLAS","2018-06-03 07:07:40","ATLAS_Bot1",""
 "26888","AT 2012is","02:15:45.264","+00:51:38.16","","","SDSS J021545.50+005135.6","0.142","","","","","CTIO-4m - DECAM","","1","1","","19.71","R-Cousins","2012-11-16 03:07:02","Seguin",""
 "26889","AT 2018ceg","15:33:14.295","+15:01:03.09","","","","","ZTF","","ZTF","ZTF18aavskyg","P48 - ZTF-Cam","","1","1","","19.07","r-ZTF","2018-05-20 06:04:19","ZTF_Bot1",""
-"26890","SN 2018ceh","14:26:40.173","+07:37:05.95","SN Ia","0.08","","","ZTF","ZTF","ZTF","ZTF18aaxmixe","P48 - ZTF-Cam","","1","1","","18.91","r-ZTF","2018-06-01 07:10:33","ZTF_Bot1",""

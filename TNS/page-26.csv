@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"29891","AT 2018gpa","19:19:30.235","-21:19:48.38","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bsr","PS1 - GPC1","","1","1","","18.19","w-PS1","2018-08-05 07:35:02","PS1_Bot1",""
 "29892","AT 2018gpb","21:34:16.030","-13:53:28.81","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bsv","PS1 - GPC1","","1","1","","20.43","w-PS1","2018-08-05 09:41:45","PS1_Bot1",""
 "29893","AT 2018gpc","23:52:20.425","+13:42:09.95","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bvl","PS1 - GPC1","","1","1","","21.91","w-PS1","2018-08-13 13:58:04","PS1_Bot1",""
 "29894","AT 2018gpd","23:12:31.763","+03:09:04.22","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bvk","PS1 - GPC1","","1","1","","21.49","w-PS1","2018-08-13 12:40:19","PS1_Bot1",""
@@ -998,4 +999,3 @@
 "30889","AT 2018iat","11:02:59.013","+41:45:20.95","","","","","ZTF","","ZTF","ZTF18acbznbe","P48 - ZTF-Cam","","1","1","","18.14","g-ZTF","2018-11-01 11:07:53","ZTF_AMPEL_MSIP",""
 "30890","SN 2018iau","11:06:32.222","+58:04:44.41","SN Ia","0.11","","","ZTF","ZTF","ZTF","ZTF18acbznkf","P48 - ZTF-Cam","","1","1","","19.0037","r-ZTF","2018-11-01 11:10:33","ZTF_AMPEL_MSIP",""
 "30891","AT 2018iav","08:55:36.162","+44:25:02.98","","","","","ZTF, ATLAS, Pan-STARRS1","","ATLAS; Pan-STARRS1; ZTF","ZTF18acbznnc","P48 - ZTF-Cam, ATLAS1 - ACAM1, PS1 - GPC1","","1","1","","19.8091","r-ZTF","2018-10-31 11:50:06","ZTF_AMPEL_MSIP",""
-"30892","SN 2018iaw","09:35:27.814","+52:37:56.00","SLSN-II","0.206","","","ZTF, ATLAS","ZTF","ATLAS; ZTF","ZTF18abxbmqh","P48 - ZTF-Cam, ATLAS1 - ACAM1","","1","1","","19.3155","g-ZTF","2018-10-31 11:25:03","ZTF_AMPEL_MSIP",""
