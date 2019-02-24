@@ -323,7 +323,7 @@
 "34220","AT 2019akn","00:42:51.000","+41:21:03.80","","","M31","","XOSS, ATLAS","","ATLAS; XOSS","XM09MZ","Other - Other, ATLAS1 - ACAM1","","1","1","","18.8","Clear-","2019-02-03 13:03:59","Zhang",""
 "34221","AT 2019ako","06:13:56.291","-38:02:23.82","","","","","ATLAS","","ATLAS","ATLAS19cdg","ATLAS1 - ACAM1","","1","1","","18.538","orange-ATLAS","2019-02-01 08:22:33","ATLAS_Bot1",""
 "34222","AT 2019akp","13:28:00.360","-34:56:43.64","","","","","ATLAS","","ATLAS","ATLAS19cdh","ATLAS1 - ACAM1","","1","1","","17.386","orange-ATLAS","2019-02-01 13:16:19","ATLAS_Bot1",""
-"34223","AT 2019akq","04:26:49.330","+29:57:06.30","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS19cdi","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","18.8","orange-ATLAS","2019-02-03 07:22:04","ATLAS_Bot1",""
+"34223","SN 2019akq","04:26:49.330","+29:57:06.30","SN Ia","0.017459","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS19cdi","ATLAS1 - ACAM1, Gaia - Gaia-photometric","Other - Other","1","1","","18.8","orange-ATLAS","2019-02-03 07:22:04","ATLAS_Bot1",""
 "34224","AT 2019akr","16:22:44.220","+23:57:12.82","","","","","GaiaAlerts","","GaiaAlerts","Gaia19ajv","Gaia - Gaia-photometric","","1","1","","18.78","G-Gaia","2019-02-01 15:10:04","Gaia_Bot1",""
 "34225","AT 2019aks","02:35:40.420","-13:21:11.20","","","","","GaiaAlerts","","GaiaAlerts","Gaia19ajz","Gaia - Gaia-photometric","","1","1","","17.76","G-Gaia","2019-02-01 06:37:26","Gaia_Bot1",""
 "34226","AT 2019akt","18:05:46.340","+31:40:17.58","","","","","GaiaAlerts","","GaiaAlerts","Gaia19aka","Gaia - Gaia-photometric","","1","1","","14.89","G-Gaia","2019-02-01 04:29:16","Gaia_Bot1",""
@@ -718,3 +718,4 @@
 "34615","AT 2019azp","18:15:30.350","-20:48:40.86","","","","","GaiaAlerts","","GaiaAlerts","Gaia19aqc","Gaia - Gaia-photometric","","1","1","","17.45","G-Gaia","2019-02-16 21:25:55","Gaia_Bot1",""
 "34616","AT 2019azq","15:16:39.558","-07:23:33.06","","","","","ATLAS","","ATLAS","ATLAS19dkk","ATLAS1 - ACAM1","","1","1","","18.216","orange-ATLAS","2019-02-22 13:26:24","ATLAS_Bot1",""
 "34617","AT 2019azr","16:15:44.848","+01:22:30.52","","","","","ATLAS","","ATLAS","ATLAS19dkl","ATLAS1 - ACAM1","","1","1","","18.62","orange-ATLAS","2019-02-22 14:08:09","ATLAS_Bot1",""
+"34618","AT 2019azs","04:57:04.587","+25:41:54.34","","","","","ATLAS","","ATLAS","ATLAS19dko","ATLAS1 - ACAM1","","1","1","","18.941","orange-ATLAS","2019-02-23 07:20:38","ATLAS_Bot1",""
