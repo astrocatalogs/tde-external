@@ -164,7 +164,7 @@
 "22904","SN 2017hnq","00:21:15.065","-00:56:39.67","SN Ia-91T-like","0.108","","","ATLAS","ePESSTO","ATLAS","ATLAS17mnc","ATLAS1 - ACAM1","ESO-NTT - EFOSC2-NTT","1","1","","18.96","orange-ATLAS","2017-10-11 09:47:31","ATLAS_Bot1",""
 "22905","AT 2017hnr","04:35:16.153","+10:02:22.96","","","","","Pan-STARRS1","","Pan-STARRS1","PS17etz","PS1 - GPC1","","1","1","","19.71","w-PS1","2017-10-19 14:15:21","PS1_Bot1",""
 "22906","AT 2017hns","10:36:14.199","-08:20:26.89","","","","","ATLAS","","ATLAS","ATLAS17mnm","ATLAS1 - ACAM1","","1","1","","18.027","orange-ATLAS","2017-10-18 14:38:24","ATLAS_Bot1",""
-"22907","AT 2017hnt","19:05:49.093","+49:17:50.77","CV","","","","ATLAS","Padova-Asiago","ATLAS","ATLAS17mei","ATLAS1 - ACAM1","Ekar - AFOSC","1","1","","17.394","orange-ATLAS","2017-10-12 06:36:00","ATLAS_Bot1",""
+"22907","AT 2017hnt","19:05:49.093","+49:17:50.77","CV","","","","ATLAS, GaiaAlerts","Padova-Asiago","ATLAS; GaiaAlerts","ATLAS17mei","ATLAS1 - ACAM1, Gaia - Gaia-photometric","Ekar - AFOSC","1","1","","17.394","orange-ATLAS","2017-10-12 06:36:00","ATLAS_Bot1",""
 "22908","AT 2017hnu","01:07:11.070","-41:54:58.83","","","","","ATLAS","","ATLAS","ATLAS17mnv","ATLAS1 - ACAM1","","1","1","","18.137","cyan-ATLAS","2017-09-21 11:49:55","ATLAS_Bot1",""
 "22909","SN 2017hnv","23:03:21.231","+25:40:37.46","SN Ic","0.03","","","ATLAS, Pan-STARRS1","Padova-Asiago","ATLAS; Pan-STARRS1","ATLAS17mnu","ATLAS1 - ACAM1, PS1 - GPC1","Ekar - AFOSC","1","1","","17.716","orange-ATLAS","2017-10-19 08:38:24","ATLAS_Bot1",""
 "22910","AT 2017hnw","06:03:57.763","-01:02:54.09","","","","","ATLAS","","ATLAS","ATLAS17mns","ATLAS1 - ACAM1","","1","1","","18.677","orange-ATLAS","2017-10-22 12:25:55","ATLAS_Bot1",""
