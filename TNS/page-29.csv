@@ -50,7 +50,7 @@
 "32721","AT 2018ksx","10:43:32.893","+01:01:08.74","","","","","ZTF","","ZTF","ZTF18acxcokz","P48 - ZTF-Cam","","1","1","","19.19","r-ZTF","2018-12-20 10:39:25","ZTF_AMPEL_MSIP",""
 "32722","AT 2018ksy","13:51:51.533","+21:22:11.50","","","","","ZTF","","ZTF","ZTF18ablqhbt","P48 - ZTF-Cam","","1","1","","18.89","r-ZTF","2018-12-20 12:56:50","ZTF_AMPEL_MSIP",""
 "32723","AT 2018ksz","10:51:51.030","+21:37:26.51","","","","","ZTF","","ZTF","ZTF18acvhwpt","P48 - ZTF-Cam","","1","1","","19.7","r-ZTF","2018-12-20 13:04:29","ZTF_AMPEL_MSIP",""
-"32724","AT 2018kta","12:51:37.141","+12:34:24.11","","","","","ZTF, ATLAS","","ATLAS; ZTF","ZTF18acvwdkk","P48 - ZTF-Cam, ATLAS1 - ACAM1","","1","1","","19.24","r-ZTF","2018-12-22 11:35:34","ZTF_AMPEL_MSIP",""
+"32724","SN 2018kta","12:51:37.141","+12:34:24.11","SN II","0.023","","","ZTF, ATLAS","ZTF","ATLAS; ZTF","ZTF18acvwdkk","P48 - ZTF-Cam, ATLAS1 - ACAM1","P200 - DBSP","1","1","","19.24","r-ZTF","2018-12-22 11:35:34","ZTF_AMPEL_MSIP",""
 "32725","AT 2018ktb","12:53:46.977","+03:26:29.62","","","","","ZTF","","ZTF","ZTF18acvwekz","P48 - ZTF-Cam","","1","1","","19.13","r-ZTF","2018-12-19 12:29:12","ZTF_AMPEL_MSIP",""
 "32726","SN 2018ktc","10:51:46.106","-06:53:09.00","SN Ia","0.07","","","ZTF, ATLAS","ZTF","ATLAS; ZTF","ZTF18acyawjf","P48 - ZTF-Cam, ATLAS1 - ACAM1","APO-3.5m - DIS","1","1","","19.56","r-ZTF","2018-12-20 10:57:50","ZTF_AMPEL_MSIP",""
 "32727","AT 2018ktd","11:47:14.328","-03:41:29.83","","","","","ZTF, ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts; ZTF","ZTF18aczumpe","P48 - ZTF-Cam, ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","18.89","r-ZTF","2018-12-22 11:30:59","ZTF_AMPEL_MSIP",""
