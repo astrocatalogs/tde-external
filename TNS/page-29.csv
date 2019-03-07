@@ -342,7 +342,7 @@
 "33017","AT 2018leg","00:14:09.379","+70:45:38.74","","","","","ASAS-SN, ZTF","","ASAS-SN; ZTF","ASASSN-18ack","ASASSN-4 - Leavitt, P48 - ZTF-Cam","","1","1","","16.2","g-Sloan","2018-12-31 04:04:48","Stanek",""
 "33018","AT 2018leh","04:05:03.288","+25:15:42.84","","","UGC 2949","0.024","SNHunt, ZTF, ATLAS","","ATLAS; CRTS; SNHunt; ZTF","","Other - Other, P48 - ZTF-Cam, ATLAS1 - ACAM1","","1","1","","19","V-crts-CRTS","2018-12-31 02:44:56","Drake",""
 "33019","SN 2018lei","02:33:34.402","-39:02:45.24","SN Ic","0.006","NGC 0986","0.006585","ASAS-SN","SCAT","ASAS-SN","ASASSN-18acl","ASASSN-5 - Payne-Gaposchkin, ASASSN-2 - Cassius","UH88 - SNIFS","1","1","","16.8","g-Sloan","2018-12-31 03:36:00","Stanek",""
-"33020","AT 2018lej","07:47:14.788","+19:01:34.07","","","","","ATLAS","","ATLAS","ATLAS18bcir","ATLAS1 - ACAM1","","1","1","","18.459","orange-ATLAS","2018-12-31 11:35:31","ATLAS_Bot1",""
+"33020","AT 2018lej","07:47:14.788","+19:01:34.07","","","","","ATLAS, ZTF","","ATLAS; ZTF","ATLAS18bcir","ATLAS1 - ACAM1, P48 - ZTF-Cam","","1","1","","18.459","orange-ATLAS","2018-12-31 11:35:31","ATLAS_Bot1",""
 "33021","SN 2019A","11:39:08.738","-21:32:30.80","SN Ia","0.072","2MASX J11390794-2132244","0.072293","ASAS-SN, ATLAS","ePESSTO","ASAS-SN; ATLAS","ASASSN-19aa","ASASSN-5 - Payne-Gaposchkin, ATLAS1 - ACAM1","ESO-NTT - EFOSC2-NTT","1","1","","17.7","g-Sloan","2019-01-01 00:14:24","Stanek",""
 "33022","AT 2018lek","00:10:56.333","-18:34:25.20","","","","","ZTF","","ZTF","ZTF18adbmksl","P48 - ZTF-Cam","","1","1","","16.89","r-ZTF","2018-12-30 03:38:05","ZTF_AMPEL_MSIP",""
 "33023","AT 2018lel","03:51:16.724","+22:26:54.43","","","","","ZTF","","ZTF","ZTF18adbmrvx","P48 - ZTF-Cam","","1","1","","19.34","r-ZTF","2018-12-30 04:46:43","ZTF_AMPEL_MSIP",""
