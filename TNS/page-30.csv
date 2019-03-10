@@ -936,7 +936,7 @@
 "34614","AT 2019azo","04:42:31.664","-09:09:16.46","","","","","ATLAS, ZTF","","ATLAS; ZTF","ATLAS19dkc","ATLAS1 - ACAM1, P48 - ZTF-Cam","","1","1","","18.081","orange-ATLAS","2019-02-22 07:19:12","ATLAS_Bot1",""
 "34615","AT 2019azp","18:15:30.350","-20:48:40.86","","","","","GaiaAlerts","","GaiaAlerts","Gaia19aqc","Gaia - Gaia-photometric","","1","1","","17.45","G-Gaia","2019-02-16 21:25:55","Gaia_Bot1",""
 "34616","SN 2019azq","15:16:39.558","-07:23:33.06","SN Ic-BL","0.034","","","ATLAS","Padova-Asiago","ATLAS","ATLAS19dkk","ATLAS1 - ACAM1","Ekar - AFOSC","1","1","","18.216","orange-ATLAS","2019-02-22 13:26:24","ATLAS_Bot1",""
-"34617","AT 2019azr","16:15:44.848","+01:22:30.52","","","","","ATLAS, ZTF","","ATLAS; ZTF","ATLAS19dkl","ATLAS1 - ACAM1, P48 - ZTF-Cam","","1","1","","18.62","orange-ATLAS","2019-02-22 14:08:09","ATLAS_Bot1",""
+"34617","SN 2019azr","16:15:44.848","+01:22:30.52","SN Ia","0.046","","","ATLAS, ZTF","ePESSTO","ATLAS; ZTF","ATLAS19dkl","ATLAS1 - ACAM1, P48 - ZTF-Cam","ESO-NTT - EFOSC2-NTT","1","1","","18.62","orange-ATLAS","2019-02-22 14:08:09","ATLAS_Bot1",""
 "34618","SN 2019azs","04:57:04.587","+25:41:54.34","SN Ia","0.026","","","ATLAS","","ATLAS","ATLAS19dko","ATLAS1 - ACAM1","LT - SPRAT","1","1","","18.941","orange-ATLAS","2019-02-23 07:20:38","ATLAS_Bot1",""
 "34619","AT 2019azt","23:55:39.560","+62:18:39.85","","","","","GaiaAlerts","","GaiaAlerts","Gaia19aqd","Gaia - Gaia-photometric","","1","1","","16.11","G-Gaia","2019-02-17 01:42:14","Gaia_Bot1",""
 "34620","AT 2019azu","13:48:12.780","-63:16:28.49","","","","","GaiaAlerts","","GaiaAlerts","Gaia19aqe","Gaia - Gaia-photometric","","1","1","","15.56","G-Gaia","2019-02-17 04:32:09","Gaia_Bot1",""
