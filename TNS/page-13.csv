@@ -820,7 +820,7 @@
 "17277","AT 2017iq","17:26:10.040","+26:05:19.64","","","","","GaiaAlerts","","GaiaAlerts","Gaia17acf","Gaia - Gaia-photometric","","1","1","","18.04","G-Gaia","2017-01-09 18:56:09","Gaia_Bot1",""
 "17278","AT 2017ir","04:44:46.540","-29:28:31.15","","","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia17acg","Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","18.96","G-Gaia","2017-01-08 10:13:26","Gaia_Bot1",""
 "17279","AT 2017is","02:24:27.360","-16:09:16.02","","","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia17ach","Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","18.98","G-Gaia","2017-01-10 03:00:00","Gaia_Bot1",""
-"17280","AT 2017it","06:10:37.140","-34:08:27.74","","","","","GaiaAlerts","","GaiaAlerts","Gaia17aci","Gaia - Gaia-photometric","","1","1","","18.97","G-Gaia","2017-01-05 20:06:43","Gaia_Bot1",""
+"17280","SN 2017it","06:10:37.140","-34:08:27.74","SN II","0.043","","","GaiaAlerts","","GaiaAlerts","Gaia17aci","Gaia - Gaia-photometric, Other - Other","Other - Other","1","1","","18.97","G-Gaia","2017-01-05 20:06:43","Gaia_Bot1",""
 "17281","AT 2016jgx","23:57:25.812","+20:57:28.58","","","","","ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts","ATLAS17ahc","ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","19.15","cyan-ATLAS","2016-12-23 06:15:50","ATLAS_Bot1",""
 "17282","AT 2017iu","23:41:23.538","-09:53:56.97","","","","","Pan-STARRS1","","Pan-STARRS1","PS17hk","PS1 - GPC1","","1","1","","19.57","z-Sloan","2017-01-08 05:05:16","PS1_Bot1",""
 "17283","AT 2017iv","23:02:18.754","-05:07:36.44","","","","","Pan-STARRS1","","Pan-STARRS1","PS17hb","PS1 - GPC1","","1","1","","19.39","z-Sloan","2017-01-11 04:59:31","PS1_Bot1",""
