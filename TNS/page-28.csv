@@ -945,7 +945,7 @@
 "32614","AT 2018kou","11:25:51.685","+08:31:44.75","","","","","Pan-STARRS1","","Pan-STARRS1","PS18cgn","PS1 - GPC1","","1","1","","21.52","w-PS1","2018-12-18 14:13:55","PS1_Bot1",""
 "32615","AT 2018kov","05:47:25.823","+58:46:14.80","","","","","Pan-STARRS1","","Pan-STARRS1","PS18cgm","PS1 - GPC1","","1","1","","19.34","i-Sloan","2018-12-18 10:12:00","PS1_Bot1",""
 "32616","AT 2018kow","05:47:09.968","-11:17:55.50","","","","","ZTF","","ZTF","ZTF18acuwury","P48 - ZTF-Cam","","1","1","","16.06","r-ZTF","2018-12-10 07:33:04","ZTF_AMPEL_NEW",""
-"32617","AT 2018kox","04:43:10.407","-04:18:11.22","","","","","ZTF, ATLAS","","ATLAS; ZTF","ZTF18acxhvzb","P48 - ZTF-Cam, ATLAS1 - ACAM1","","1","1","","20.02","g-ZTF","2018-12-17 04:09:40","ZTF_AMPEL_NEW",""
+"32617","AT 2018kox","04:43:10.407","-04:18:11.22","","","","","ZTF, ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts; ZTF","ZTF18acxhvzb","P48 - ZTF-Cam, ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","20.02","g-ZTF","2018-12-17 04:09:40","ZTF_AMPEL_NEW",""
 "32618","SN 2018koy","05:41:13.800","-13:13:27.34","SN Ia","0.031","","","ZTF, ATLAS, GaiaAlerts","ePESSTO, ZTF","ATLAS; GaiaAlerts; ZTF","ZTF18adaifep","P48 - ZTF-Cam, ATLAS1 - ACAM1, Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT, P60 - SEDM","1","1","","19.46","r-ZTF","2018-12-20 06:32:11","ZTF_AMPEL_NEW",""
 "32619","AT 2018koz","04:23:39.578","-24:06:31.21","","","","","ZTF","","ZTF","ZTF18adaikfe","P48 - ZTF-Cam","","1","1","","19.25","r-ZTF","2018-12-20 06:30:49","ZTF_AMPEL_NEW",""
 "32620","AT 2018kpa","14:07:07.590","-23:48:55.94","","","","","GaiaAlerts","","GaiaAlerts","Gaia18dyj","Gaia - Gaia-photometric","","1","1","","19.46","G-Gaia","2018-12-21 16:29:16","Gaia_Bot1",""
