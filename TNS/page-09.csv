@@ -811,7 +811,7 @@
 "13250","AT 2016dtl","05:25:21.900","-10:50:15.30","","","","","GaiaAlerts","","GaiaAlerts","Gaia16ags","Gaia - Gaia-photometric","","1","1","","17.16","G-Gaia","2016-02-28 07:00:28","Gaia_Bot1",""
 "13251","AT 2016dtm","17:39:11.400","+07:26:11.30","","","","","GaiaAlerts","","GaiaAlerts","Gaia16agt","Gaia - Gaia-photometric","","1","1","","18.99","G-Gaia","2016-02-29 09:57:36","Gaia_Bot1",""
 "13252","AT 2016dtn","13:15:33.800","-31:01:39.90","","","","","GaiaAlerts","","GaiaAlerts","Gaia16agq","Gaia - Gaia-photometric","","1","1","","18.79","G-Gaia","2016-02-28 23:16:48","Gaia_Bot1",""
-"13253","AT 2016dto","17:26:20.100","+06:16:18.90","Varstar","0","","","GaiaAlerts","PESSTO","GaiaAlerts","Gaia16agr","Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","18.73","G-Gaia","2016-02-29 04:00:28","Gaia_Bot1",""
+"13253","AT 2016dto","17:26:20.100","+06:16:18.90","Varstar","0","","","GaiaAlerts, ZTF","PESSTO","GaiaAlerts; ZTF","Gaia16agr","Gaia - Gaia-photometric, P48 - ZTF-Cam","ESO-NTT - EFOSC2-NTT","1","1","","18.73","G-Gaia","2016-02-29 04:00:28","Gaia_Bot1",""
 "13254","AT 2016dtp","12:38:55.500","-31:43:27.80","","","","","GaiaAlerts","","GaiaAlerts","Gaia16ago","Gaia - Gaia-photometric","","1","1","","18.89","G-Gaia","2016-02-28 01:10:33","Gaia_Bot1",""
 "13255","AT 2016dtq","17:49:16.900","+17:04:30.80","","","","","GaiaAlerts","","GaiaAlerts","Gaia16agm","Gaia - Gaia-photometric","","1","1","","18.35","G-Gaia","2016-02-27 17:34:04","Gaia_Bot1",""
 "13256","AT 2016dtr","09:04:07.500","-35:14:28.00","","","","","GaiaAlerts","","GaiaAlerts","Gaia16agn","Gaia - Gaia-photometric","","1","1","","16.89","G-Gaia","2016-02-28 00:08:38","Gaia_Bot1",""
