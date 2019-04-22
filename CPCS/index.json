@@ -293,7 +293,7 @@
  {"id":27157,"ivorn":"ivo://Gaia18cog","published":"2018-09-22T05:12:09","ra":93.3327916667,"dec":1.22280555556,"nfollowup":6}, 
  {"id":27156,"ivorn":"ivo://AT2018gep","published":"2018-09-21T09:53:20","ra":250.95093,"dec":41.04538,"nfollowup":55}, 
  {"id":27155,"ivorn":"ivo://Gaia18cou","published":"2018-09-21T05:59:30","ra":78.7934166667,"dec":2.43563888889,"nfollowup":6}, 
- {"id":27154,"ivorn":"ivo://Gaia18cmy","published":"2018-09-21T05:39:35","ra":87.4785833333,"dec":20.2943888889,"nfollowup":665}, 
+ {"id":27154,"ivorn":"ivo://Gaia18cmy","published":"2018-09-21T05:39:35","ra":87.4785833333,"dec":20.2943888889,"nfollowup":669}, 
  {"id":27153,"ivorn":"ivo://Gaia18cnh","published":"2018-09-21T01:27:29","ra":2.360625,"dec":47.3541111111,"nfollowup":6}, 
  {"id":27152,"ivorn":"ivo://Gaia18cmh","published":"2018-09-21T01:07:33","ra":339.08,"dec":51.2051111111,"nfollowup":6}, 
  {"id":27151,"ivorn":"ivo://Gaia18coy","published":"2018-09-20T04:08:01","ra":33.5997916667,"dec":30.8118888889,"nfollowup":6}, 
