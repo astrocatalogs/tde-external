@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Remarks","Ext. catalog/s"
+"22522","AT 2017gyy","12:40:14.840","+46:51:05.87","","","","","GaiaAlerts","","GaiaAlerts","Gaia17ckh","Gaia - Gaia-photometric","","1","1","","15.49","G-Gaia","2017-09-23 09:05:45","Gaia_Bot1","",""
 "22523","AT 2017gyz","00:05:41.710","-49:47:58.67","","","","","GaiaAlerts","","GaiaAlerts","Gaia17cki","Gaia - Gaia-photometric","","1","1","","17.6","G-Gaia","2017-09-23 12:24:28","Gaia_Bot1","",""
 "22524","AT 2017gza","00:00:04.810","-49:16:54.01","","","","","GaiaAlerts","","GaiaAlerts","Gaia17ckj","Gaia - Gaia-photometric","","1","1","","18.34","G-Gaia","2017-09-24 00:24:28","Gaia_Bot1","",""
 "22525","AT 2017gzb","21:17:49.280","-53:30:52.92","","","","","GaiaAlerts","","GaiaAlerts","Gaia17ckk","Gaia - Gaia-photometric","","1","1","","18.44","G-Gaia","2017-09-23 12:47:31","Gaia_Bot1","",""
@@ -998,4 +999,3 @@
 "23522","AT 2017ild","06:32:25.190","+43:15:01.32","","","","","PTSS","","PTSS","PTSS-17baca","CNEOST - STA1600","","1","1","","19.1","r-Sloan","2017-11-20 18:41:46","Li","",""
 "23523","SN 2017ile","05:34:07.058","-29:36:35.50","SN Ia","0.036","2MASX J05340703-2936335","0.036312","ASAS-SN","ePESSTO","ASAS-SN","ASASSN-17po","ASASSN-3 - Paczynski","ESO-NTT - EFOSC2-NTT","1","1","","17.4","g-Sloan","2017-11-22 07:55:12","Stanek","",""
 "23524","SN 2017ilf","09:16:44.880","+18:57:16.09","SN Ia","0.03","NGC 2803","0.029704","ASAS-SN, Pan-STARRS1","","ASAS-SN; Pan-STARRS1","ASASSN-17pp","ASASSN-4 - Leavitt, PS1 - GPC1, CTIO-4m - DECAM","SOAR - Goodman","1","1","","18","g-Sloan","2017-11-22 10:48:00","Stanek","",""
-"23525","AT 2017ilg","22:35:25.089","-06:42:32.93","","","","","ATLAS","","ATLAS","ATLAS17niw","ATLAS1 - ACAM1","","1","1","","19.346","orange-ATLAS","2017-11-13 07:19:12","ATLAS_Bot1","",""
