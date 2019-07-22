@@ -1,0 +1,2706 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="/ps1threepi/site_media/css/main.css" type="text/css"/>
+
+<!-- include Aladin Lite CSS file in the head section of your page -->
+<!-- <link rel="stylesheet" href="http://aladin.u-strasbg.fr/AladinLite/api/v2/latest/aladin.min.css" /> -->
+<link rel="stylesheet" href="/ps1threepi/site_media/css/aladin.css" />
+
+<title>Followup List</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body>
+
+<div id="quickfollowup">
+<nav id="navigation">
+<ul>
+
+<li><a HREF="../">home</a></li>
+<li><a HREF="../public_quickview/">object quickview list</a></li>
+
+
+<li>
+
+
+<form id="search_form" action="/ps1threepi/searchresults/" method="post"><input type='hidden' name='csrfmiddlewaretoken' value='TL5oTd5L1Sv9MrPP87C2taVf8mUkZXUD' />
+    
+    <div class="fieldWrapper">
+    <p>
+        
+        <input id="id_searchText" name="searchText" size="20" type="text" />
+    <input type="submit" value="Find Object" name="find_object" /></p>
+    </div>
+</form>
+</li>
+
+</ul>
+</nav>
+
+<section id="table_layout">
+<article id="followup_table">
+<header id="followup_list">
+<hgroup>
+
+   <h1>Object List</h1>
+
+
+<h2>(18383)</h2>
+</hgroup>
+</header>
+
+<table class="followuplists_standardview">
+
+<tr>
+  
+  <th>
+    
+      <a href="?sort=ps1_designation">
+        Ps1 designation
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=RA">
+        RA
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=DEC">
+        DEC
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=object_classification">
+        Machine Classification
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=sherlockClassification">
+        Context Classification
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=-followup_flag_date">
+        Flag Date
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=observation_status">
+        Spectral Type
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=earliest_mjd">
+        Earliest mjd
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=earliest_mag">
+        Earliest mag
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=earliest_filter">
+        Earliest filter
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=latest_mjd">
+        Latest mjd
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=latest_mag">
+        Latest mag
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=latest_filter">
+        Latest filter
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=catalogue">
+        Catalogue
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=catalogue_object_id">
+        Nearest Object
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=separation">
+        Separation (arcsec)
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      <a href="?sort=confidence_factor">
+        RB Factor
+      </a>
+      
+         <!-- <img src="/ps1threepi/site_media/images/down.jpg" /> -->
+      
+    
+  </th>
+  
+  <th>
+    
+      External Crossmatches
+    
+  </th>
+  
+</tr>
+
+
+  
+  <tr>
+  <td><a href="../candidate/1164818141284122200/">PS19dap</a></td>
+  <td>16:48:18.14</td>
+  <td>+28:41:22.2</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58642.46965</td>
+  <td>19.87</td>
+  <td>w</td>
+  <td>58671.39855</td>
+  <td>20.62</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>SDSS J164817.99+284126.1</td>
+  <td>4.38</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019gas">AT2019gas</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1164843191254057100/">PS19cdq</a></td>
+  <td>16:48:43.19</td>
+  <td>+25:40:57.1</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58642.48172</td>
+  <td>21.56</td>
+  <td>w</td>
+  <td>58671.39929</td>
+  <td>22.09</td>
+  <td>w</td>
+  <td>SDSS Spectroscopic Galaxies &amp; QSOs DR9</td>
+  <td>1237662474772217998</td>
+  <td>6.65</td>
+  <td>0.99</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jdj">AT2019jdj</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1165039750040741100/">PS19coj</a></td>
+  <td>16:50:39.75</td>
+  <td>-04:07:41.1</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58641.42634</td>
+  <td>21.36</td>
+  <td>w</td>
+  <td>58662.38943</td>
+  <td>22.19</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J16503987-0407375</td>
+  <td>3.99</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jnn">AT2019jnn</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1165241531112253000/">PS19bgy</a></td>
+  <td>16:52:41.53</td>
+  <td>+11:22:53.0</td>
+  <td>sn</td>
+  <td>NT</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58641.47911</td>
+  <td>18.81</td>
+  <td>w</td>
+  <td>58641.51485</td>
+  <td>18.77</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.74</td>
+  <td>0.52</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019gbq">AT2019gbq</a> <a href="http://wis-tns.weizmann.ac.il/object/2019gbq">SN2019gbq</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1170016741285723400/">PS19bjc</a></td>
+  <td>17:00:16.74</td>
+  <td>+28:57:23.4</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58642.46891</td>
+  <td>21.89</td>
+  <td>w</td>
+  <td>58669.45459</td>
+  <td>22.43</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 20.28</td>
+  <td>1.46</td>
+  <td>0.84</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019ikm">AT2019ikm</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1170322521280240300/">PS19dao</a></td>
+  <td>17:03:22.52</td>
+  <td>+28:02:40.3</td>
+  <td>orphan</td>
+  <td>ORPHAN</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58642.51018</td>
+  <td>19.23</td>
+  <td>w</td>
+  <td>58669.45459</td>
+  <td>20.45</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jvu">AT2019jvu</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1170853481283936400/">PS19dat</a></td>
+  <td>17:08:53.48</td>
+  <td>+28:39:36.4</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58642.51018</td>
+  <td>20.91</td>
+  <td>w</td>
+  <td>58642.54511</td>
+  <td>20.95</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>Faint src (galaxy), r = 22.68</td>
+  <td>0.73</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jwb">AT2019jwb</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1170906851265120400/">PS19dar</a></td>
+  <td>17:09:06.85</td>
+  <td>+26:51:20.4</td>
+  <td>nt</td>
+  <td>NT</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58642.51018</td>
+  <td>18.44</td>
+  <td>w</td>
+  <td>58669.45534</td>
+  <td>18.21</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.17</td>
+  <td>0.13</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019fdr">AT2019fdr</a> <a href="http://wis-tns.weizmann.ac.il/object/2019fdr">SN2019fdr</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1173349051320431600/">PS19cdp</a></td>
+  <td>17:33:49.05</td>
+  <td>+32:04:31.6</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58642.51341</td>
+  <td>21.08</td>
+  <td>w</td>
+  <td>58669.46088</td>
+  <td>22.25</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 18.31</td>
+  <td>8.63</td>
+  <td>0.99</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jdi">AT2019jdi</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1174310461314355900/">PS19dan</a></td>
+  <td>17:43:10.46</td>
+  <td>+31:43:55.9</td>
+  <td>orphan</td>
+  <td>SN</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58642.51405</td>
+  <td>21.24</td>
+  <td>w</td>
+  <td>58679.53117</td>
+  <td>21.25</td>
+  <td>z</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jvs">AT2019jvs</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1232329891061938400/">PS19dai</a></td>
+  <td>23:23:29.89</td>
+  <td>+06:19:38.4</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58641.57353</td>
+  <td>20.49</td>
+  <td>w</td>
+  <td>58644.59684</td>
+  <td>20.33</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 17.63</td>
+  <td>15.36</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jvq">AT2019jvq</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1232640551050621300/">PS19daj</a></td>
+  <td>23:26:40.55</td>
+  <td>+05:06:21.3</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58641.57353</td>
+  <td>20.49</td>
+  <td>w</td>
+  <td>58644.59684</td>
+  <td>19.92</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 18.38</td>
+  <td>2.14</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jvp">AT2019jvp</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1232642311042128100/">PS19bfv</a></td>
+  <td>23:26:42.31</td>
+  <td>+04:21:28.1</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58641.57353</td>
+  <td>21.03</td>
+  <td>w</td>
+  <td>58644.59684</td>
+  <td>20.85</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J23264249+0421267</td>
+  <td>3.18</td>
+  <td>0.71</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hos">AT2019hos</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1233320971044834800/">PS19cdn</a></td>
+  <td>23:33:20.97</td>
+  <td>+04:48:34.8</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58641.57417</td>
+  <td>20.85</td>
+  <td>w</td>
+  <td>58644.59748</td>
+  <td>20.86</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.21</td>
+  <td>4.98</td>
+  <td>1.00</td>
+  <td><a href="http://www.astronomerstelegram.org/?read=12216">ATel 12216</a> <a href="http://wis-tns.weizmann.ac.il/object/2018ilu">SN2018ilu</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1234010451034447000/">PS19bqh</a></td>
+  <td>23:40:10.45</td>
+  <td>+03:44:47.0</td>
+  <td>sn</td>
+  <td>NT</td>
+  <td>June 8, 2019</td>
+  <td></td>
+  <td>58641.57417</td>
+  <td>21.43</td>
+  <td>w</td>
+  <td>58644.59748</td>
+  <td>21.42</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.67</td>
+  <td>0.84</td>
+  <td>0.95</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019irv">AT2019irv</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1133354471523115800/">PS19bql</a></td>
+  <td>13:33:54.47</td>
+  <td>+52:31:15.8</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.28360</td>
+  <td>20.28</td>
+  <td>i</td>
+  <td>58667.25281</td>
+  <td>21.16</td>
+  <td>z</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>Faint src (galaxy), r = 21.53</td>
+  <td>1.69</td>
+  <td>0.98</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019irz">AT2019irz</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1134812301454426200/">PS19bfh</a></td>
+  <td>13:48:12.30</td>
+  <td>+45:44:26.2</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.27893</td>
+  <td>20.72</td>
+  <td>i</td>
+  <td>58649.37862</td>
+  <td>21.08</td>
+  <td>i</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 18.06</td>
+  <td>2.94</td>
+  <td>0.95</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hjf">AT2019hjf</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1142226211390835300/">PS19bfi</a></td>
+  <td>14:22:26.21</td>
+  <td>+39:08:35.3</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.36873</td>
+  <td>20.44</td>
+  <td>i</td>
+  <td>58669.30517</td>
+  <td>21.15</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>SDSS J142226.38+390834.0</td>
+  <td>2.35</td>
+  <td>0.71</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hjh">AT2019hjh</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1142445621392142800/">PS19bqk</a></td>
+  <td>14:24:45.62</td>
+  <td>+39:21:42.8</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.36873</td>
+  <td>20.97</td>
+  <td>i</td>
+  <td>58648.41872</td>
+  <td>20.93</td>
+  <td>i</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.49</td>
+  <td>1.70</td>
+  <td>0.91</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019iry">AT2019iry</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1142607121452301000/">PS19bfg</a></td>
+  <td>14:26:07.12</td>
+  <td>+45:23:01.0</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.31837</td>
+  <td>20.61</td>
+  <td>i</td>
+  <td>58672.29783</td>
+  <td>20.85</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>SDSS J142607.36+452305.8</td>
+  <td>5.34</td>
+  <td>0.96</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hjd">AT2019hjd</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1143708361543643700/">PS19bfy</a></td>
+  <td>14:37:08.36</td>
+  <td>+54:36:43.7</td>
+  <td>sn</td>
+  <td>NT</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.32297</td>
+  <td>20.63</td>
+  <td>i</td>
+  <td>58647.38993</td>
+  <td>20.08</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J14370841+5436426</td>
+  <td>0.64</td>
+  <td>0.76</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hot">AT2019hot</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1143745241524336300/">PS19bex</a></td>
+  <td>14:37:45.24</td>
+  <td>+52:43:36.3</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.32167</td>
+  <td>19.75</td>
+  <td>i</td>
+  <td>58645.36695</td>
+  <td>19.66</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>SBS 1436+529A</td>
+  <td>11.01</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019gsc">AT2019gsc</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1144132381400253300/">PS19dba</a></td>
+  <td>14:41:32.38</td>
+  <td>+40:02:53.3</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.36938</td>
+  <td>19.77</td>
+  <td>i</td>
+  <td>58677.36649</td>
+  <td>19.63</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>MAPS-NGP O_222_0358284</td>
+  <td>1.35</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jwi">AT2019jwi</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1144718371452719800/">PS19bfk</a></td>
+  <td>14:47:18.37</td>
+  <td>+45:27:19.8</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.31901</td>
+  <td>20.89</td>
+  <td>i</td>
+  <td>58645.36367</td>
+  <td>20.78</td>
+  <td>i</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 20.66</td>
+  <td>0.77</td>
+  <td>0.94</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hji">AT2019hji</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1145150371331119300/">PS19bff</a></td>
+  <td>14:51:50.37</td>
+  <td>+33:11:19.3</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.36477</td>
+  <td>20.45</td>
+  <td>i</td>
+  <td>58643.39239</td>
+  <td>20.39</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>MAPS-NGP O_273_0193368</td>
+  <td>2.17</td>
+  <td>0.96</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hje">AT2019hje</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1153340361345511500/">PS19cdt</a></td>
+  <td>15:33:40.36</td>
+  <td>+34:55:11.5</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.40329</td>
+  <td>20.86</td>
+  <td>i</td>
+  <td>58657.42452</td>
+  <td>21.33</td>
+  <td>i</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 18.11</td>
+  <td>2.31</td>
+  <td>0.99</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jdp">AT2019jdp</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1154412631410656400/">PS19bfj</a></td>
+  <td>15:44:12.63</td>
+  <td>+41:06:56.4</td>
+  <td>sn</td>
+  <td>NT</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.40920</td>
+  <td>19.93</td>
+  <td>i</td>
+  <td>58684.39900</td>
+  <td>19.71</td>
+  <td>i</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>Faint src (galaxy), r = 22.43</td>
+  <td>9.29</td>
+  <td>0.98</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hjg">AT2019hjg</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1162722261040907100/">PS19bqo</a></td>
+  <td>16:27:22.26</td>
+  <td>+04:09:07.1</td>
+  <td>orphan</td>
+  <td>ORPHAN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.44535</td>
+  <td>22.00</td>
+  <td>w</td>
+  <td>58663.45135</td>
+  <td>21.26</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>0.95</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019itl">AT2019itl</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1164641711021249800/">PS19cdr</a></td>
+  <td>16:46:41.71</td>
+  <td>+02:12:49.8</td>
+  <td>orphan</td>
+  <td>ORPHAN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.45149</td>
+  <td>21.76</td>
+  <td>w</td>
+  <td>58643.48950</td>
+  <td>21.65</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>0.99</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jdk">AT2019jdk</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1165903811003656200/">PS19bjd</a></td>
+  <td>16:59:03.81</td>
+  <td>+00:36:56.2</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.45214</td>
+  <td>22.05</td>
+  <td>w</td>
+  <td>58662.39008</td>
+  <td>21.90</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 20.55</td>
+  <td>0.96</td>
+  <td>0.88</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019ikl">AT2019ikl</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1170049481035617000/">PS19dbc</a></td>
+  <td>17:00:49.48</td>
+  <td>+03:56:17.0</td>
+  <td>orphan</td>
+  <td>ORPHAN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.45085</td>
+  <td>19.73</td>
+  <td>w</td>
+  <td>58670.40770</td>
+  <td>19.97</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hgr">AT2019hgr</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1170507421214241800/">PS19bqm</a></td>
+  <td>17:05:07.42</td>
+  <td>+21:42:41.8</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.49288</td>
+  <td>21.42</td>
+  <td>w</td>
+  <td>58643.53161</td>
+  <td>21.43</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J17050791+2142440</td>
+  <td>6.85</td>
+  <td>0.96</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019isa">AT2019isa</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1172621131193714100/">PS19biq</a></td>
+  <td>17:26:21.13</td>
+  <td>+19:37:14.1</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.49624</td>
+  <td>20.61</td>
+  <td>w</td>
+  <td>58643.53426</td>
+  <td>20.52</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J17262142+1937061</td>
+  <td>9.39</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hko">AT2019hko</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1172821181234439300/">PS19dbd</a></td>
+  <td>17:28:21.18</td>
+  <td>+23:44:39.3</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.49553</td>
+  <td>18.50</td>
+  <td>w</td>
+  <td>58671.30978</td>
+  <td>18.67</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J17282102+2344416</td>
+  <td>3.26</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019gwg">AT2019gwg</a> <a href="http://www.astronomerstelegram.org/?read=12857">ATel 12857</a> <a href="http://wis-tns.weizmann.ac.il/object/2019gwg">SN2019gwg</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1173029461181943500/">PS19bfe</a></td>
+  <td>17:30:29.46</td>
+  <td>+18:19:43.5</td>
+  <td>orphan</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.49891</td>
+  <td>19.48</td>
+  <td>w</td>
+  <td>58643.53694</td>
+  <td>19.47</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019gmf">AT2019gmf</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1173153441175317300/">PS19dbf</a></td>
+  <td>17:31:53.44</td>
+  <td>+17:53:17.3</td>
+  <td>orphan</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.49891</td>
+  <td>19.38</td>
+  <td>w</td>
+  <td>58671.31495</td>
+  <td>20.88</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019gbi">AT2019gbi</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1174017621174139100/">PS19bfb</a></td>
+  <td>17:40:17.62</td>
+  <td>+17:41:39.1</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.50366</td>
+  <td>18.91</td>
+  <td>w</td>
+  <td>58671.31495</td>
+  <td>20.14</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J17401722+1741359</td>
+  <td>6.85</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019fcf">AT2019fcf</a> <a href="http://www.astronomerstelegram.org/?read=12757">ATel 12757</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1175753081210050200/">PS19daw</a></td>
+  <td>17:57:53.08</td>
+  <td>+21:00:50.2</td>
+  <td>orphan</td>
+  <td>ORPHAN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.50232</td>
+  <td>20.20</td>
+  <td>w</td>
+  <td>58643.54028</td>
+  <td>20.04</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jwf">AT2019jwf</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1175847751211606000/">PS19cgk</a></td>
+  <td>17:58:47.75</td>
+  <td>+21:16:06.0</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.50232</td>
+  <td>21.50</td>
+  <td>w</td>
+  <td>58643.54028</td>
+  <td>21.40</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J17584743+2116233</td>
+  <td>17.67</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jfx">AT2019jfx</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1210727511052429300/">PS19bxj</a></td>
+  <td>21:07:27.51</td>
+  <td>+05:24:29.3</td>
+  <td>sn</td>
+  <td>ORPHAN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.54448</td>
+  <td>22.22</td>
+  <td>w</td>
+  <td>58670.54332</td>
+  <td>22.36</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>Faint src (galaxy), r = 22.29</td>
+  <td>7.64</td>
+  <td>0.99</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019ixl">AT2019ixl</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1211048671042043900/">PS19dax</a></td>
+  <td>21:10:48.67</td>
+  <td>+04:20:43.9</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.54448</td>
+  <td>19.76</td>
+  <td>w</td>
+  <td>58670.54590</td>
+  <td>20.43</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MFGC 16044</td>
+  <td>2.10</td>
+  <td>1.00</td>
+  <td>ATLAS19kbb </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1211608571045501500/">PS19bfz</a></td>
+  <td>21:16:08.57</td>
+  <td>+04:55:01.5</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.54641</td>
+  <td>22.15</td>
+  <td>w</td>
+  <td>58643.58149</td>
+  <td>22.09</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J21160808+0454580</td>
+  <td>8.17</td>
+  <td>0.69</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019how">AT2019how</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1212214241054718600/">PS19bfd</a></td>
+  <td>21:22:14.24</td>
+  <td>+05:47:18.6</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.54641</td>
+  <td>19.32</td>
+  <td>w</td>
+  <td>58670.52337</td>
+  <td>20.66</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 17.98</td>
+  <td>6.30</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019enp">AT2019enp</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1212402221045042600/">PS19bqj</a></td>
+  <td>21:24:02.22</td>
+  <td>+04:50:42.6</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.54899</td>
+  <td>22.24</td>
+  <td>w</td>
+  <td>58670.54784</td>
+  <td>21.68</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 20.25</td>
+  <td>1.23</td>
+  <td>0.92</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019irx">AT2019irx</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1212501621051014500/">PS19bqn</a></td>
+  <td>21:25:01.62</td>
+  <td>+05:10:14.5</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.54899</td>
+  <td>22.04</td>
+  <td>w</td>
+  <td>58670.52402</td>
+  <td>22.97</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 20.57</td>
+  <td>2.59</td>
+  <td>0.96</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019itm">AT2019itm</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1212553331002452700/">PS19day</a></td>
+  <td>21:25:53.33</td>
+  <td>+00:24:52.7</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.54964</td>
+  <td>19.25</td>
+  <td>w</td>
+  <td>58664.54864</td>
+  <td>19.83</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J21255379+0024583</td>
+  <td>8.22</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019eho">AT2019eho</a> <a href="http://www.astronomerstelegram.org/?read=12713">ATel 12713</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1212724991045751900/">PS19dbb</a></td>
+  <td>21:27:24.99</td>
+  <td>+04:57:51.9</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.54899</td>
+  <td>20.45</td>
+  <td>w</td>
+  <td>58670.54784</td>
+  <td>21.57</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 20.38</td>
+  <td>2.81</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jwh">AT2019jwh</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1212733511035052900/">PS19cds</a></td>
+  <td>21:27:33.51</td>
+  <td>+03:50:52.9</td>
+  <td>sn</td>
+  <td>NT</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.54899</td>
+  <td>21.65</td>
+  <td>w</td>
+  <td>58647.57335</td>
+  <td>21.59</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.63</td>
+  <td>1.30</td>
+  <td>0.99</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jdl">AT2019jdl</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1212908381020603700/">PS19cop</a></td>
+  <td>21:29:08.38</td>
+  <td>+02:06:03.7</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.54964</td>
+  <td>21.06</td>
+  <td>w</td>
+  <td>58670.54849</td>
+  <td>21.21</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.24</td>
+  <td>2.99</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jns">AT2019jns</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1213834981063203800/">PS19coo</a></td>
+  <td>21:38:34.98</td>
+  <td>+06:32:03.8</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.55093</td>
+  <td>20.83</td>
+  <td>w</td>
+  <td>58670.55369</td>
+  <td>21.82</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.91</td>
+  <td>1.52</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jnt">AT2019jnt</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1214418271064355400/">PS19daz</a></td>
+  <td>21:44:18.27</td>
+  <td>+06:43:55.4</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.55223</td>
+  <td>21.33</td>
+  <td>w</td>
+  <td>58670.55369</td>
+  <td>22.85</td>
+  <td>w</td>
+  <td>SDSS Spectroscopic Galaxies &amp; QSOs DR9</td>
+  <td>1237678723165782662</td>
+  <td>3.31</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jwg">AT2019jwg</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1214430491044958300/">PS19dbe</a></td>
+  <td>21:44:30.49</td>
+  <td>+04:49:58.3</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.55287</td>
+  <td>20.03</td>
+  <td>w</td>
+  <td>58670.55237</td>
+  <td>21.58</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 17.10</td>
+  <td>3.81</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jvm">AT2019jvm</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1215231740004450300/">PS19dbg</a></td>
+  <td>21:52:31.74</td>
+  <td>-00:44:50.3</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.55546</td>
+  <td>20.95</td>
+  <td>w</td>
+  <td>58664.55380</td>
+  <td>22.06</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J21523259-0044451</td>
+  <td>13.19</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jvk">AT2019jvk</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1215429321022826000/">PS19con</a></td>
+  <td>21:54:29.32</td>
+  <td>+02:28:26.0</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.55417</td>
+  <td>21.41</td>
+  <td>w</td>
+  <td>58670.55108</td>
+  <td>22.89</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J21542975+0228228</td>
+  <td>7.18</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jnq">AT2019jnq</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1215607081070538200/">PS19bqi</a></td>
+  <td>21:56:07.08</td>
+  <td>+07:05:38.2</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.55352</td>
+  <td>21.13</td>
+  <td>w</td>
+  <td>58647.57797</td>
+  <td>21.41</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J21560694+0705377</td>
+  <td>2.20</td>
+  <td>0.93</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019irw">AT2019irw</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1215821211015333400/">PS19bfc</a></td>
+  <td>21:58:21.21</td>
+  <td>+01:53:33.4</td>
+  <td>nt</td>
+  <td>NT</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.55417</td>
+  <td>21.97</td>
+  <td>w</td>
+  <td>58645.57918</td>
+  <td>22.10</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.53</td>
+  <td>0.35</td>
+  <td>0.77</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hhl">AT2019hhl</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1220412721054204500/">PS19bje</a></td>
+  <td>22:04:12.72</td>
+  <td>+05:42:04.5</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 9, 2019</td>
+  <td></td>
+  <td>58643.55352</td>
+  <td>21.54</td>
+  <td>w</td>
+  <td>58645.57788</td>
+  <td>21.21</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.95</td>
+  <td>2.89</td>
+  <td>0.86</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019iko">AT2019iko</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1140937391592713300/">PS19dbk</a></td>
+  <td>14:09:37.39</td>
+  <td>+59:27:13.3</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58644.28487</td>
+  <td>19.51</td>
+  <td>i</td>
+  <td>58655.38547</td>
+  <td>19.33</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>SDSS J140937.34+592711.8</td>
+  <td>1.59</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hnq">AT2019hnq</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1143027221610141900/">PS19bxk</a></td>
+  <td>14:30:27.22</td>
+  <td>+61:01:41.9</td>
+  <td>sn</td>
+  <td>NT</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58644.28551</td>
+  <td>19.77</td>
+  <td>i</td>
+  <td>58655.38612</td>
+  <td>19.34</td>
+  <td>i</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 18.03</td>
+  <td>0.74</td>
+  <td>0.99</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019ijq">AT2019ijq</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1150637490164455400/">PS19dbh</a></td>
+  <td>15:06:37.49</td>
+  <td>-16:44:55.4</td>
+  <td>orphan</td>
+  <td>ORPHAN</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58644.32836</td>
+  <td>19.74</td>
+  <td>i</td>
+  <td>58665.38003</td>
+  <td>19.54</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hvc">AT2019hvc</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1160445031631835100/">PS19bqs</a></td>
+  <td>16:04:45.03</td>
+  <td>+63:18:35.1</td>
+  <td>orphan</td>
+  <td>SN</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58644.37759</td>
+  <td>20.23</td>
+  <td>i</td>
+  <td>58644.40538</td>
+  <td>20.20</td>
+  <td>i</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>0.98</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019gbw">AT2019gbw</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1162250381364717700/">PS19dbl</a></td>
+  <td>16:22:50.38</td>
+  <td>+36:47:17.7</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58644.41993</td>
+  <td>19.42</td>
+  <td>i</td>
+  <td>58674.41808</td>
+  <td>18.95</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>SDSS J162250.57+364717.7</td>
+  <td>2.24</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hja">AT2019hja</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1162829261415516500/">PS19bqr</a></td>
+  <td>16:28:29.26</td>
+  <td>+41:55:16.5</td>
+  <td>orphan</td>
+  <td>ORPHAN</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58644.42371</td>
+  <td>19.09</td>
+  <td>i</td>
+  <td>58677.46844</td>
+  <td>19.44</td>
+  <td>i</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>0.92</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019iti">AT2019iti</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1164711451601751900/">PS19cdv</a></td>
+  <td>16:47:11.45</td>
+  <td>+60:17:51.9</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58644.37562</td>
+  <td>20.78</td>
+  <td>i</td>
+  <td>58675.35302</td>
+  <td>21.20</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J16471192+6017521</td>
+  <td>3.41</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jel">AT2019jel</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1170003111144909600/">PS19cdu</a></td>
+  <td>17:00:03.11</td>
+  <td>+14:49:09.6</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58644.53269</td>
+  <td>20.95</td>
+  <td>w</td>
+  <td>58666.33957</td>
+  <td>21.18</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 20.00</td>
+  <td>1.58</td>
+  <td>0.99</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jdq">AT2019jdq</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1170409881154331700/">PS19dbm</a></td>
+  <td>17:04:09.88</td>
+  <td>+15:43:31.7</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58644.53269</td>
+  <td>20.93</td>
+  <td>w</td>
+  <td>58644.56763</td>
+  <td>20.95</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J17040995+1543380</td>
+  <td>6.58</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jwk">AT2019jwk</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1172940061083804000/">PS19coq</a></td>
+  <td>17:29:40.06</td>
+  <td>+08:38:04.0</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58644.53850</td>
+  <td>20.84</td>
+  <td>w</td>
+  <td>58667.39101</td>
+  <td>21.98</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J17293985+0838024</td>
+  <td>3.39</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jnv">AT2019jnv</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1174207441102214400/">PS19dbn</a></td>
+  <td>17:42:07.44</td>
+  <td>+10:22:14.4</td>
+  <td>orphan</td>
+  <td>ORPHAN</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58644.53785</td>
+  <td>21.42</td>
+  <td>w</td>
+  <td>58666.34935</td>
+  <td>21.31</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jwj">AT2019jwj</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1174805931105438000/">PS19dbi</a></td>
+  <td>17:48:05.93</td>
+  <td>+10:54:38.0</td>
+  <td>orphan</td>
+  <td>UNCLEAR</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58644.54044</td>
+  <td>20.56</td>
+  <td>w</td>
+  <td>58666.34935</td>
+  <td>21.64</td>
+  <td>w</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jvl">AT2019jvl</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1233423821051059700/">PS19bqq</a></td>
+  <td>23:34:23.82</td>
+  <td>+05:10:59.7</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58641.57417</td>
+  <td>21.69</td>
+  <td>w</td>
+  <td>58644.59748</td>
+  <td>21.78</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 18.20</td>
+  <td>3.70</td>
+  <td>0.92</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019itj">AT2019itj</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1234325230003103500/">PS19bqp</a></td>
+  <td>23:43:25.23</td>
+  <td>-00:31:03.5</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58641.58253</td>
+  <td>21.60</td>
+  <td>w</td>
+  <td>58644.60084</td>
+  <td>21.64</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>APMUKS(BJ) B234051.27-004743.0</td>
+  <td>2.07</td>
+  <td>0.96</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019itk">AT2019itk</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1234954211024230100/">PS19dbj</a></td>
+  <td>23:49:54.21</td>
+  <td>+02:42:30.1</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 11, 2019</td>
+  <td></td>
+  <td>58644.58325</td>
+  <td>19.52</td>
+  <td>w</td>
+  <td>58644.59955</td>
+  <td>19.48</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>UGC 12799</td>
+  <td>15.17</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hke">AT2019hke</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1000537761070552300/">PS19cdx</a></td>
+  <td>00:05:37.76</td>
+  <td>+07:05:52.3</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.58170</td>
+  <td>21.38</td>
+  <td>w</td>
+  <td>58645.59716</td>
+  <td>21.44</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 18.71</td>
+  <td>1.86</td>
+  <td>0.99</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jeo">AT2019jeo</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1001219811040644200/">PS19bxl</a></td>
+  <td>00:12:19.81</td>
+  <td>+04:06:44.2</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.58492</td>
+  <td>21.29</td>
+  <td>w</td>
+  <td>58645.60038</td>
+  <td>21.27</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 18.72</td>
+  <td>1.53</td>
+  <td>0.99</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019ixc">AT2019ixc</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1001606201041743100/">PS19dbv</a></td>
+  <td>00:16:06.20</td>
+  <td>+04:17:43.1</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.58492</td>
+  <td>21.08</td>
+  <td>w</td>
+  <td>58645.60038</td>
+  <td>21.26</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 20.60</td>
+  <td>5.96</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jvx">AT2019jvx</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1002822021075527100/">PS19dbo</a></td>
+  <td>00:28:22.02</td>
+  <td>+07:55:27.1</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.58363</td>
+  <td>20.74</td>
+  <td>w</td>
+  <td>58645.59909</td>
+  <td>20.64</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.21</td>
+  <td>2.35</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jwm">AT2019jwm</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1121212311603008400/">PS19cor</a></td>
+  <td>12:12:12.31</td>
+  <td>+60:30:08.4</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.26657</td>
+  <td>20.44</td>
+  <td>i</td>
+  <td>58649.32900</td>
+  <td>20.77</td>
+  <td>i</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 18.70</td>
+  <td>2.87</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jnu">AT2019jnu</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1122700881620949800/">PS19dbr</a></td>
+  <td>12:27:00.88</td>
+  <td>+62:09:49.8</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.28863</td>
+  <td>18.59</td>
+  <td>i</td>
+  <td>58649.32964</td>
+  <td>18.67</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>MAPS-NGP O_096_0010713</td>
+  <td>1.58</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019fkl">AT2019fkl</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1124245631734845600/">PS19dbp</a></td>
+  <td>12:42:45.63</td>
+  <td>+73:48:45.6</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.27288</td>
+  <td>19.61</td>
+  <td>i</td>
+  <td>58649.33485</td>
+  <td>19.20</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J12424591+7348360</td>
+  <td>9.56</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hnn">AT2019hnn</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1132417371791414400/">PS19cdw</a></td>
+  <td>13:24:17.37</td>
+  <td>+79:14:14.4</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.31404</td>
+  <td>19.88</td>
+  <td>i</td>
+  <td>58645.33377</td>
+  <td>19.93</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MFGC 10744</td>
+  <td>6.22</td>
+  <td>0.99</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jek">AT2019jek</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1133206241800946500/">PS19dbq</a></td>
+  <td>13:32:06.24</td>
+  <td>+80:09:46.5</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.31404</td>
+  <td>18.71</td>
+  <td>i</td>
+  <td>58645.33377</td>
+  <td>18.67</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J13320685+8009476</td>
+  <td>1.79</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019gzd">AT2019gzd</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1135614631683538900/">PS19bqu</a></td>
+  <td>13:56:14.63</td>
+  <td>+68:35:38.9</td>
+  <td>orphan</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.31061</td>
+  <td>20.04</td>
+  <td>i</td>
+  <td>58645.33117</td>
+  <td>19.96</td>
+  <td>i</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>0.98</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019ith">AT2019ith</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1143833991500513900/">PS19dbt</a></td>
+  <td>14:38:33.99</td>
+  <td>+50:05:13.9</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.33907</td>
+  <td>18.79</td>
+  <td>i</td>
+  <td>58684.25402</td>
+  <td>20.28</td>
+  <td>z</td>
+  <td>NASA Extragalactic Database</td>
+  <td>SDSS J143834.31+500512.4</td>
+  <td>3.40</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019fyj">AT2019fyj</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1144636561561403100/">PS19dbs</a></td>
+  <td>14:46:36.56</td>
+  <td>+56:14:03.1</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.34443</td>
+  <td>19.25</td>
+  <td>i</td>
+  <td>58684.35723</td>
+  <td>19.61</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>MCG +09-24-038</td>
+  <td>6.18</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019ewb">AT2019ewb</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1152537131472027300/">PS19bfo</a></td>
+  <td>15:25:37.13</td>
+  <td>+47:20:27.3</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.37124</td>
+  <td>19.10</td>
+  <td>i</td>
+  <td>58678.40410</td>
+  <td>19.44</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J15253707+4720315</td>
+  <td>4.46</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hie">AT2019hie</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1152608441353013100/">PS19bga</a></td>
+  <td>15:26:08.44</td>
+  <td>+35:30:13.1</td>
+  <td>sn</td>
+  <td>NT</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.42718</td>
+  <td>20.59</td>
+  <td>i</td>
+  <td>58660.32296</td>
+  <td>21.15</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 18.49</td>
+  <td>1.23</td>
+  <td>0.68</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hov">AT2019hov</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1153639411564150400/">PS19bqt</a></td>
+  <td>15:36:39.41</td>
+  <td>+56:41:50.4</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.37512</td>
+  <td>20.16</td>
+  <td>i</td>
+  <td>58674.35936</td>
+  <td>21.37</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>SBS 1535+568</td>
+  <td>3.86</td>
+  <td>0.94</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019gce">AT2019gce</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1153748051345516600/">PS19bfm</a></td>
+  <td>15:37:48.05</td>
+  <td>+34:55:16.6</td>
+  <td>sn</td>
+  <td>NT</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.42653</td>
+  <td>18.54</td>
+  <td>i</td>
+  <td>58677.39324</td>
+  <td>18.94</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>SDSS J153748.12+345517.0</td>
+  <td>0.81</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019gbu">AT2019gbu</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1160942930042318000/">PS19bfn</a></td>
+  <td>16:09:42.93</td>
+  <td>-04:23:18.0</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.48446</td>
+  <td>17.18</td>
+  <td>w</td>
+  <td>58668.44481</td>
+  <td>17.80</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J16094233-0423164</td>
+  <td>8.96</td>
+  <td>1.00</td>
+  <td><a href="http://www.astronomerstelegram.org/?read=12856">ATel 12856</a> <a href="http://wis-tns.weizmann.ac.il/object/2019gis">SN2019gis</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1212939401030852800/">PS19bfl</a></td>
+  <td>21:29:39.40</td>
+  <td>+03:08:52.8</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.53498</td>
+  <td>18.98</td>
+  <td>w</td>
+  <td>58670.54913</td>
+  <td>18.46</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J21293961+0308567</td>
+  <td>4.71</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hll">AT2019hll</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1213132410001644700/">PS19bgb</a></td>
+  <td>21:31:32.41</td>
+  <td>-00:16:44.7</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.53563</td>
+  <td>20.82</td>
+  <td>w</td>
+  <td>58664.54929</td>
+  <td>21.44</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J21313251-0016463</td>
+  <td>2.43</td>
+  <td>0.75</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hoy">AT2019hoy</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1214238821034839700/">PS19bfp</a></td>
+  <td>21:42:38.82</td>
+  <td>+03:48:39.7</td>
+  <td>sn</td>
+  <td>NT</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.53692</td>
+  <td>19.74</td>
+  <td>w</td>
+  <td>58670.55237</td>
+  <td>20.89</td>
+  <td>w</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J21423815+0348418</td>
+  <td>10.11</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hiw">AT2019hiw</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1220124801015615300/">PS19cdy</a></td>
+  <td>22:01:24.80</td>
+  <td>+01:56:15.3</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.54015</td>
+  <td>21.61</td>
+  <td>w</td>
+  <td>58670.55108</td>
+  <td>23.07</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>Faint src (galaxy), r = 21.83</td>
+  <td>2.58</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jen">AT2019jen</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1220450131042613100/">PS19bqv</a></td>
+  <td>22:04:50.13</td>
+  <td>+04:26:13.1</td>
+  <td>sn</td>
+  <td>NT</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.53951</td>
+  <td>21.65</td>
+  <td>w</td>
+  <td>58662.59541</td>
+  <td>22.08</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.45</td>
+  <td>0.87</td>
+  <td>0.93</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019ito">AT2019ito</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1235951261110733000/">PS19dbu</a></td>
+  <td>23:59:51.26</td>
+  <td>+11:07:33.0</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 12, 2019</td>
+  <td></td>
+  <td>58645.58235</td>
+  <td>20.60</td>
+  <td>w</td>
+  <td>58645.59780</td>
+  <td>20.66</td>
+  <td>w</td>
+  <td>SDSS Stars &amp; Galaxies DR9</td>
+  <td>galaxy, r = 19.84</td>
+  <td>2.04</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jvz">AT2019jvz</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1122555101530543700/">PS19bjf</a></td>
+  <td>12:25:55.10</td>
+  <td>+53:05:43.7</td>
+  <td>sn</td>
+  <td>NT</td>
+  <td>June 13, 2019</td>
+  <td></td>
+  <td>58646.27092</td>
+  <td>20.58</td>
+  <td>i</td>
+  <td>58648.35921</td>
+  <td>20.54</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>MAPS-NGP O_131_0217657</td>
+  <td>3.90</td>
+  <td>0.83</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019ikn">AT2019ikn</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1123935561452237700/">PS19dca</a></td>
+  <td>12:39:35.56</td>
+  <td>+45:22:37.7</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 13, 2019</td>
+  <td></td>
+  <td>58646.26483</td>
+  <td>18.12</td>
+  <td>i</td>
+  <td>58648.35447</td>
+  <td>18.25</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J12393547+4522400</td>
+  <td>3.09</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019gci">AT2019gci</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1131932591331504300/">PS19dcf</a></td>
+  <td>13:19:32.59</td>
+  <td>+33:15:04.3</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 13, 2019</td>
+  <td></td>
+  <td>58647.30616</td>
+  <td>19.10</td>
+  <td>i</td>
+  <td>58678.32240</td>
+  <td>20.30</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>KUG 1317+335</td>
+  <td>2.03</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019jvh">AT2019jvh</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1133254491320608800/">PS19dcg</a></td>
+  <td>13:32:54.49</td>
+  <td>+32:06:08.8</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 13, 2019</td>
+  <td></td>
+  <td>58647.30681</td>
+  <td>19.34</td>
+  <td>i</td>
+  <td>58678.33139</td>
+  <td>18.97</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>2MASX J13325477+3206124</td>
+  <td>5.89</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019hnu">AT2019hnu</a> </td>
+  </tr>
+  
+
+  
+  <tr>
+  <td><a href="../candidate/1134021201312301500/">PS19dcd</a></td>
+  <td>13:40:21.20</td>
+  <td>+31:23:01.5</td>
+  <td>sn</td>
+  <td>SN</td>
+  <td>June 13, 2019</td>
+  <td></td>
+  <td>58647.30406</td>
+  <td>18.92</td>
+  <td>i</td>
+  <td>58678.33011</td>
+  <td>19.23</td>
+  <td>i</td>
+  <td>NASA Extragalactic Database</td>
+  <td>UGC 08653</td>
+  <td>4.43</td>
+  <td>1.00</td>
+  <td><a href="http://wis-tns.weizmann.ac.il/object/2019heg">AT2019heg</a> </td>
+  </tr>
+  
+
+
+
+
+<div class="pagination">
+    
+        <a href="?page=176&amp;sort=followup_flag_date" class="prev">&lsaquo;&lsaquo; previous</a>
+    
+    
+        
+            
+                <a href="?page=1&amp;sort=followup_flag_date" class="page">1</a>
+            
+        
+    
+        
+            
+                <a href="?page=2&amp;sort=followup_flag_date" class="page">2</a>
+            
+        
+    
+        
+            
+                <a href="?page=3&amp;sort=followup_flag_date" class="page">3</a>
+            
+        
+    
+        
+            
+                <a href="?page=4&amp;sort=followup_flag_date" class="page">4</a>
+            
+        
+    
+        
+            ...
+        
+    
+        
+            
+                <a href="?page=173&amp;sort=followup_flag_date" class="page">173</a>
+            
+        
+    
+        
+            
+                <a href="?page=174&amp;sort=followup_flag_date" class="page">174</a>
+            
+        
+    
+        
+            
+                <a href="?page=175&amp;sort=followup_flag_date" class="page">175</a>
+            
+        
+    
+        
+            
+                <a href="?page=176&amp;sort=followup_flag_date" class="page">176</a>
+            
+        
+    
+        
+            
+                <span class="current page">177</span>
+            
+        
+    
+        
+            
+                <a href="?page=178&amp;sort=followup_flag_date" class="page">178</a>
+            
+        
+    
+        
+            
+                <a href="?page=179&amp;sort=followup_flag_date" class="page">179</a>
+            
+        
+    
+        
+            
+                <a href="?page=180&amp;sort=followup_flag_date" class="page">180</a>
+            
+        
+    
+        
+            
+                <a href="?page=181&amp;sort=followup_flag_date" class="page">181</a>
+            
+        
+    
+        
+            
+                <a href="?page=182&amp;sort=followup_flag_date" class="page">182</a>
+            
+        
+    
+        
+            
+                <a href="?page=183&amp;sort=followup_flag_date" class="page">183</a>
+            
+        
+    
+        
+            
+                <a href="?page=184&amp;sort=followup_flag_date" class="page">184</a>
+            
+        
+    
+    
+        <a href="?page=178&amp;sort=followup_flag_date" class="next">next &rsaquo;&rsaquo;</a>
+    
+</div>
+
+
+
+</table>
+
+
+</article>
+</section>
+</div>
+
+</body>
+</html>
