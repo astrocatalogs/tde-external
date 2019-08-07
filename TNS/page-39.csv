@@ -1,1 +1,7 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Remarks","Ext. catalog/s"
+"42706","AT 2019mud","00:43:23.890","+41:43:06.10","","","","","MASTER","","MASTER","MASTER OT J004323.89+414306.1","Other - Other","","1","1","","19.8","Clear-","2019-08-05 04:39:25","MASTER","",""
+"42707","AT 2019mue","19:41:19.712","+51:48:59.71","","","","","ZTF","","ZTF","ZTF19abmylxw","P48 - ZTF-Cam","","1","1","","19.77","g-ZTF","2019-08-04 07:39:21","ZTF_TESS","","TESS-active sector/s (14);TESS-Sector14"
+"42708","AT 2019muf","20:43:44.718","+27:21:54.52","","","","","ZTF","","ZTF","ZTF19abnnpdh","P48 - ZTF-Cam","","1","1","","19.15","r-ZTF","2019-08-05 07:10:33","ZTF_TESS","","TESS-active sector/s (14);TESS-Sector14"
+"42709","AT 2019mug","23:01:53.467","+06:09:12.71","","","","","ZTF","","ZTF","ZTF19abjnwcy","P48 - ZTF-Cam","","1","1","","20.61","r-ZTF","2019-07-29 09:05:45","ZTF_Bot1","",""
+"42710","AT 2019muh","04:59:50.848","+21:21:36.83","","","","","ZTF","","ZTF","ZTF19abmqasg","P48 - ZTF-Cam","","1","1","","18.31","g-ZTF","2019-08-03 11:18:14","ZTF_Bot1","",""
+"42711","AT 2019mui","18:14:33.824","+41:14:22.51","","","2MASS J18160879+4115501","","ALeRCE","","ALeRCE","ZTF19abnxglw","P48 - ZTF-Cam","","1","1","","20.4493","g-ZTF","2019-08-06 07:31:57","ALeRCE","",""
