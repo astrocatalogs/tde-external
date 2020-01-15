@@ -1,4 +1,5 @@
-[{"id":28113,"ivorn":"ivo://Gaia20acq","published":"2020-01-13T06:55:25","ra":247.196,"dec":3.85261111111,"nfollowup":2}, 
+[{"id":28114,"ivorn":"ivo://Gaia20abf","published":"2020-01-14T10:35:05","ra":218.78392,"dec":-61.51546,"nfollowup":2}, 
+ {"id":28113,"ivorn":"ivo://Gaia20acq","published":"2020-01-13T06:55:25","ra":247.196,"dec":3.85261111111,"nfollowup":2}, 
  {"id":28112,"ivorn":"ivo://Gaia20abp","published":"2020-01-13T06:24:33","ra":245.164,"dec":14.7376111111,"nfollowup":3}, 
  {"id":28111,"ivorn":"ivo://Gaia20aaj","published":"2020-01-13T06:04:46","ra":234.731,"dec":4.57808333333,"nfollowup":3}, 
  {"id":28110,"ivorn":"ivo://Gaia19fnh","published":"2020-01-13T04:57:42","ra":131.254,"dec":49.312,"nfollowup":3}, 
