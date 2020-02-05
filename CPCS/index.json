@@ -16,7 +16,7 @@
  {"id":28146,"ivorn":"ivo://Gaia19frb","published":"2020-01-20T04:09:20","ra":193.179,"dec":7.9435,"nfollowup":2}, 
  {"id":28145,"ivorn":"ivo://Gaia20aen","published":"2020-01-18T06:56:30","ra":254.538,"dec":7.691,"nfollowup":2}, 
  {"id":28144,"ivorn":"ivo://Gaia20abr","published":"2020-01-18T06:36:40","ra":264.602,"dec":52.7431944444,"nfollowup":3}, 
- {"id":28143,"ivorn":"ivo://SN2020oi","published":"2020-01-18T03:03:00","ra":185.729,"dec":15.8236111111,"nfollowup":37}, 
+ {"id":28143,"ivorn":"ivo://SN2020oi","published":"2020-01-18T03:03:00","ra":185.729,"dec":15.8236111111,"nfollowup":39}, 
  {"id":28142,"ivorn":"ivo://Gaia19fth","published":"2020-01-18T00:26:08","ra":40.9979166667,"dec":32.5283055556,"nfollowup":2}, 
  {"id":28141,"ivorn":"ivo://Gaia20agq","published":"2020-01-18T00:11:57","ra":54.4529166667,"dec":3.27211111111,"nfollowup":2}, 
  {"id":28140,"ivorn":"ivo://Gaia20adv","published":"2020-01-17T23:44:06","ra":42.6960833333,"dec":33.5126111111,"nfollowup":3}, 
