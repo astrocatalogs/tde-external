@@ -549,7 +549,7 @@
  {"id":27573,"ivorn":"ivo://Gaia19bls","published":"2019-05-14T07:05:16","ra":338.656,"dec":0.175722222222,"nfollowup":1}, 
  {"id":27572,"ivorn":"ivo://Gaia19bmk","published":"2019-05-14T05:50:22","ra":343.871,"dec":25.7778888889,"nfollowup":3}, 
  {"id":27571,"ivorn":"ivo://Gaia19bkd","published":"2019-05-14T05:30:36","ra":343.708,"dec":36.5436111111,"nfollowup":3}, 
- {"id":27570,"ivorn":"ivo://Gaia19bld","published":"2019-05-13T23:39:13","ra":189.38565,"dec":-66.11136,"nfollowup":5821}, 
+ {"id":27570,"ivorn":"ivo://Gaia19bld","published":"2019-05-13T23:39:13","ra":189.38565,"dec":-66.11136,"nfollowup":5908}, 
  {"id":27569,"ivorn":"ivo://Gaia19bmp","published":"2019-05-13T22:28:28","ra":165.5601,"dec":-61.08187,"nfollowup":6}, 
  {"id":27568,"ivorn":"ivo://Gaia19bkh","published":"2019-05-13T05:59:03","ra":328.342,"dec":3.07883333333,"nfollowup":3}, 
  {"id":27567,"ivorn":"ivo://Gaia19bqc","published":"2019-05-11T05:17:32","ra":322.61,"dec":43.2916111111,"nfollowup":3}, 
