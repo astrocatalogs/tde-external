@@ -3,7 +3,7 @@
  {"id":28440,"ivorn":"ivo://Gaia20bkw","published":"2020-04-14T09:15:03","ra":293.32279,"dec":17.37005,"nfollowup":17}, 
  {"id":28439,"ivorn":"ivo://Gaia20blp","published":"2020-04-14T09:13:47","ra":307.46952,"dec":37.30814,"nfollowup":11}, 
  {"id":28438,"ivorn":"ivo://Gaia20blb","published":"2020-04-14T09:05:48","ra":281.01287,"dec":0.49044,"nfollowup":39}, 
- {"id":28437,"ivorn":"ivo://Gaia20bpl","published":"2020-04-14T09:04:20","ra":47.96933,"dec":60.53698,"nfollowup":22}, 
+ {"id":28437,"ivorn":"ivo://Gaia20bpl","published":"2020-04-14T09:04:20","ra":47.96933,"dec":60.53698,"nfollowup":27}, 
  {"id":28421,"ivorn":"ivo://Gaia20bof","published":"2020-04-07T00:08:05","ra":184.61816,"dec":-63.49726,"nfollowup":141}, 
  {"id":28419,"ivorn":"ivo://gaia.cam.uk/alerts#Gaia19dqe","published":"2020-04-03T16:16:09","ra":99.8562916667,"dec":0.369861111111,"nfollowup":198}, 
  {"id":28413,"ivorn":"ivo://Gaia20bjo","published":"2020-04-01T10:58:48","ra":250.86338,"dec":-37.62692,"nfollowup":6}, 
