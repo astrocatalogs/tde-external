@@ -1725,7 +1725,7 @@
  {"id":26430,"ivorn":"ivo://Gaia16azk","published":"2016-11-10T03:05:12","ra":83.0875,"dec":3.95875,"nfollowup":118}, 
  {"id":26429,"ivorn":"ivo://Gaia16boj","published":"2016-11-07T11:29:29","ra":88.34855,"dec":50.38176,"nfollowup":1}, 
  {"id":26428,"ivorn":"ivo://Gaia16bqh","published":"2016-11-07T10:54:47","ra":68.21489,"dec":54.22959,"nfollowup":2}, 
- {"id":26423,"ivorn":"ivo://Gaia16bnz","published":"2016-10-31T02:33:02","ra":55.07493,"dec":49.35893,"nfollowup":2487}, 
+ {"id":26423,"ivorn":"ivo://Gaia16bnz","published":"2016-10-31T02:33:02","ra":55.07493,"dec":49.35893,"nfollowup":2491}, 
  {"id":26422,"ivorn":"ivo://Gaia16azh","published":"2016-10-30T06:00:54","ra":81.075,"dec":9.17702777778,"nfollowup":24}, 
  {"id":26421,"ivorn":"ivo://Gaia16aww","published":"2016-10-29T06:51:54","ra":79.3375,"dec":12.5446944444,"nfollowup":57}, 
  {"id":26420,"ivorn":"ivo://Gaia16bos","published":"2016-10-27T22:01:13","ra":336.22065,"dec":53.50042,"nfollowup":12}, 
